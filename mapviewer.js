@@ -131,7 +131,7 @@ class WorldMap extends React.Component {
 					Bosses: map.Bosses,
 					Shops: map.Shops,
 					Ships: map.Ships,
-					TradeWinds: map.TradeWinds.addTo(map),
+					TradeWinds: map.TradeWinds,
 					Stones: map.Stones,
 				},
 				{
