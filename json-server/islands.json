@@ -16,6 +16,7 @@
 		"id": 1219,
 		"isControlPoint": false,
 		"islandHeight": 255000,
+		"islandPoints": 46,
 		"islandWidth": 255000,
 		"name": "Cove_A_Tor",
 		"region": "",
@@ -76,6 +77,7 @@
 		"id": 1220,
 		"isControlPoint": false,
 		"islandHeight": 255000,
+		"islandPoints": 46,
 		"islandWidth": 255000,
 		"name": "Cove_A_Tor",
 		"region": "",
@@ -136,6 +138,7 @@
 		"id": 1221,
 		"isControlPoint": false,
 		"islandHeight": 255000,
+		"islandPoints": 46,
 		"islandWidth": 255000,
 		"name": "Cove_A_Tor",
 		"region": "",
@@ -196,6 +199,7 @@
 		"id": 1222,
 		"isControlPoint": false,
 		"islandHeight": 255000,
+		"islandPoints": 46,
 		"islandWidth": 255000,
 		"name": "Cove_A_Tor",
 		"region": "",
@@ -802,6 +806,7 @@
 		"id": 1224,
 		"isControlPoint": false,
 		"islandHeight": 152000,
+		"islandPoints": 24,
 		"islandWidth": 152000,
 		"maps": [
 			[
@@ -2820,6 +2825,7 @@
 		"id": 1225,
 		"isControlPoint": false,
 		"islandHeight": 306000,
+		"islandPoints": 57,
 		"islandWidth": 306000,
 		"maps": [
 			[
@@ -3812,6 +3818,7 @@
 		"id": 1226,
 		"isControlPoint": false,
 		"islandHeight": 255000,
+		"islandPoints": 46,
 		"islandWidth": 255000,
 		"maps": [
 			[
@@ -4710,6 +4717,7 @@
 		"id": 1229,
 		"isControlPoint": false,
 		"islandHeight": 306000,
+		"islandPoints": -1,
 		"islandWidth": 306000,
 		"name": "Mnt_Y_WU_PVE",
 		"region": "",
@@ -5687,6 +5695,7 @@
 		"id": 1230,
 		"isControlPoint": false,
 		"islandHeight": 306000,
+		"islandPoints": -1,
 		"islandWidth": 306000,
 		"name": "Mnt_X_WR_PVE",
 		"region": "",
@@ -7095,11 +7104,13 @@
 		"id": 1232,
 		"isControlPoint": false,
 		"islandHeight": 306000,
+		"islandPoints": -1,
 		"islandWidth": 306000,
 		"name": "Mnt_U_ER_PVE",
 		"region": "",
 		"resources": {
 			"Bark": 4175,
+			"Bone Chips": 1,
 			"Cedar": 7106,
 			"Chalcedony": 2895,
 			"Chert": 8529,
@@ -9488,12 +9499,14 @@
 		"id": 1233,
 		"isControlPoint": false,
 		"islandHeight": 306000,
+		"islandPoints": -1,
 		"islandWidth": 306000,
 		"name": "Mnt_S_WT_PVE",
 		"region": "",
 		"resources": {
 			"Ash": 14830,
 			"Bark": 10394,
+			"Bone Chips": 1,
 			"Emerald": 63,
 			"Fir": 25,
 			"FreshWater": 2,
@@ -11896,6 +11909,7 @@
 		"id": 1234,
 		"isControlPoint": false,
 		"islandHeight": 306000,
+		"islandPoints": -1,
 		"islandWidth": 306000,
 		"name": "Mnt_R_CL_PVE",
 		"region": "",
@@ -14288,6 +14302,7 @@
 		"id": 1235,
 		"isControlPoint": false,
 		"islandHeight": 306000,
+		"islandPoints": -1,
 		"islandWidth": 306000,
 		"name": "Mnt_R_CH_PVE",
 		"region": "",
@@ -17280,6 +17295,7 @@
 		"id": 1236,
 		"isControlPoint": false,
 		"islandHeight": 306000,
+		"islandPoints": -1,
 		"islandWidth": 306000,
 		"name": "Mnt_G_ET_PVE",
 		"region": "",
@@ -21331,6 +21347,7 @@
 		"id": 1237,
 		"isControlPoint": false,
 		"islandHeight": 532000,
+		"islandPoints": -1,
 		"islandWidth": 532000,
 		"name": "Cay_C_EE_PVE",
 		"region": "",
@@ -24473,6 +24490,7 @@
 		"id": 1240,
 		"isControlPoint": false,
 		"islandHeight": 306000,
+		"islandPoints": -1,
 		"islandWidth": 306000,
 		"maps": [
 			[
@@ -24557,6 +24575,7 @@
 		"id": 1241,
 		"isControlPoint": false,
 		"islandHeight": 42800,
+		"islandPoints": 0,
 		"islandWidth": 42800,
 		"name": "Ice_C_PO",
 		"region": "",
@@ -24578,6 +24597,7 @@
 		"id": 1242,
 		"isControlPoint": false,
 		"islandHeight": 47600,
+		"islandPoints": 0,
 		"islandWidth": 47600,
 		"name": "Ice_D_PO",
 		"region": "",
@@ -24608,6 +24628,7 @@
 		"id": 1264,
 		"isControlPoint": false,
 		"islandHeight": 406500,
+		"islandPoints": -1,
 		"islandWidth": 406500,
 		"name": "Trench_B",
 		"region": "",
@@ -24650,6 +24671,7 @@
 		"id": 1265,
 		"isControlPoint": false,
 		"islandHeight": 406500,
+		"islandPoints": -1,
 		"islandWidth": 406500,
 		"name": "Trench_B",
 		"region": "",
@@ -24692,6 +24714,7 @@
 		"id": 1266,
 		"isControlPoint": false,
 		"islandHeight": 406500,
+		"islandPoints": -1,
 		"islandWidth": 406500,
 		"name": "Trench_B",
 		"region": "",
@@ -24734,6 +24757,7 @@
 		"id": 1267,
 		"isControlPoint": false,
 		"islandHeight": 406500,
+		"islandPoints": -1,
 		"islandWidth": 406500,
 		"name": "Trench_B",
 		"region": "",
@@ -24767,6 +24791,7 @@
 		"id": 1269,
 		"isControlPoint": true,
 		"islandHeight": 60000,
+		"islandPoints": 8,
 		"islandWidth": 60000,
 		"name": "Seafort_B",
 		"region": "",
@@ -29172,6 +29197,7 @@
 		"id": 1272,
 		"isControlPoint": false,
 		"islandHeight": 306000,
+		"islandPoints": 57,
 		"islandWidth": 306000,
 		"maps": [
 			[
@@ -29210,6 +29236,7 @@
 		"resources": {
 			"Bark": 4479,
 			"Basalt": 30852,
+			"Bone Chips": 1,
 			"Cedar": 11,
 			"Chick Pea Seed": 518,
 			"Cotton": 15775,
@@ -29258,6 +29285,7 @@
 		"id": 1275,
 		"isControlPoint": true,
 		"islandHeight": 60000,
+		"islandPoints": 8,
 		"islandWidth": 60000,
 		"name": "Seafort_B",
 		"region": "",
@@ -31227,6 +31255,7 @@
 		"id": 1291,
 		"isControlPoint": false,
 		"islandHeight": 306000,
+		"islandPoints": 57,
 		"islandWidth": 306000,
 		"maps": [
 			[
@@ -31266,6 +31295,7 @@
 			"Acai": 921,
 			"Bark": 3536,
 			"Basalt": 5066,
+			"Bone Chips": 1,
 			"Cocoa": 531,
 			"Fir": 531,
 			"FreshWater": 3,
@@ -33541,6 +33571,7 @@
 		"id": 1292,
 		"isControlPoint": false,
 		"islandHeight": 306000,
+		"islandPoints": 57,
 		"islandWidth": 306000,
 		"maps": [
 			[
@@ -36285,6 +36316,7 @@
 		"id": 1293,
 		"isControlPoint": false,
 		"islandHeight": 306000,
+		"islandPoints": 57,
 		"islandWidth": 306000,
 		"maps": [
 			[
@@ -38048,6 +38080,7 @@
 		"id": 1294,
 		"isControlPoint": false,
 		"islandHeight": 306000,
+		"islandPoints": 57,
 		"islandWidth": 306000,
 		"maps": [
 			[
@@ -38927,12 +38960,14 @@
 		"id": 1295,
 		"isControlPoint": false,
 		"islandHeight": 306000,
+		"islandPoints": -1,
 		"islandWidth": 306000,
 		"name": "Mnt_Y_EU_PVE",
 		"region": "",
 		"resources": {
 			"Arctic Raspberry": 628,
 			"Bark": 2503,
+			"Bone Chips": 1,
 			"Chalcedony": 7917,
 			"FreshWater": 1,
 			"Granite": 16889,
@@ -38976,6 +39011,7 @@
 		"id": 1296,
 		"isControlPoint": false,
 		"islandHeight": 406500,
+		"islandPoints": -1,
 		"islandWidth": 406500,
 		"name": "Trench_B",
 		"region": "",
@@ -39018,6 +39054,7 @@
 		"id": 1297,
 		"isControlPoint": false,
 		"islandHeight": 406500,
+		"islandPoints": -1,
 		"islandWidth": 406500,
 		"name": "Trench_B",
 		"region": "",
@@ -39060,6 +39097,7 @@
 		"id": 1298,
 		"isControlPoint": false,
 		"islandHeight": 406500,
+		"islandPoints": -1,
 		"islandWidth": 406500,
 		"name": "Trench_B",
 		"region": "",
@@ -39102,6 +39140,7 @@
 		"id": 1299,
 		"isControlPoint": false,
 		"islandHeight": 406500,
+		"islandPoints": -1,
 		"islandWidth": 406500,
 		"name": "Trench_B",
 		"region": "",
@@ -39144,6 +39183,7 @@
 		"id": 1300,
 		"isControlPoint": false,
 		"islandHeight": 406500,
+		"islandPoints": -1,
 		"islandWidth": 406500,
 		"name": "Trench_B",
 		"region": "",
@@ -39311,6 +39351,7 @@
 		"id": 1303,
 		"isControlPoint": false,
 		"islandHeight": 127500,
+		"islandPoints": -1,
 		"islandWidth": 127500,
 		"name": "Fish_Shop_Island",
 		"region": "",
@@ -40532,6 +40573,7 @@
 		"id": 1309,
 		"isControlPoint": false,
 		"islandHeight": 204000,
+		"islandPoints": -1,
 		"islandWidth": 204000,
 		"maps": [
 			[
@@ -41798,6 +41840,7 @@
 		"id": 1310,
 		"isControlPoint": false,
 		"islandHeight": 204000,
+		"islandPoints": -1,
 		"islandWidth": 204000,
 		"maps": [
 			[
@@ -43064,6 +43107,7 @@
 		"id": 1311,
 		"isControlPoint": false,
 		"islandHeight": 204000,
+		"islandPoints": -1,
 		"islandWidth": 204000,
 		"maps": [
 			[
@@ -44330,6 +44374,7 @@
 		"id": 1312,
 		"isControlPoint": false,
 		"islandHeight": 204000,
+		"islandPoints": -1,
 		"islandWidth": 204000,
 		"maps": [
 			[
@@ -47358,6 +47403,7 @@
 		"id": 1318,
 		"isControlPoint": false,
 		"islandHeight": 306000,
+		"islandPoints": 57,
 		"islandWidth": 306000,
 		"maps": [
 			[
@@ -48907,6 +48953,7 @@
 		"id": 1319,
 		"isControlPoint": false,
 		"islandHeight": 204000,
+		"islandPoints": 35,
 		"islandWidth": 204000,
 		"maps": [
 			[
@@ -48947,6 +48994,7 @@
 			"Ash": 15038,
 			"Bark": 9861,
 			"Basalt": 25465,
+			"Bone Chips": 1,
 			"Carrot Seed": 1990,
 			"Chamomile": 1426,
 			"Coquina": 1069,
@@ -50533,6 +50581,7 @@
 		"id": 1320,
 		"isControlPoint": false,
 		"islandHeight": 204000,
+		"islandPoints": 53,
 		"islandWidth": 204000,
 		"maps": [
 			[
@@ -50573,6 +50622,7 @@
 			"Bark": 1747,
 			"Basalt": 2870,
 			"Bean Seed": 81,
+			"Bone Chips": 1,
 			"Cedar": 4561,
 			"Chalcedony": 103,
 			"Chert": 79,
@@ -51296,6 +51346,7 @@
 		"id": 1321,
 		"isControlPoint": false,
 		"islandHeight": 306000,
+		"islandPoints": 57,
 		"islandWidth": 306000,
 		"maps": [
 			[
@@ -51336,6 +51387,7 @@
 			"Bark": 1144,
 			"Basalt": 18379,
 			"Basil": 307,
+			"Bone Chips": 1,
 			"Chert": 242,
 			"Chick Pea Seed": 196,
 			"Cobalt": 493,
@@ -53782,6 +53834,7 @@
 		"id": 1322,
 		"isControlPoint": false,
 		"islandHeight": 306000,
+		"islandPoints": 57,
 		"islandWidth": 306000,
 		"maps": [
 			[
@@ -53821,6 +53874,7 @@
 			"Bark": 4729,
 			"Basalt": 22898,
 			"Bilberry": 1503,
+			"Brimstone": 1,
 			"Cactus": 2594,
 			"Cactus Seed": 900,
 			"Calcite": 215,
@@ -55336,6 +55390,7 @@
 		"id": 1329,
 		"isControlPoint": false,
 		"islandHeight": 204000,
+		"islandPoints": 35,
 		"islandWidth": 204000,
 		"maps": [
 			[
