@@ -5,16 +5,16 @@
 			-1
 		],
 		"DestNorth": [
-			-1,
-			-1
+			0,
+			3
 		],
 		"DestSouth": [
 			-1,
 			-1
 		],
 		"DestWest": [
-			-1,
-			-1
+			4,
+			0
 		],
 		"animals": [
 			"Cat",
@@ -107,8 +107,8 @@
 			-1
 		],
 		"DestWest": [
-			-1,
-			-1
+			4,
+			1
 		],
 		"animals": [
 			"Anglerfish",
@@ -228,8 +228,8 @@
 			-1
 		],
 		"DestWest": [
-			-1,
-			-1
+			4,
+			2
 		],
 		"animals": [
 			"Ant",
@@ -333,8 +333,8 @@
 			4
 		],
 		"DestWest": [
-			-1,
-			-1
+			4,
+			3
 		],
 		"animals": [
 			"Anglerfish",
@@ -504,8 +504,8 @@
 			-1
 		],
 		"DestNorth": [
-			-1,
-			-1
+			1,
+			4
 		],
 		"DestSouth": [
 			-1,
@@ -803,8 +803,8 @@
 			-1
 		],
 		"DestSouth": [
-			1,
-			0
+			-1,
+			-1
 		],
 		"DestWest": [
 			-1,
@@ -855,12 +855,12 @@
 			-1
 		],
 		"DestSouth": [
-			-1,
-			-1
+			1,
+			0
 		],
 		"DestWest": [
-			-1,
-			-1
+			4,
+			4
 		],
 		"animals": [],
 		"biomes": [],
@@ -903,8 +903,8 @@
 			-1
 		],
 		"DestNorth": [
-			-1,
-			-1
+			2,
+			4
 		],
 		"DestSouth": [
 			-1,
@@ -1155,9 +1155,6 @@
 			"Scorpion",
 			"Seagull",
 			"Sheep",
-			"ShipNPC Brig",
-			"ShipNPC Galleon",
-			"ShipNPC Schooner",
 			"Spider",
 			"Tiger",
 			"Turtle",
@@ -1166,7 +1163,6 @@
 		"biomes": [
 			"Equatorial",
 			"Equatorial Ocean Water",
-			"Eastern Tropics",
 			"Equatorial At Land",
 			"Equator",
 			"Western Tropics"
@@ -1368,12 +1364,12 @@
 			-1
 		],
 		"DestSouth": [
-			-1,
-			-1
+			2,
+			0
 		],
 		"DestWest": [
-			1,
-			4
+			-1,
+			-1
 		],
 		"animals": [
 			"Anglerfish",
@@ -1489,8 +1485,8 @@
 			-1
 		],
 		"DestNorth": [
-			-1,
-			-1
+			3,
+			4
 		],
 		"DestSouth": [
 			-1,
@@ -1811,7 +1807,6 @@
 		"name": "",
 		"region": "",
 		"resources": [
-			"Anthracite",
 			"Ash",
 			"Bamboo",
 			"Bark",
@@ -1822,12 +1817,10 @@
 			"Chamomile",
 			"Coquina",
 			"Elderberry",
-			"Emerald",
 			"Fir",
 			"FreshWater",
 			"Fronds",
 			"Geode",
-			"Granite",
 			"Hemp",
 			"Iron",
 			"Licorice",
@@ -1849,7 +1842,10 @@
 			"Slate",
 			"Straw",
 			"Strawberry",
+			"Sulfur",
+			"Sunstone",
 			"Syrup",
+			"Tellurite",
 			"Tin",
 			"Twigs",
 			"Wild Carrot",
@@ -1890,8 +1886,8 @@
 			-1
 		],
 		"DestSouth": [
-			-1,
-			-1
+			3,
+			0
 		],
 		"DestWest": [
 			-1,
@@ -1984,12 +1980,12 @@
 	},
 	"E1": {
 		"DestEast": [
-			-1,
-			-1
+			0,
+			0
 		],
 		"DestNorth": [
-			-1,
-			-1
+			4,
+			4
 		],
 		"DestSouth": [
 			-1,
@@ -2097,8 +2093,8 @@
 	},
 	"E2": {
 		"DestEast": [
-			-1,
-			-1
+			0,
+			1
 		],
 		"DestNorth": [
 			-1,
@@ -2205,8 +2201,8 @@
 	},
 	"E3": {
 		"DestEast": [
-			-1,
-			-1
+			0,
+			2
 		],
 		"DestNorth": [
 			-1,
@@ -2329,8 +2325,8 @@
 	},
 	"E4": {
 		"DestEast": [
-			-1,
-			-1
+			0,
+			3
 		],
 		"DestNorth": [
 			-1,
@@ -2435,16 +2431,16 @@
 	},
 	"E5": {
 		"DestEast": [
-			-1,
-			-1
+			1,
+			4
 		],
 		"DestNorth": [
 			-1,
 			-1
 		],
 		"DestSouth": [
-			-1,
-			-1
+			4,
+			0
 		],
 		"DestWest": [
 			-1,

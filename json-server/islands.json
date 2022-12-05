@@ -39207,184 +39207,6 @@
 		"worldX": 397114.4,
 		"worldY": 4594069
 	},
-	"1303": {
-		"animals": [
-			"Seagull",
-			"ShipNPC Brig",
-			"ShipNPC Galleon",
-			"ShipNPC Schooner"
-		],
-		"biomeTags": [
-			"EasternTropics",
-			"Tropical",
-			"Tropics"
-		],
-		"biomes": [
-			{
-				"gps": [
-					-0.10803571343421936,
-					0.08700714260339737
-				],
-				"name": "Equatorial Ocean Water",
-				"temp": [
-					-999,
-					70
-				]
-			},
-			{
-				"gps": [
-					-0.16684284806251526,
-					0.7229071855545044
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-0.16681428253650665,
-					1.1514785289764404
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-0.22767141461372375,
-					0.08700714260339737
-				],
-				"name": "Equatorial At Land",
-				"temp": [
-					-999,
-					70
-				]
-			},
-			{
-				"gps": [
-					-0.5949857234954834,
-					1.1514499187469482
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					-0.5950142741203308,
-					0.7228785753250122
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					0.26010000705718994,
-					0.29307857155799866
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			},
-			{
-				"gps": [
-					0.26007142663002014,
-					0.7228785753250122
-				],
-				"name": "Eastern Tropics",
-				"tags": [
-					"Tropics",
-					"EasternTropics",
-					"Tropical"
-				],
-				"temp": [
-					2,
-					61
-				]
-			}
-		],
-		"discoveries": [
-			{
-				"lat": 0.8,
-				"long": 0.4,
-				"name": "Choral Island"
-			}
-		],
-		"grid": "C3",
-		"homeServer": false,
-		"id": 1303,
-		"isControlPoint": false,
-		"islandHeight": 127500,
-		"islandPoints": -1,
-		"islandWidth": 127500,
-		"name": "Fish_Shop_Island",
-		"region": "",
-		"resources": {
-			"Basalt": 437,
-			"Cilantro": 6,
-			"Coconut": 23,
-			"Fir": 8,
-			"Fronds": 8,
-			"Geode": 437,
-			"Iron": 437,
-			"Jute": 140,
-			"Limestone": 461,
-			"Oak": 12,
-			"Resin": 8,
-			"Rice Seed": 127,
-			"Rosemary": 18,
-			"Sea Grapes": 424,
-			"Straw": 621,
-			"Twigs": 12,
-			"Wild Rice": 127
-		},
-		"rotation": 0,
-		"sublevels": [
-			"islet_A_Far_01_B",
-			"Islet_A_Farthest_01_B",
-			"islet_A_Near_01_B",
-			"Islet_A_Marine_Warm_Near",
-			"Islet_A"
-		],
-		"worldX": 3513757.5,
-		"worldY": 3464537.25
-	},
 	"1309": {
 		"animals": [
 			"Cat",
@@ -48990,22 +48812,19 @@
 		"name": "Mnt_N_WF",
 		"region": "",
 		"resources": {
-			"Anthracite": 55,
 			"Ash": 15038,
 			"Bark": 9861,
-			"Basalt": 25465,
+			"Basalt": 871,
 			"Bone Chips": 1,
 			"Carrot Seed": 1990,
 			"Chamomile": 1426,
 			"Coquina": 1069,
 			"Elderberry": 16704,
-			"Emerald": 1297,
 			"Fir": 27,
-			"Geode": 25465,
-			"Granite": 24980,
+			"Geode": 871,
 			"Hemp": 23100,
-			"Iron": 26009,
-			"Limestone": 2157,
+			"Iron": 19421,
+			"Limestone": 117,
 			"Maps": 13,
 			"Mint": 1783,
 			"Onion Seed": 2295,
@@ -49015,12 +48834,15 @@
 			"Pepper Seed": 1391,
 			"Pine": 1282,
 			"Poplar": 116,
-			"Radiolarite": 688,
+			"Radiolarite": 19202,
 			"Resin": 6438,
-			"Slate": 544,
+			"Slate": 20132,
 			"Straw": 32526,
 			"Strawberry": 2545,
+			"Sulfur": 55,
+			"Sunstone": 644,
 			"Syrup": 49,
+			"Tellurite": 653,
 			"Twigs": 10025,
 			"Wild Carrot": 1990,
 			"Wild Onion": 2295,
