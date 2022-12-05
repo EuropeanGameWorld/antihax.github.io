@@ -179,7 +179,7 @@ class WorldMap extends React.Component {
 		}).addTo(map);
 
 		L.easyButton('<div>☕</div>', function () {
-			window.open('https://ko-fi.com/antihax', '_blank');
+			window.open('https://taelynshome.com', '_blank');
 		}).addTo(map);
 
 		let ArrowIcon = L.icon({
