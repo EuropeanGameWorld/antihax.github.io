@@ -47,7 +47,7 @@ L.AtlasGrid = L.LayerGroup.extend({
 		let grid;
 		this.eachLayer(map.addLayer, map);
 
-		fetch('json-' + version + '/gridList.json', {
+		fetch('json' + map.options.config.version + '/gridList.json', {
 			dataType: 'json',
 		})
 			.then((res) => res.json())
@@ -69,7 +69,6 @@ L.AtlasGrid = L.LayerGroup.extend({
 			iconSize: [8, 8],
 			iconAnchor: [4, 0],
 		});
-		console.log(g)
 		if (g.DestEast[0] !== null &&
 			g.DestEast.reduce(function (a, b) {
 				return a + b;
