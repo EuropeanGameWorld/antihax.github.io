@@ -1572,8 +1572,7 @@
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iridium/StoneHarvestComponent_Large.StoneHarvestComponent_Large_C": 8784
 	},
 	"SM_ERS_Rock_Med_B_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Preservative/PreservativeHarvestComponent_RockSalt.PreservativeHarvestComponent_RockSalt_C": 3384,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Coquina/StoneHarvestComponent_Large_Coquina.StoneHarvestComponent_Large_Coquina_C": 16510,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Coquina/StoneHarvestComponent_Large_Coquina.StoneHarvestComponent_Large_Coquina_C": 19894,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Freeport/StoneHarvestComponent_Large_Freeport.StoneHarvestComponent_Large_Freeport_C": 5208,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Granite/StoneHarvestComponent_Large_Granite.StoneHarvestComponent_Large_Granite_C": 3815,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Limestone/StoneHarvestComponent_Large_Limestone.StoneHarvestComponent_Large_Limestone_C": 10498,
@@ -1582,8 +1581,7 @@
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iridium/StoneHarvestComponent_Large.StoneHarvestComponent_Large_C": 1192
 	},
 	"SM_ERS_Rock_Med_C_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Preservative/PreservativeHarvestComponent_RockSalt.PreservativeHarvestComponent_RockSalt_C": 3404,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Coquina/StoneHarvestComponent_Large_Coquina.StoneHarvestComponent_Large_Coquina_C": 17163,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Coquina/StoneHarvestComponent_Large_Coquina.StoneHarvestComponent_Large_Coquina_C": 20567,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Freeport/StoneHarvestComponent_Large_Freeport.StoneHarvestComponent_Large_Freeport_C": 6912,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Granite/StoneHarvestComponent_Large_Granite.StoneHarvestComponent_Large_Granite_C": 4543,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Limestone/StoneHarvestComponent_Large_Limestone.StoneHarvestComponent_Large_Limestone_C": 8719,
@@ -1617,8 +1615,7 @@
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/StoneHarvestComponent_Large.StoneHarvestComponent_Large_C": 95
 	},
 	"SM_ERS_Rock_Med_G_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Preservative/PreservativeHarvestComponent_RockSalt.PreservativeHarvestComponent_RockSalt_C": 3456,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Coquina/StoneHarvestComponent_Large_Coquina.StoneHarvestComponent_Large_Coquina_C": 11424,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Coquina/StoneHarvestComponent_Large_Coquina.StoneHarvestComponent_Large_Coquina_C": 14880,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Granite/StoneHarvestComponent_Large_Granite.StoneHarvestComponent_Large_Granite_C": 1815,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Limestone/StoneHarvestComponent_Large_Limestone.StoneHarvestComponent_Large_Limestone_C": 700,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Sandstone/StoneHarvestComponent_Large_Sandstone.StoneHarvestComponent_Large_Sandstone_C": 2168,

@@ -3623,8 +3623,7 @@
 			"Monkey",
 			"Parrot",
 			"Pig",
-			"Turtle",
-			null
+			"Turtle"
 		],
 		"biomes": [
 			"Western Tropical",
@@ -3837,8 +3836,7 @@
 			"Pig",
 			"Rabbit",
 			"Seagull",
-			"Turtle",
-			null
+			"Turtle"
 		],
 		"biomes": [
 			"Western Tropical",
@@ -4481,7 +4479,6 @@
 			"Quartz",
 			"Radiolarite",
 			"Resin",
-			"Rock Salt",
 			"Slate",
 			"Straw",
 			"Strawberry",
@@ -6713,7 +6710,7 @@
 				1
 			]
 		},
-		"forceServerRules": 1,
+		"forceServerRules": 3,
 		"name": "",
 		"region": "Mytroa",
 		"resources": [
@@ -6781,7 +6778,7 @@
 			"spawnLimits": [
 				37,
 				5000,
-				140
+				1800
 			]
 		},
 		"sunktreasure": {
