@@ -12,11 +12,11 @@
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/09_C_HighDesert/WoodHarvestComponent_Cedar.WoodHarvestComponent_Cedar_C": 18
 	},
 	"AlderBush01_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Berries/BerryHarvestComponent_Lingonberry.BerryHarvestComponent_Lingonberry_C": 62627,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Berries/BerryHarvestComponent_Lingonberry.BerryHarvestComponent_Lingonberry_C": 46843,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Bilberry.BerryHarvestComponent_Bilberry_C": 31
 	},
 	"AlderBush02_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Berries/BerryHarvestComponent_Lingonberry.BerryHarvestComponent_Lingonberry_C": 102551,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Berries/BerryHarvestComponent_Lingonberry.BerryHarvestComponent_Lingonberry_C": 69635,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Bilberry.BerryHarvestComponent_Bilberry_C": 31
 	},
 	"Alder_Field_settings": {
@@ -90,31 +90,31 @@
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/06_W_Tundra/WoodHarvestComponent_Fir.WoodHarvestComponent_Fir_C": 2
 	},
 	"Bamboo01_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Fiber/FiberHarvestComponent_Bamboo.FiberHarvestComponent_Bamboo_C": 1228,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.WoodHarvestComponent_Fir_C": 16
+		"/Game/Atlas/AtlasCoreBP/Harvest/Fiber/FiberHarvestComponent_Bamboo.FiberHarvestComponent_Bamboo_C": 1044,
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.WoodHarvestComponent_Fir_C": 12
 	},
 	"Bamboo02_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Fiber/FiberHarvestComponent_Bamboo.FiberHarvestComponent_Bamboo_C": 6520,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.WoodHarvestComponent_Fir_C": 16
+		"/Game/Atlas/AtlasCoreBP/Harvest/Fiber/FiberHarvestComponent_Bamboo.FiberHarvestComponent_Bamboo_C": 6024,
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.WoodHarvestComponent_Fir_C": 12
 	},
 	"BareTree01_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 15266,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 14678,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/08_Polar/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 89
 	},
 	"BareTree02_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 7063,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 6511,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/08_Polar/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 83
 	},
 	"BareTree03_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 17458,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 16948,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/08_Polar/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 89
 	},
 	"BareTree04_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 17567,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 17051,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/08_Polar/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 89
 	},
 	"BareTree05_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 11658,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 11160,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/08_Polar/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 83
 	},
 	"BareVine01_settings": {
@@ -125,38 +125,35 @@
 	},
 	"Basil_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Herb/MedHerbHarvestComponent_Basil.MedHerbHarvestComponent_Basil_C": 17854,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Vegetable/VeggieHarvestComponent_Freeport.VeggieHarvestComponent_Freeport_C": 16,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/HerbHarvestComponent_BAsil.HerbHarvestComponent_Basil_C": 62
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/HerbHarvestComponent_BAsil.HerbHarvestComponent_Basil_C": 46
 	},
 	"Bilberry_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Berries/BerryHarvestComponent_Bilberry.BerryHarvestComponent_Bilberry_C": 16800,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/08_Polar/BerryHarvestComponent_Bilberry.BerryHarvestComponent_Bilberry_C": 16
+		"/Game/Atlas/AtlasCoreBP/Harvest/Berries/BerryHarvestComponent_Bilberry.BerryHarvestComponent_Bilberry_C": 9524,
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/08_Polar/BerryHarvestComponent_Bilberry.BerryHarvestComponent_Bilberry_C": 12
 	},
 	"BiolumVine_settings": {
 		"None": 4
 	},
 	"Blackberry_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Berries/BerryHarvestComponent_Blackberry.BerryHarvestComponent_Blackberry_C": 56067,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Berries/BerryHarvestComponent_Freeport.BerryHarvestComponent_Freeport_C": 2592,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/03_E_Temperate/BerryHarvestComponent_Blackberry.BerryHarvestComponent_Blackberry_C": 72
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/03_E_Temperate/BerryHarvestComponent_Blackberry.BerryHarvestComponent_Blackberry_C": 56
 	},
 	"BlueFir01_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 8328,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 6220,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.WoodHarvestComponent_Fir_C": 18
 	},
 	"BlueFir02_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 8264,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 6132,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.WoodHarvestComponent_Fir_C": 18
 	},
 	"BlueFir03_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 5736,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 4848,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.WoodHarvestComponent_Fir_C": 18
 	},
 	"Calcite_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Crystal/CrystalHarvestComponent_Calcite.CrystalHarvestComponent_Calcite_C": 13959,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Crystal/CrystalHarvestComponent_Quartz.CrystalHarvestComponent_Quartz_C": 4393,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Freeport/StoneHarvestComponent_Medium_Freeport.StoneHarvestComponent_Medium_Freeport_C": 2336,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/CoalHarvestComponent_Graphite.CoalHarvestComponent_Graphite_C": 391,
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/CoalHarvestComponent_Graphite.CoalHarvestComponent_Graphite_C": 375,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/03_E_Temperate/CrystalHarvestComponent_Calcite.CrystalHarvestComponent_Calcite_C": 42,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/04_W_Tropical/CrystalHarvestComponent_Calcite.CrystalHarvestComponent_Calcite_C": 132,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/FlintHarvestComponent_Chalcedony.FlintHarvestComponent_Chalcedony_C": 208
@@ -176,10 +173,6 @@
 	"Cedar4_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Cedar.WoodHarvestComponent_Cedar_C": 438,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/09_C_HighDesert/WoodHarvestComponent_Cedar.WoodHarvestComponent_Cedar_C": 52
-	},
-	"Celery_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Vegetable/VeggieHarvestComponent_Freeport.VeggieHarvestComponent_Freeport_C": 16,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/ThatchHarvestComponent_Frond.ThatchHarvestComponent_Frond_C": 16
 	},
 	"CloudBerries01_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Berries/BerryHarvestComponent_Lingonberry.BerryHarvestComponent_Lingonberry_C": 5700,
@@ -346,11 +339,11 @@
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/06_W_Tundra/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 2
 	},
 	"EasternBush01_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Fiber/FiberHarvestComponent_Straw.FiberHarvestComponent_Straw_C": 218770,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Fiber/FiberHarvestComponent_Straw.FiberHarvestComponent_Straw_C": 185810,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Bilberry.BerryHarvestComponent_Bilberry_C": 31
 	},
 	"EasternBush02_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Fiber/FiberHarvestComponent_Straw.FiberHarvestComponent_Straw_C": 236204,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Fiber/FiberHarvestComponent_Straw.FiberHarvestComponent_Straw_C": 223448,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Bilberry.BerryHarvestComponent_Bilberry_C": 31
 	},
 	"Ephedra01_settings": {
@@ -426,14 +419,13 @@
 	},
 	"Flower_04_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Herb/HerbHarvestComponent_Cilantro.HerbHarvestComponent_Cilantro_C": 6360,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Vegetable/VeggieHarvestComponent_Freeport.VeggieHarvestComponent_Freeport_C": 144,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/HerbHarvestComponent_Turmeric.HerbHarvestComponent_Turmeric_C": 21
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/HerbHarvestComponent_Turmeric.HerbHarvestComponent_Turmeric_C": 5
 	},
 	"Foliage01_SM_settings": {
 		"None": 10
 	},
 	"Garlic_LOD0_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Herb/HerbHarvestComponent_Garlic.HerbHarvestComponent_Garlic_C": 33516,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Herb/HerbHarvestComponent_Garlic.HerbHarvestComponent_Garlic_C": 23012,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/06_W_Tundra/PickupHerbHarvestComponent_Garlic.PickupHerbHarvestComponent_Garlic_C": 16
 	},
 	"GiantKelp_01_settings": {
@@ -449,16 +441,16 @@
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Trench/FiberHarvestComponent_Seaweed.FiberHarvestComponent_Seaweed_C": 9054
 	},
 	"Ginseng01_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Fiber/FiberHarvestComponent_Straw.FiberHarvestComponent_Straw_C": 95815,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Bilberry.BerryHarvestComponent_Bilberry_C": 31
+		"/Game/Atlas/AtlasCoreBP/Harvest/Fiber/FiberHarvestComponent_Straw.FiberHarvestComponent_Straw_C": 55399,
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Bilberry.BerryHarvestComponent_Bilberry_C": 27
 	},
 	"Ginseng02_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Fiber/FiberHarvestComponent_Straw.FiberHarvestComponent_Straw_C": 105747,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Bilberry.BerryHarvestComponent_Bilberry_C": 31
+		"/Game/Atlas/AtlasCoreBP/Harvest/Fiber/FiberHarvestComponent_Straw.FiberHarvestComponent_Straw_C": 65287,
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Bilberry.BerryHarvestComponent_Bilberry_C": 27
 	},
 	"Ginseng03_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Fiber/FiberHarvestComponent_Straw.FiberHarvestComponent_Straw_C": 105650,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Bilberry.BerryHarvestComponent_Bilberry_C": 18
+		"/Game/Atlas/AtlasCoreBP/Harvest/Fiber/FiberHarvestComponent_Straw.FiberHarvestComponent_Straw_C": 65130,
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Bilberry.BerryHarvestComponent_Bilberry_C": 14
 	},
 	"Grass02_SM_settings": {
 		"None": 75
@@ -502,11 +494,11 @@
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/WoodHarvestComponent.WoodHarvestComponent_C": 32
 	},
 	"JapanesePine_Snow_01_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 6888,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 8376,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.WoodHarvestComponent_Fir_C": 18
 	},
 	"JapanesePine_Snow_02_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 6910,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 8170,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.WoodHarvestComponent_Fir_C": 18
 	},
 	"JapanesePine_field_settings": {
@@ -528,8 +520,7 @@
 	},
 	"Juneberry01_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Berries/BerryHarvestComponent_Bilberry.BerryHarvestComponent_Bilberry_C": 368,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Berries/BerryHarvestComponent_Freeport.BerryHarvestComponent_Freeport_C": 16,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/09_C_HighDesert/BerryHarvestComponent_Bilberry.BerryHarvestComponent_Bilberry_C": 32
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/09_C_HighDesert/BerryHarvestComponent_Bilberry.BerryHarvestComponent_Bilberry_C": 16
 	},
 	"Juneberry02_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Berries/BerryHarvestComponent_Bilberry.BerryHarvestComponent_Bilberry_C": 360,
@@ -614,8 +605,7 @@
 	},
 	"LimeTree_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/TreeHarvest/TreeHarvestComponent_Lime.TreeHarvestComponent_Lime_C": 6579,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Freeport.WoodHarvestComponent_Freeport_C": 16,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/04_W_Tropical/VeggieTreeHarvestComponent_Lime.VeggieTreeHarvestComponent_Lime_C": 87
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/04_W_Tropical/VeggieTreeHarvestComponent_Lime.VeggieTreeHarvestComponent_Lime_C": 71
 	},
 	"Lingonberry01_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Berries/BerryHarvestComponent_Lingonberry.BerryHarvestComponent_Lingonberry_C": 3624,
@@ -669,7 +659,7 @@
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/WoodHarvestComponent_Oak.WoodHarvestComponent_Oak_C": 85
 	},
 	"Marble_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Marble/StoneHarvestComponent_Medium_Marble.StoneHarvestComponent_Medium_Marble_C": 1822,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Marble/StoneHarvestComponent_Medium_Marble.StoneHarvestComponent_Medium_Marble_C": 1414,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/StoneHarvestComponent_Granite.StoneHarvestComponent_Granite_C": 64,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/06_W_Tundra/StoneHarvestComponent_Marble.StoneHarvestComponent_Marble_C": 108
 	},
@@ -774,16 +764,16 @@
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/09_C_HighDesert/WoodHarvestComponent_Cedar.WoodHarvestComponent_Cedar_C": 50
 	},
 	"Oxalis01_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Berries/BerryHarvestComponent_Lingonberry.BerryHarvestComponent_Lingonberry_C": 83188,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Bilberry.BerryHarvestComponent_Bilberry_C": 16
+		"/Game/Atlas/AtlasCoreBP/Harvest/Berries/BerryHarvestComponent_Lingonberry.BerryHarvestComponent_Lingonberry_C": 77780,
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Bilberry.BerryHarvestComponent_Bilberry_C": 12
 	},
 	"Oxalis02_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Berries/BerryHarvestComponent_Lingonberry.BerryHarvestComponent_Lingonberry_C": 82892,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Bilberry.BerryHarvestComponent_Bilberry_C": 16
+		"/Game/Atlas/AtlasCoreBP/Harvest/Berries/BerryHarvestComponent_Lingonberry.BerryHarvestComponent_Lingonberry_C": 77528,
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Bilberry.BerryHarvestComponent_Bilberry_C": 12
 	},
 	"Oxalis03_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Berries/BerryHarvestComponent_Lingonberry.BerryHarvestComponent_Lingonberry_C": 82836,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Bilberry.BerryHarvestComponent_Bilberry_C": 16
+		"/Game/Atlas/AtlasCoreBP/Harvest/Berries/BerryHarvestComponent_Lingonberry.BerryHarvestComponent_Lingonberry_C": 77440,
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Bilberry.BerryHarvestComponent_Bilberry_C": 12
 	},
 	"PGFlowers2_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Herb/HerbHarvestComponent_Cilantro.HerbHarvestComponent_Cilantro_C": 306825,
@@ -831,19 +821,19 @@
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/09_C_HighDesert/HerbHarvestComponent_Parsley.HerbHarvestComponent_Parsley_C": 16
 	},
 	"Paulownia01_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 1244,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 2136,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.WoodHarvestComponent_Fir_C": 18
 	},
 	"Paulownia02_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 1194,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 2134,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.WoodHarvestComponent_Fir_C": 18
 	},
 	"Paulownia03_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 5885,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 4113,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.WoodHarvestComponent_Fir_C": 31
 	},
 	"Paulownia04_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 6680,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 6816,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.WoodHarvestComponent_Fir_C": 18
 	},
 	"PersianShield01_settings": {
@@ -934,43 +924,42 @@
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/02_NW_Temperate/WoodHarvestComponent_Fir.WoodHarvestComponent_Fir_C": 123
 	},
 	"Potato_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Vegetable/VeggieHarvestComponent_Potato.VeggieHarvestComponent_Potato_C": 35036,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/06_W_Tundra/VeggieHarvestComponent_Potato.VeggieHarvestComponent_Potato_C": 20
+		"/Game/Atlas/AtlasCoreBP/Harvest/Vegetable/VeggieHarvestComponent_Potato.VeggieHarvestComponent_Potato_C": 22164,
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/06_W_Tundra/VeggieHarvestComponent_Potato.VeggieHarvestComponent_Potato_C": 16
 	},
 	"Raspberry01_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Berries/BerryHarvestComponent_ArcticRaspberry.BerryHarvestComponent_ArcticRaspberry_C": 21646,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Berries/BerryHarvestComponent_ArcticRaspberry.BerryHarvestComponent_ArcticRaspberry_C": 21782,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/06_W_Tundra/BerryHarvestComponent_Raspberry.BerryHarvestComponent_Raspberry_C": 20
 	},
 	"RedMaple01_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 4316,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.WoodHarvestComponent_Fir_C": 16
+		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 3264,
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.WoodHarvestComponent_Fir_C": 12
 	},
 	"RedMaple02_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 4204,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.WoodHarvestComponent_Fir_C": 16
+		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 3336,
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.WoodHarvestComponent_Fir_C": 12
 	},
 	"RedMaple03_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 4224,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.WoodHarvestComponent_Fir_C": 16
+		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 3232,
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.WoodHarvestComponent_Fir_C": 12
 	},
 	"RedMaple04_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 4780,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.WoodHarvestComponent_Fir_C": 16
+		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 2260,
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.WoodHarvestComponent_Fir_C": 12
 	},
 	"RedSmokeBush_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Sap/SapHarvestComponent_Resin.SapHarvestComponent_Resin_C": 11722,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/06_W_Tundra/BerryHarvestComponent_Raspberry.BerryHarvestComponent_Raspberry_C": 2
 	},
 	"Roots_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Thatch/ThatchHarvestComponent_Roots.ThatchHarvestComponent_Roots_C": 94919,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Thatch/ThatchHarvestComponent_Roots.ThatchHarvestComponent_Roots_C": 70935,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/09_C_HighDesert/ThatchHarvestComponent_Roots.ThatchHarvestComponent_Roots_C": 50
 	},
 	"SM_AcaiPalm_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Ash.WoodHarvestComponent_Ash_C": 35,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Cedar.WoodHarvestComponent_Cedar_C": 5690,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Fir.WoodHarvestComponent_Fir_C": 4672,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Freeport.WoodHarvestComponent_Freeport_C": 48,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/04_W_Tropical/WoodHarvestComponent_Oak.WoodHarvestComponent_Oak_C": 163
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/04_W_Tropical/WoodHarvestComponent_Oak.WoodHarvestComponent_Oak_C": 147
 	},
 	"SM_Acerola_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Berries/BerryHarvestComponent_Acerolla.BerryHarvestComponent_Acerolla_C": 39511,
@@ -1002,55 +991,55 @@
 	"SM_ArcticRock_Lrg_A_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Marble/StoneHarvestComponent_Large_Marble.StoneHarvestComponent_Large_Marble_C": 1015,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Sandstone/StoneHarvestComponent_Large_Sandstone.StoneHarvestComponent_Large_Sandstone_C": 1164,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Large_Slate.StoneHarvestComponent_Large_Slate_C": 1134,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/10_C_LowDesert/StoneHarvestComponent_Huge.StoneHarvestComponent_Huge_C": 56
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Large_Slate.StoneHarvestComponent_Large_Slate_C": 792,
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/10_C_LowDesert/StoneHarvestComponent_Huge.StoneHarvestComponent_Huge_C": 50
 	},
 	"SM_ArcticRock_Lrg_B_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Marble/StoneHarvestComponent_Large_Marble.StoneHarvestComponent_Large_Marble_C": 1330,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Sandstone/StoneHarvestComponent_Large_Sandstone.StoneHarvestComponent_Large_Sandstone_C": 1086,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Large_Slate.StoneHarvestComponent_Large_Slate_C": 1230
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Large_Slate.StoneHarvestComponent_Large_Slate_C": 840
 	},
 	"SM_ArcticRock_Med_A_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Marble/StoneHarvestComponent_Medium_Marble.StoneHarvestComponent_Medium_Marble_C": 2310,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Sandstone/StoneHarvestComponent_Medium_Sandstone.StoneHarvestComponent_Medium_Sandstone_C": 1062,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Medium_Slate.StoneHarvestComponent_Medium_Slate_C": 498,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Medium_Slate.StoneHarvestComponent_Medium_Slate_C": 366,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/StoneHarvestComponent_Large.StoneHarvestComponent_Large_C": 70
 	},
 	"SM_ArcticRock_Med_B_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Marble/StoneHarvestComponent_Medium_Marble.StoneHarvestComponent_Medium_Marble_C": 2254,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Sandstone/StoneHarvestComponent_Medium_Sandstone.StoneHarvestComponent_Medium_Sandstone_C": 1002,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Medium_Slate.StoneHarvestComponent_Medium_Slate_C": 582,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Medium_Slate.StoneHarvestComponent_Medium_Slate_C": 480,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/StoneHarvestComponent_Large.StoneHarvestComponent_Large_C": 76
 	},
 	"SM_ArcticRock_Sml_A_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Marble/StoneHarvestComponent_Small_Marble.StoneHarvestComponent_Small_Marble_C": 6405,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Sandstone/StoneHarvestComponent_Small_Sandstone.StoneHarvestComponent_Small_Sandstone_C": 5040,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Small_Slate.StoneHarvestComponent_Small_Slate_C": 3672,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Small_Slate.StoneHarvestComponent_Small_Slate_C": 2322,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/08_Polar/StoneHarvestComponent_Small.StoneHarvestComponent_Small_C": 70
 	},
 	"SM_ArcticRock_Sml_B_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Marble/StoneHarvestComponent_Small_Marble.StoneHarvestComponent_Small_Marble_C": 11634,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Sandstone/StoneHarvestComponent_Small_Sandstone.StoneHarvestComponent_Small_Sandstone_C": 8142,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Small_Slate.StoneHarvestComponent_Small_Slate_C": 7560,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Small_Slate.StoneHarvestComponent_Small_Slate_C": 6792,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/08_Polar/StoneHarvestComponent_Small.StoneHarvestComponent_Small_C": 76
 	},
 	"SM_ArcticRock_Sml_C_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Marble/StoneHarvestComponent_Small_Marble.StoneHarvestComponent_Small_Marble_C": 11921,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Sandstone/StoneHarvestComponent_Small_Sandstone.StoneHarvestComponent_Small_Sandstone_C": 8202,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Small_Slate.StoneHarvestComponent_Small_Slate_C": 7362,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Small_Slate.StoneHarvestComponent_Small_Slate_C": 6642,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/08_Polar/StoneHarvestComponent_Small.StoneHarvestComponent_Small_C": 76
 	},
 	"SM_ArcticRock_Sml_D_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Marble/StoneHarvestComponent_Small_Marble.StoneHarvestComponent_Small_Marble_C": 45955,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Sandstone/StoneHarvestComponent_Small_Sandstone.StoneHarvestComponent_Small_Sandstone_C": 31974,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Small_Slate.StoneHarvestComponent_Small_Slate_C": 28038,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Small_Slate.StoneHarvestComponent_Small_Slate_C": 24540,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/08_Polar/StoneHarvestComponent_Small.StoneHarvestComponent_Small_C": 76
 	},
 	"SM_ArcticRock_Sml_E_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Marble/StoneHarvestComponent_Small_Marble.StoneHarvestComponent_Small_Marble_C": 8750,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Sandstone/StoneHarvestComponent_Small_Sandstone.StoneHarvestComponent_Small_Sandstone_C": 5946,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Small_Slate.StoneHarvestComponent_Small_Slate_C": 3882,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/08_Polar/StoneHarvestComponent_Small.StoneHarvestComponent_Small_C": 70
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Small_Slate.StoneHarvestComponent_Small_Slate_C": 3156,
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/08_Polar/StoneHarvestComponent_Small.StoneHarvestComponent_Small_C": 64
 	},
 	"SM_BambooCluster_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Fiber/FiberHarvestComponent_Bamboo.FiberHarvestComponent_Bamboo_C": 41731,
@@ -1068,7 +1057,7 @@
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/WoodHarvestComponent_OakSappling.WoodHarvestComponent_OakSappling_C": 281
 	},
 	"SM_Basalt_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Flint/FlintHarvestComponent_Basalt.FlintHarvestComponent_Basalt_C": 29425,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Flint/FlintHarvestComponent_Basalt.FlintHarvestComponent_Basalt_C": 30793,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/02_NW_Temperate/MetalHarvestComponent_Iron.MetalHarvestComponent_Iron_C": 134,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/03_E_Temperate/FlintHarvestComponent_Chert.FlintHarvestComponent_Chert_C": 24,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Cobalt/FlintHarvestComponent_Agate.FlintHarvestComponent_Agate_C": 357
@@ -1091,8 +1080,7 @@
 	},
 	"SM_Beet_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Vegetable/VeggieHarvestComponent_Beet.VeggieHarvestComponent_Beet_C": 2700,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Vegetable/VeggieHarvestComponent_Freeport.VeggieHarvestComponent_Freeport_C": 16,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/09_C_HighDesert/VeggieHarvestComponent_Beet.VeggieHarvestComponent_Beet_C": 32
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/09_C_HighDesert/VeggieHarvestComponent_Beet.VeggieHarvestComponent_Beet_C": 16
 	},
 	"SM_BogLog01_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Sappling_Oak.WoodHarvestComponent_Sappling_Oak_C": 1148,
@@ -1248,8 +1236,7 @@
 	},
 	"SM_CarrotC_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Vegetable/VeggieHarvestComponent_Carrot.VeggieHarvestComponent_Carrot_C": 6300,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Vegetable/VeggieHarvestComponent_Freeport.VeggieHarvestComponent_Freeport_C": 96,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/02_NW_Temperate/PickupVeggieHarvestComponent_Carrot.PickupVeggieHarvestComponent_Carrot_C": 60
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/02_NW_Temperate/PickupVeggieHarvestComponent_Carrot.PickupVeggieHarvestComponent_Carrot_C": 44
 	},
 	"SM_CarrotD_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Vegetable/VeggieHarvestComponent_Carrot.VeggieHarvestComponent_Carrot_C": 5866,
@@ -1281,7 +1268,7 @@
 	},
 	"SM_Chalcedony_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Flint/FlintHarvestComponent_Basalt.FlintHarvestComponent_Basalt_C": 160,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Flint/FlintHarvestComponent_Chalcedony.FlintHarvestComponent_Chalcedony_C": 10165,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Flint/FlintHarvestComponent_Chalcedony.FlintHarvestComponent_Chalcedony_C": 9769,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/FlintHarvestComponent_Chalcedony.FlintHarvestComponent_Chalcedony_C": 42
 	},
 	"SM_ChamomileA_settings": {
@@ -1300,8 +1287,7 @@
 	},
 	"SM_Chickpea1_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Vegetable/VeggieHarvestComponent_Chickpeas.VeggieHarvestComponent_Chickpeas_C": 34163,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Vegetable/VeggieHarvestComponent_Freeport.VeggieHarvestComponent_Freeport_C": 528,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/VeggieHarvestComponent_Chickpeas.VeggieHarvestComponent_Chickpeas_C": 122
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/VeggieHarvestComponent_Chickpeas.VeggieHarvestComponent_Chickpeas_C": 106
 	},
 	"SM_Chickpea2_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Vegetable/VeggieHarvestComponent_Chickpeas.VeggieHarvestComponent_Chickpeas_C": 45678,
@@ -1325,8 +1311,7 @@
 	},
 	"SM_Cilantro_Settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Herb/HerbHarvestComponent_Cilantro.HerbHarvestComponent_Cilantro_C": 29714,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Vegetable/VeggieHarvestComponent_Freeport.VeggieHarvestComponent_Freeport_C": 16,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/HerbHarvestComponent_Cilantro.HerbHarvestComponent_Cilantro_C": 187
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/HerbHarvestComponent_Cilantro.HerbHarvestComponent_Cilantro_C": 171
 	},
 	"SM_Clam_settings": {
 		"None": 16
@@ -1334,11 +1319,10 @@
 	"SM_CliffBush_Settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Berries/BerryHarvestComponent_Acai.BerryHarvestComponent_Acai_C": 226605,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Berries/BerryHarvestComponent_Blackberry.BerryHarvestComponent_Blackberry_C": 282664,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Berries/BerryHarvestComponent_Freeport.BerryHarvestComponent_Freeport_C": 29792,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/BerryHarvestComponent_Acerolla.BerryHarvestComponent_Acerolla_C": 207
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/BerryHarvestComponent_Acerolla.BerryHarvestComponent_Acerolla_C": 191
 	},
 	"SM_CloverPlant_settings": {
-		"None": 60
+		"None": 44
 	},
 	"SM_Cobalt_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Metal/MetalHarvestComponent_Cobalt.MetalHarvestComponent_Cobalt_C": 26615,
@@ -1358,8 +1342,7 @@
 	},
 	"SM_Coconut_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Vegetable/VeggieHarvestComponent_Coconut.VeggieHarvestComponent_Coconut_C": 71445,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Vegetable/VeggieHarvestComponent_Freeport.VeggieHarvestComponent_Freeport_C": 10816,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/PickupVeggieHarvestComponent_Coconut.PickupVeggieHarvestComponent_Coconut_C": 218
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/PickupVeggieHarvestComponent_Coconut.PickupVeggieHarvestComponent_Coconut_C": 202
 	},
 	"SM_Copper_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Metal/MetalHarvestComponent_Copper.MetalHarvestComponent_Copper_C": 9002,
@@ -1487,32 +1470,29 @@
 	},
 	"SM_ERS_Rock_Med_A_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Coquina/StoneHarvestComponent_Large_Coquina.StoneHarvestComponent_Large_Coquina_C": 2892,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Freeport/StoneHarvestComponent_Large_Freeport.StoneHarvestComponent_Large_Freeport_C": 17760,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Granite/StoneHarvestComponent_Large_Granite.StoneHarvestComponent_Large_Granite_C": 4604,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Limestone/StoneHarvestComponent_Large_Limestone.StoneHarvestComponent_Large_Limestone_C": 5379,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Marble/StoneHarvestComponent_Large_Marble.StoneHarvestComponent_Large_Marble_C": 2404,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Sandstone/StoneHarvestComponent_Large_Sandstone.StoneHarvestComponent_Large_Sandstone_C": 19884,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/StoneHarvestComponent_Large.StoneHarvestComponent_Large_C": 1313,
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/StoneHarvestComponent_Large.StoneHarvestComponent_Large_C": 1297,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iridium/StoneHarvestComponent_Large.StoneHarvestComponent_Large_C": 8784
 	},
 	"SM_ERS_Rock_Med_B_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Coquina/StoneHarvestComponent_Large_Coquina.StoneHarvestComponent_Large_Coquina_C": 4394,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Freeport/StoneHarvestComponent_Large_Freeport.StoneHarvestComponent_Large_Freeport_C": 2192,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Granite/StoneHarvestComponent_Large_Granite.StoneHarvestComponent_Large_Granite_C": 596,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Limestone/StoneHarvestComponent_Large_Limestone.StoneHarvestComponent_Large_Limestone_C": 4271,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Marble/StoneHarvestComponent_Large_Marble.StoneHarvestComponent_Large_Marble_C": 1364,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Sandstone/StoneHarvestComponent_Large_Sandstone.StoneHarvestComponent_Large_Sandstone_C": 3556,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/StoneHarvestComponent_Large.StoneHarvestComponent_Large_C": 563,
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/StoneHarvestComponent_Large.StoneHarvestComponent_Large_C": 547,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iridium/StoneHarvestComponent_Large.StoneHarvestComponent_Large_C": 1192
 	},
 	"SM_ERS_Rock_Med_C_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Coquina/StoneHarvestComponent_Large_Coquina.StoneHarvestComponent_Large_Coquina_C": 5635,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Freeport/StoneHarvestComponent_Large_Freeport.StoneHarvestComponent_Large_Freeport_C": 2176,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Granite/StoneHarvestComponent_Large_Granite.StoneHarvestComponent_Large_Granite_C": 684,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Limestone/StoneHarvestComponent_Large_Limestone.StoneHarvestComponent_Large_Limestone_C": 4607,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Marble/StoneHarvestComponent_Large_Marble.StoneHarvestComponent_Large_Marble_C": 1316,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Sandstone/StoneHarvestComponent_Large_Sandstone.StoneHarvestComponent_Large_Sandstone_C": 1112,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/StoneHarvestComponent_Large.StoneHarvestComponent_Large_C": 547,
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/StoneHarvestComponent_Large.StoneHarvestComponent_Large_C": 531,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iridium/StoneHarvestComponent_Large.StoneHarvestComponent_Large_C": 1194
 	},
 	"SM_ERS_Rock_Med_D_settings": {
@@ -1526,12 +1506,11 @@
 	},
 	"SM_ERS_Rock_Med_E_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Coquina/StoneHarvestComponent_Large_Coquina.StoneHarvestComponent_Large_Coquina_C": 4220,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Freeport/StoneHarvestComponent_Large_Freeport.StoneHarvestComponent_Large_Freeport_C": 4368,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Granite/StoneHarvestComponent_Large_Granite.StoneHarvestComponent_Large_Granite_C": 260,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Limestone/StoneHarvestComponent_Large_Limestone.StoneHarvestComponent_Large_Limestone_C": 2695,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Marble/StoneHarvestComponent_Large_Marble.StoneHarvestComponent_Large_Marble_C": 776,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Sandstone/StoneHarvestComponent_Large_Sandstone.StoneHarvestComponent_Large_Sandstone_C": 1388,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/StoneHarvestComponent_Large.StoneHarvestComponent_Large_C": 770,
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/StoneHarvestComponent_Large.StoneHarvestComponent_Large_C": 754,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iridium/StoneHarvestComponent_Large.StoneHarvestComponent_Large_C": 2116
 	},
 	"SM_ERS_Rock_Med_F_settings": {
@@ -1616,13 +1595,13 @@
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Iridium/StoneHarvestComponent_Small.StoneHarvestComponent_Small_C": 8728
 	},
 	"SM_ETS_Rock_Lrg_A_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Huge_Slate.StoneHarvestComponent_Huge_Slate_C": 1440,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Huge_Slate.StoneHarvestComponent_Huge_Slate_C": 1728,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/03_E_Temperate/StoneHarvestComponent_Huge.StoneHarvestComponent_Huge_C": 22,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/StoneHarvestComponent_Huge.StoneHarvestComponent_Huge_C": 16
 	},
 	"SM_ETS_Rock_Lrg_B_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Huge_Slate.StoneHarvestComponent_Huge_Slate_C": 1256,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/StoneHarvestComponent_Huge.StoneHarvestComponent_Huge_C": 16
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Huge_Slate.StoneHarvestComponent_Huge_Slate_C": 732,
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/StoneHarvestComponent_Huge.StoneHarvestComponent_Huge_C": 12
 	},
 	"SM_ETS_Rock_Med_A_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Coquina/StoneHarvestComponent_Large_Coquina.StoneHarvestComponent_Large_Coquina_C": 775,
@@ -1653,33 +1632,33 @@
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Coquina/StoneHarvestComponent_Small_Coquina.StoneHarvestComponent_Small_Coquina_C": 23473,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Limestone/StoneHarvestComponent_Small_Limestone.StoneHarvestComponent_Small_Limestone_C": 82356,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Sandstone/StoneHarvestComponent_Small_Sandstone.StoneHarvestComponent_Small_Sandstone_C": 41769,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Small_Slate.StoneHarvestComponent_Small_Slate_C": 51804,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Small_Slate.StoneHarvestComponent_Small_Slate_C": 38128,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/03_E_Temperate/StoneHarvestComponent_Small.StoneHarvestComponent_Small_C": 12306,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/10_C_LowDesert/StoneHarvestComponent_Small.StoneHarvestComponent_Small_C": 101
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/10_C_LowDesert/StoneHarvestComponent_Small.StoneHarvestComponent_Small_C": 97
 	},
 	"SM_ETS_Rock_SML_B_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Coquina/StoneHarvestComponent_Small_Coquina.StoneHarvestComponent_Small_Coquina_C": 23581,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Limestone/StoneHarvestComponent_Small_Limestone.StoneHarvestComponent_Small_Limestone_C": 79162,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Sandstone/StoneHarvestComponent_Small_Sandstone.StoneHarvestComponent_Small_Sandstone_C": 41188,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Small_Slate.StoneHarvestComponent_Small_Slate_C": 51300,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Small_Slate.StoneHarvestComponent_Small_Slate_C": 37712,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/03_E_Temperate/StoneHarvestComponent_Small.StoneHarvestComponent_Small_C": 12398,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/10_C_LowDesert/StoneHarvestComponent_Small.StoneHarvestComponent_Small_C": 101
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/10_C_LowDesert/StoneHarvestComponent_Small.StoneHarvestComponent_Small_C": 97
 	},
 	"SM_ETS_Rock_SML_C_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Coquina/StoneHarvestComponent_Small_Coquina.StoneHarvestComponent_Small_Coquina_C": 23354,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Limestone/StoneHarvestComponent_Small_Limestone.StoneHarvestComponent_Small_Limestone_C": 82756,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Sandstone/StoneHarvestComponent_Small_Sandstone.StoneHarvestComponent_Small_Sandstone_C": 41370,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Small_Slate.StoneHarvestComponent_Small_Slate_C": 51772,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Small_Slate.StoneHarvestComponent_Small_Slate_C": 37888,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/03_E_Temperate/StoneHarvestComponent_Small.StoneHarvestComponent_Small_C": 11940,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/10_C_LowDesert/StoneHarvestComponent_Small.StoneHarvestComponent_Small_C": 101
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/10_C_LowDesert/StoneHarvestComponent_Small.StoneHarvestComponent_Small_C": 97
 	},
 	"SM_ETS_Rock_SML_D_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Coquina/StoneHarvestComponent_Small_Coquina.StoneHarvestComponent_Small_Coquina_C": 23618,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Limestone/StoneHarvestComponent_Small_Limestone.StoneHarvestComponent_Small_Limestone_C": 84144,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Sandstone/StoneHarvestComponent_Small_Sandstone.StoneHarvestComponent_Small_Sandstone_C": 41587,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Small_Slate.StoneHarvestComponent_Small_Slate_C": 51684,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Small_Slate.StoneHarvestComponent_Small_Slate_C": 37916,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/03_E_Temperate/StoneHarvestComponent_Small.StoneHarvestComponent_Small_C": 11942,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/10_C_LowDesert/StoneHarvestComponent_Small.StoneHarvestComponent_Small_C": 101
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/10_C_LowDesert/StoneHarvestComponent_Small.StoneHarvestComponent_Small_C": 97
 	},
 	"SM_EasternRock_A_Snow_Cave_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Marble/StoneHarvestComponent_Small_Marble.StoneHarvestComponent_Small_Marble_C": 1057,
@@ -1687,11 +1666,13 @@
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/StoneHarvestComponent_Huge.StoneHarvestComponent_Huge_C": 39
 	},
 	"SM_EasternRock_A_Snow_settings": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/StoneHarvestComponent_Huge.StoneHarvestComponent_Huge_C": 2,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Large_Slate.StoneHarvestComponent_Large_Slate_C": 3888,
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/StoneHarvestComponent_Huge.StoneHarvestComponent_Huge_C": 6,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/StoneHarvestComponent_Large.StoneHarvestComponent_Large_C": 2522
 	},
 	"SM_EasternRock_D_Snow_settings": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/StoneHarvestComponent_Huge.StoneHarvestComponent_Huge_C": 900
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Large_Slate.StoneHarvestComponent_Large_Slate_C": 3852,
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/StoneHarvestComponent_Huge.StoneHarvestComponent_Huge_C": 904
 	},
 	"SM_EasternRock_a_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Coquina/StoneHarvestComponent_Large_Coquina.StoneHarvestComponent_Large_Coquina_C": 28380,
@@ -1700,7 +1681,8 @@
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/03_E_Temperate/StoneHarvestComponent_Large.StoneHarvestComponent_Large_C": 4379
 	},
 	"SM_EasternRock_b_Snow_settings": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/StoneHarvestComponent_Huge.StoneHarvestComponent_Huge_C": 2,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Large_Slate.StoneHarvestComponent_Large_Slate_C": 3816,
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/StoneHarvestComponent_Huge.StoneHarvestComponent_Huge_C": 6,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/StoneHarvestComponent_Large.StoneHarvestComponent_Large_C": 2546
 	},
 	"SM_EasternRock_b_settings": {
@@ -1710,7 +1692,8 @@
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/03_E_Temperate/StoneHarvestComponent_Large.StoneHarvestComponent_Large_C": 2089
 	},
 	"SM_EasternRock_c_Snow_settings": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/StoneHarvestComponent_Huge.StoneHarvestComponent_Huge_C": 2,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Large_Slate.StoneHarvestComponent_Large_Slate_C": 3852,
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/StoneHarvestComponent_Huge.StoneHarvestComponent_Huge_C": 6,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/StoneHarvestComponent_Large.StoneHarvestComponent_Large_C": 932
 	},
 	"SM_EasternRock_c_settings": {
@@ -1726,7 +1709,8 @@
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/03_E_Temperate/StoneHarvestComponent_Large.StoneHarvestComponent_Large_C": 2125
 	},
 	"SM_EasternRock_f_Snow_settings": {
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/StoneHarvestComponent_Huge.StoneHarvestComponent_Huge_C": 2,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Large_Slate.StoneHarvestComponent_Large_Slate_C": 3848,
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/StoneHarvestComponent_Huge.StoneHarvestComponent_Huge_C": 6,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/StoneHarvestComponent_Large.StoneHarvestComponent_Large_C": 972
 	},
 	"SM_EasternRock_f_settings": {
@@ -1826,12 +1810,12 @@
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Limestone/StoneHarvestComponent_Medium_Limestone.StoneHarvestComponent_Medium_Limestone_C": 5896,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Marble/StoneHarvestComponent_Medium_Marble.StoneHarvestComponent_Medium_Marble_C": 204,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Sandstone/StoneHarvestComponent_Medium_Sandstone.StoneHarvestComponent_Medium_Sandstone_C": 9405,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Medium_Slate.StoneHarvestComponent_Medium_Slate_C": 288,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Medium_Slate.StoneHarvestComponent_Medium_Slate_C": 2784,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/StoneHarvestComponent_Granite.StoneHarvestComponent_Granite_C": 1300,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/02_NW_Temperate/StoneHarvestComponent_Granite.StoneHarvestComponent_Granite_C": 277
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/02_NW_Temperate/StoneHarvestComponent_Granite.StoneHarvestComponent_Granite_C": 281
 	},
 	"SM_GraniteRock_E_2_Snow_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Medium_Slate.StoneHarvestComponent_Medium_Slate_C": 9932,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Medium_Slate.StoneHarvestComponent_Medium_Slate_C": 11160,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/StoneHarvestComponent_Huge.StoneHarvestComponent_Huge_C": 16
 	},
 	"SM_GraniteRock_a_2_Snow_Cave_settings": {
@@ -1840,7 +1824,7 @@
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/StoneHarvestComponent_Huge.StoneHarvestComponent_Huge_C": 39
 	},
 	"SM_GraniteRock_a_2_Snow_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Medium_Slate.StoneHarvestComponent_Medium_Slate_C": 11152,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Medium_Slate.StoneHarvestComponent_Medium_Slate_C": 12232,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/StoneHarvestComponent_Huge.StoneHarvestComponent_Huge_C": 16
 	},
 	"SM_GraniteRock_a_settings": {
@@ -1854,7 +1838,7 @@
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/StoneHarvestComponent_Huge.StoneHarvestComponent_Huge_C": 39
 	},
 	"SM_GraniteRock_b_2_Snow_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Medium_Slate.StoneHarvestComponent_Medium_Slate_C": 11236,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Medium_Slate.StoneHarvestComponent_Medium_Slate_C": 12520,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/StoneHarvestComponent_Huge.StoneHarvestComponent_Huge_C": 16
 	},
 	"SM_GraniteRock_b_settings": {
@@ -1863,7 +1847,7 @@
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/02_NW_Temperate/StoneHarvestComponent_Granite.StoneHarvestComponent_Granite_C": 559
 	},
 	"SM_GraniteRock_c_2_Snow_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Medium_Slate.StoneHarvestComponent_Medium_Slate_C": 11300,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Medium_Slate.StoneHarvestComponent_Medium_Slate_C": 12412,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/StoneHarvestComponent_Huge.StoneHarvestComponent_Huge_C": 16
 	},
 	"SM_GraniteRock_c_settings": {
@@ -1872,7 +1856,7 @@
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/02_NW_Temperate/StoneHarvestComponent_Granite.StoneHarvestComponent_Granite_C": 550
 	},
 	"SM_GraniteRock_d_2_Snow_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Medium_Slate.StoneHarvestComponent_Medium_Slate_C": 11304,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Medium_Slate.StoneHarvestComponent_Medium_Slate_C": 12440,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/StoneHarvestComponent_Huge.StoneHarvestComponent_Huge_C": 16
 	},
 	"SM_GraniteRock_d_settings": {
@@ -1895,13 +1879,13 @@
 		"None": 27
 	},
 	"SM_GrassA1_settings": {
-		"None": 41
+		"None": 25
 	},
 	"SM_GrassA2_settings": {
-		"None": 86
+		"None": 70
 	},
 	"SM_GrassA3_settings": {
-		"None": 114
+		"None": 98
 	},
 	"SM_GreenAlgae03_settings": {
 		"None": 4
@@ -1929,11 +1913,11 @@
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/10_C_LowDesert/PreservativeHarvestComponent_FlakeSalt.PreservativeHarvestComponent_FlakeSalt_C": 20
 	},
 	"SM_Iridium_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Metal/MetalHarvestComponent_Iridium.MetalHarvestComponent_Iridium_C": 18221,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Metal/MetalHarvestComponent_Iridium.MetalHarvestComponent_Iridium_C": 16397,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/RareFoliage/MetalHarvestComponent_Iridium.MetalHarvestComponent_Iridium_C": 38
 	},
 	"SM_IronA_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Metal/MetalHarvestComponent_Iron.MetalHarvestComponent_Iron_C": 44815,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Metal/MetalHarvestComponent_Iron.MetalHarvestComponent_Iron_C": 45775,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/03_E_Temperate/MetalHarvestComponent_Silver.MetalHarvestComponent_Silver_C": 251,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/10_C_LowDesert/MetalHarvestComponent_Copper.MetalHarvestComponent_Copper_C": 126,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Copper/MetalHarvestComponent_Copper.MetalHarvestComponent_Copper_C": 106
@@ -1951,8 +1935,8 @@
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/09_C_HighDesert/FiberHarvestComponent_Jute.FiberHarvestComponent_Jute_C": 108
 	},
 	"SM_KalaNamak_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Preservative/PreservativeHarvestComponent_KalaNamak.PreservativeHarvestComponent_KalaNamak_C": 1892,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/RareFoliage/PreservativeHarvestComponent_KalakNamak.PreservativeHarvestComponent_KalakNamak_C": 16
+		"/Game/Atlas/AtlasCoreBP/Harvest/Preservative/PreservativeHarvestComponent_KalaNamak.PreservativeHarvestComponent_KalaNamak_C": 1236,
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/RareFoliage/PreservativeHarvestComponent_KalakNamak.PreservativeHarvestComponent_KalakNamak_C": 12
 	},
 	"SM_LemonGrass_01_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Fiber/FiberHarvestComponent_Jute.FiberHarvestComponent_Jute_C": 180478,
@@ -1975,7 +1959,7 @@
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/02_NW_Temperate/HerbHarvestComponent_Licorice.HerbHarvestComponent_Licorice_C": 62
 	},
 	"SM_Lignite_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Coal/CoalHarvestComponent_Lignite.CoalHarvestComponent_Lignite_C": 33218,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Coal/CoalHarvestComponent_Lignite.CoalHarvestComponent_Lignite_C": 34760,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Coal/CoalHarvestComponent_Nitre.CoalHarvestComponent_Nitre_C": 10492,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/03_E_Temperate/CoalHarvestComponent_Sulfur.CoalHarvestComponent_Sulfur_C": 196,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/10_C_LowDesert/CoalHarvestComponent_Nitre.CoalHarvestComponent_Nitre_C": 124,
@@ -2106,7 +2090,7 @@
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Limestone/StoneHarvestComponent_Medium_Limestone.StoneHarvestComponent_Medium_Limestone_C": 3855,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Marble/StoneHarvestComponent_Medium_Marble.StoneHarvestComponent_Medium_Marble_C": 9135,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Sandstone/StoneHarvestComponent_Medium_Sandstone.StoneHarvestComponent_Medium_Sandstone_C": 19676,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Medium_Slate.StoneHarvestComponent_Medium_Slate_C": 12600,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Medium_Slate.StoneHarvestComponent_Medium_Slate_C": 13840,
 		"None": 12
 	},
 	"SM_MTS_Rock_Lrg_B_settings": {
@@ -2114,7 +2098,7 @@
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Limestone/StoneHarvestComponent_Medium_Limestone.StoneHarvestComponent_Medium_Limestone_C": 3900,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Marble/StoneHarvestComponent_Medium_Marble.StoneHarvestComponent_Medium_Marble_C": 9002,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Sandstone/StoneHarvestComponent_Medium_Sandstone.StoneHarvestComponent_Medium_Sandstone_C": 12843,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Medium_Slate.StoneHarvestComponent_Medium_Slate_C": 11100,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Medium_Slate.StoneHarvestComponent_Medium_Slate_C": 12778,
 		"None": 12
 	},
 	"SM_MTS_Rock_Lrg_C_settings": {
@@ -2125,7 +2109,7 @@
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Limestone/StoneHarvestComponent_Medium_Limestone.StoneHarvestComponent_Medium_Limestone_C": 13720,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Marble/StoneHarvestComponent_Medium_Marble.StoneHarvestComponent_Medium_Marble_C": 21840,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Sandstone/StoneHarvestComponent_Medium_Sandstone.StoneHarvestComponent_Medium_Sandstone_C": 41829,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Medium_Slate.StoneHarvestComponent_Medium_Slate_C": 26840,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Medium_Slate.StoneHarvestComponent_Medium_Slate_C": 29384,
 		"None": 12
 	},
 	"SM_MTS_Rock_Lrg_E_settings": {
@@ -2133,7 +2117,7 @@
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Limestone/StoneHarvestComponent_Medium_Limestone.StoneHarvestComponent_Medium_Limestone_C": 13565,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Marble/StoneHarvestComponent_Medium_Marble.StoneHarvestComponent_Medium_Marble_C": 21525,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Sandstone/StoneHarvestComponent_Medium_Sandstone.StoneHarvestComponent_Medium_Sandstone_C": 41786,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Medium_Slate.StoneHarvestComponent_Medium_Slate_C": 26812,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Medium_Slate.StoneHarvestComponent_Medium_Slate_C": 29124,
 		"None": 12
 	},
 	"SM_MTS_Seaweed_A1_settings": {
@@ -2161,13 +2145,13 @@
 		"None": 206
 	},
 	"SM_MTS_Seaweed_C1_settings": {
-		"None": 204
+		"None": 210
 	},
 	"SM_MTS_Seaweed_C2_settings": {
-		"None": 204
+		"None": 210
 	},
 	"SM_MTS_Seaweed_C3_settings": {
-		"None": 204
+		"None": 210
 	},
 	"SM_MTS_Seaweed_D1_settings": {
 		"None": 218
@@ -2245,8 +2229,8 @@
 		"/Game/PrimalEarth/CoreBlueprints/HarvestComponents/ToxicFloraHarvestComponent.ToxicFloraHarvestComponent_C": 41
 	},
 	"SM_Niter_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Coal/CoalHarvestComponent_Nitre.CoalHarvestComponent_Nitre_C": 5068,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/09_C_HighDesert/CoalHarvestComponent_Nitre.CoalHarvestComponent_Nitre_C": 28
+		"/Game/Atlas/AtlasCoreBP/Harvest/Coal/CoalHarvestComponent_Nitre.CoalHarvestComponent_Nitre_C": 3644,
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/09_C_HighDesert/CoalHarvestComponent_Nitre.CoalHarvestComponent_Nitre_C": 24
 	},
 	"SM_Oak_Field_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Fir.WoodHarvestComponent_Fir_C": 38600,
@@ -2270,11 +2254,11 @@
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/08_Polar/FlintHarvestComponent_Basalt.FlintHarvestComponent_Basalt_C": 25
 	},
 	"SM_OilVein_1_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Oil/OilHarvestComponent_Crude.OilHarvestComponent_Crude_C": 2790,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Oil/OilHarvestComponent_Crude.OilHarvestComponent_Crude_C": 2664,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/OilHarvestComponent_Crude.OilHarvestComponent_Crude_C": 135
 	},
 	"SM_OilVein_2_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Oil/OilHarvestComponent_Crude.OilHarvestComponent_Crude_C": 2510,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Oil/OilHarvestComponent_Crude.OilHarvestComponent_Crude_C": 2396,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/OilHarvestComponent_Crude.OilHarvestComponent_Crude_C": 131
 	},
 	"SM_Olive1_settings": {
@@ -2355,7 +2339,7 @@
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Limestone/StoneHarvestComponent_Pickup_Limestone.StoneHarvestComponent_Pickup_Limestone_C": 153706,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Marble/StoneHarvestComponent_Pickup_Marble.StoneHarvestComponent_Pickup_Marble_C": 33292,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Sandstone/StoneHarvestComponent_Pickup_Sandstone.StoneHarvestComponent_Pickup_Sandstone_C": 161231,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Pickup_Slate.StoneHarvestComponent_Pickup_Slate_C": 50990,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Pickup_Slate.StoneHarvestComponent_Pickup_Slate_C": 52382,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/PickupRockHarvestComponent_Granite.PickupRockHarvestComponent_Granite_C": 1376,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/02_NW_Temperate/PickupRockHarvestComponent_Granite.PickupRockHarvestComponent_Granite_C": 1770,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/03_E_Temperate/PickupRockHarvestComponent_Slate.PickupRockHarvestComponent_Slate_C": 4828,
@@ -2370,7 +2354,7 @@
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Limestone/StoneHarvestComponent_Pickup_Limestone.StoneHarvestComponent_Pickup_Limestone_C": 142004,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Marble/StoneHarvestComponent_Pickup_Marble.StoneHarvestComponent_Pickup_Marble_C": 33019,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Sandstone/StoneHarvestComponent_Pickup_Sandstone.StoneHarvestComponent_Pickup_Sandstone_C": 174414,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Pickup_Slate.StoneHarvestComponent_Pickup_Slate_C": 50678,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Pickup_Slate.StoneHarvestComponent_Pickup_Slate_C": 51854,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/PickupRockHarvestComponent_Granite.PickupRockHarvestComponent_Granite_C": 1360,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/02_NW_Temperate/PickupRockHarvestComponent_Granite.PickupRockHarvestComponent_Granite_C": 1764,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/04_W_Tropical/PickupRockHarvestComponent_Limestone.PickupRockHarvestComponent_Limestone_C": 1416,
@@ -2384,7 +2368,7 @@
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Limestone/StoneHarvestComponent_Pickup_Limestone.StoneHarvestComponent_Pickup_Limestone_C": 78764,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Marble/StoneHarvestComponent_Pickup_Marble.StoneHarvestComponent_Pickup_Marble_C": 37163,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Sandstone/StoneHarvestComponent_Pickup_Sandstone.StoneHarvestComponent_Pickup_Sandstone_C": 212378,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Pickup_Slate.StoneHarvestComponent_Pickup_Slate_C": 29064,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Pickup_Slate.StoneHarvestComponent_Pickup_Slate_C": 30336,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/PickupRockHarvestComponent_Granite.PickupRockHarvestComponent_Granite_C": 1332,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/02_NW_Temperate/PickupRockHarvestComponent_Granite.PickupRockHarvestComponent_Granite_C": 1704,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/03_E_Temperate/PickupRockHarvestComponent_Slate.PickupRockHarvestComponent_Slate_C": 4726,
@@ -2399,9 +2383,9 @@
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Limestone/StoneHarvestComponent_Pickup_Limestone.StoneHarvestComponent_Pickup_Limestone_C": 25110,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Marble/StoneHarvestComponent_Pickup_Marble.StoneHarvestComponent_Pickup_Marble_C": 13384,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Sandstone/StoneHarvestComponent_Pickup_Sandstone.StoneHarvestComponent_Pickup_Sandstone_C": 67446,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Pickup_Slate.StoneHarvestComponent_Pickup_Slate_C": 38680,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Pickup_Slate.StoneHarvestComponent_Pickup_Slate_C": 32836,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/PickupRockHarvestComponent_Granite.PickupRockHarvestComponent_Granite_C": 3672,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/09_C_HighDesert/PickupRockHarvestComponent_Sandstone.PickupRockHarvestComponent_Sandstone_C": 3773
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/09_C_HighDesert/PickupRockHarvestComponent_Sandstone.PickupRockHarvestComponent_Sandstone_C": 3767
 	},
 	"SM_PickUp_Rock_Sml_C_5_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Coquina/StoneHarvestComponent_Pickup_Coquina.StoneHarvestComponent_Pickup_Coquina_C": 26217,
@@ -2410,9 +2394,9 @@
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Limestone/StoneHarvestComponent_Pickup_Limestone.StoneHarvestComponent_Pickup_Limestone_C": 35500,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Marble/StoneHarvestComponent_Pickup_Marble.StoneHarvestComponent_Pickup_Marble_C": 13755,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Sandstone/StoneHarvestComponent_Pickup_Sandstone.StoneHarvestComponent_Pickup_Sandstone_C": 127698,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Pickup_Slate.StoneHarvestComponent_Pickup_Slate_C": 35618,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Pickup_Slate.StoneHarvestComponent_Pickup_Slate_C": 29780,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/PickupRockHarvestComponent_Granite.PickupRockHarvestComponent_Granite_C": 3622,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/09_C_HighDesert/PickupRockHarvestComponent_Sandstone.PickupRockHarvestComponent_Sandstone_C": 3852
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/09_C_HighDesert/PickupRockHarvestComponent_Sandstone.PickupRockHarvestComponent_Sandstone_C": 3846
 	},
 	"SM_PipeSponge_A_settings": {
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Trench/CoralHarvestComponent_Fire_Hit.CoralHarvestComponent_Fire_Hit_C": 6480
@@ -2441,7 +2425,7 @@
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/BerryHarvestComponent.BerryHarvestComponent_C": 42
 	},
 	"SM_QuartzA_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Crystal/CrystalHarvestComponent_Quartz.CrystalHarvestComponent_Quartz_C": 54674,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Crystal/CrystalHarvestComponent_Quartz.CrystalHarvestComponent_Quartz_C": 51234,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/CrystalHarvestComponent_Quartz.CrystalHarvestComponent_Quartz_C": 885
 	},
 	"SM_Radiolarite_settings": {
@@ -2510,21 +2494,21 @@
 	},
 	"SM_RhapisExcelsa_A_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Fiber/FiberHarvestComponent_Hemp.FiberHarvestComponent_Hemp_C": 903813,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Fiber/FiberHarvestComponent_Straw.FiberHarvestComponent_Straw_C": 818791,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Fiber/FiberHarvestComponent_Straw.FiberHarvestComponent_Straw_C": 800059,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/03_E_Temperate/BerryHarvestComponent_Schisandra.BerryHarvestComponent_Schisandra_C": 89,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Bilberry.BerryHarvestComponent_Bilberry_C": 16
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Bilberry.BerryHarvestComponent_Bilberry_C": 12
 	},
 	"SM_RhapisExcelsa_B_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Fiber/FiberHarvestComponent_Hemp.FiberHarvestComponent_Hemp_C": 915996,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Fiber/FiberHarvestComponent_Straw.FiberHarvestComponent_Straw_C": 819062,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Fiber/FiberHarvestComponent_Straw.FiberHarvestComponent_Straw_C": 800502,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/03_E_Temperate/BerryHarvestComponent_Blackberry.BerryHarvestComponent_Blackberry_C": 89,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Bilberry.BerryHarvestComponent_Bilberry_C": 16
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Bilberry.BerryHarvestComponent_Bilberry_C": 12
 	},
 	"SM_RhapisExcelsa_C_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Fiber/FiberHarvestComponent_Hemp.FiberHarvestComponent_Hemp_C": 916301,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Fiber/FiberHarvestComponent_Straw.FiberHarvestComponent_Straw_C": 819814,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Fiber/FiberHarvestComponent_Straw.FiberHarvestComponent_Straw_C": 801194,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/03_E_Temperate/BerryHarvestComponent_Blackberry.BerryHarvestComponent_Blackberry_C": 89,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Bilberry.BerryHarvestComponent_Bilberry_C": 16
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Bilberry.BerryHarvestComponent_Bilberry_C": 12
 	},
 	"SM_RhapisExcelsa_D_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Fiber/FiberHarvestComponent_Hemp.FiberHarvestComponent_Hemp_C": 914393,
@@ -2554,18 +2538,18 @@
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Granite/StoneHarvestComponent_Large_Granite.StoneHarvestComponent_Large_Granite_C": 8888,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Limestone/StoneHarvestComponent_Large_Limestone.StoneHarvestComponent_Large_Limestone_C": 24264,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Sandstone/StoneHarvestComponent_Large_Sandstone.StoneHarvestComponent_Large_Sandstone_C": 19144,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Large_Slate.StoneHarvestComponent_Large_Slate_C": 5112,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Large_Slate.StoneHarvestComponent_Large_Slate_C": 4016,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/02_NW_Temperate/StoneHarvestComponent_Large.StoneHarvestComponent_Large_C": 1689,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/03_E_Temperate/StoneHarvestComponent_Large.StoneHarvestComponent_Large_C": 45,
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/03_E_Temperate/StoneHarvestComponent_Large.StoneHarvestComponent_Large_C": 41,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/04_W_Tropical/StoneHarvestComponent_Large.StoneHarvestComponent_Large_C": 3044
 	},
 	"SM_Rocks_Med_B_Settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Coquina/StoneHarvestComponent_Large_Coquina.StoneHarvestComponent_Large_Coquina_C": 60417,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Limestone/StoneHarvestComponent_Large_Limestone.StoneHarvestComponent_Large_Limestone_C": 24191,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Sandstone/StoneHarvestComponent_Large_Sandstone.StoneHarvestComponent_Large_Sandstone_C": 19254,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Large_Slate.StoneHarvestComponent_Large_Slate_C": 5076,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Large_Slate.StoneHarvestComponent_Large_Slate_C": 3956,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/02_NW_Temperate/StoneHarvestComponent_Large.StoneHarvestComponent_Large_C": 1774,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/03_E_Temperate/StoneHarvestComponent_Large.StoneHarvestComponent_Large_C": 55,
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/03_E_Temperate/StoneHarvestComponent_Large.StoneHarvestComponent_Large_C": 51,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/04_W_Tropical/StoneHarvestComponent_Large.StoneHarvestComponent_Large_C": 2954
 	},
 	"SM_Rocks_Med_C_Settings": {
@@ -2573,18 +2557,18 @@
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Granite/StoneHarvestComponent_Large_Granite.StoneHarvestComponent_Large_Granite_C": 8756,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Limestone/StoneHarvestComponent_Large_Limestone.StoneHarvestComponent_Large_Limestone_C": 19620,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Sandstone/StoneHarvestComponent_Large_Sandstone.StoneHarvestComponent_Large_Sandstone_C": 19457,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Large_Slate.StoneHarvestComponent_Large_Slate_C": 5188,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Large_Slate.StoneHarvestComponent_Large_Slate_C": 4068,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/02_NW_Temperate/StoneHarvestComponent_Large.StoneHarvestComponent_Large_C": 1701,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/03_E_Temperate/StoneHarvestComponent_Large.StoneHarvestComponent_Large_C": 50,
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/03_E_Temperate/StoneHarvestComponent_Large.StoneHarvestComponent_Large_C": 46,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/04_W_Tropical/StoneHarvestComponent_Large.StoneHarvestComponent_Large_C": 2970
 	},
 	"SM_Rocks_Med_D_Settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Coquina/StoneHarvestComponent_Large_Coquina.StoneHarvestComponent_Large_Coquina_C": 43957,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Limestone/StoneHarvestComponent_Large_Limestone.StoneHarvestComponent_Large_Limestone_C": 16682,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Sandstone/StoneHarvestComponent_Large_Sandstone.StoneHarvestComponent_Large_Sandstone_C": 15552,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Large_Slate.StoneHarvestComponent_Large_Slate_C": 3756,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Large_Slate.StoneHarvestComponent_Large_Slate_C": 2636,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/02_NW_Temperate/StoneHarvestComponent_Large.StoneHarvestComponent_Large_C": 1709,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/03_E_Temperate/StoneHarvestComponent_Large.StoneHarvestComponent_Large_C": 43,
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/03_E_Temperate/StoneHarvestComponent_Large.StoneHarvestComponent_Large_C": 39,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/04_W_Tropical/StoneHarvestComponent_Large.StoneHarvestComponent_Large_C": 2153
 	},
 	"SM_Root_01_settings": {
@@ -2686,7 +2670,7 @@
 	},
 	"SM_Silver_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Metal/MetalHarvestComponent_Iron.MetalHarvestComponent_Iron_C": 2060,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Metal/MetalHarvestComponent_Silver.MetalHarvestComponent_Silver_C": 55072,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Metal/MetalHarvestComponent_Silver.MetalHarvestComponent_Silver_C": 52572,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/03_E_Temperate/MetalHarvestComponent_Silver.MetalHarvestComponent_Silver_C": 227
 	},
 	"SM_Skeleton_Pile_01_settings": {
@@ -2763,14 +2747,12 @@
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/BerryHarvestComponent_Sugarcane.BerryHarvestComponent_Sugarcane_C": 67
 	},
 	"SM_Sugar_CaneB_Settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Fiber/FiberHarvestComponent_BASE.FiberHarvestComponent_BASE_C": 9152,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Vegetable/VeggieHarvestComponent_Sugarcane.VeggieHarvestComponent_Sugarcane_C": 19916,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/BerryHarvestComponent_Sugarcane.BerryHarvestComponent_Sugarcane_C": 83
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/BerryHarvestComponent_Sugarcane.BerryHarvestComponent_Sugarcane_C": 67
 	},
 	"SM_Sunstone_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Gem/GemHarvestComponent_Sunstone.GemHarvestComponent_Sunstone_C": 24,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Freeport/StoneHarvestComponent_Medium_Freeport.StoneHarvestComponent_Medium_Freeport_C": 16944,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/08_Polar/CrystalHarvestComponent_Opal.CrystalHarvestComponent_Opal_C": 20
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/08_Polar/CrystalHarvestComponent_Opal.CrystalHarvestComponent_Opal_C": 4
 	},
 	"SM_TableCoral_01_settings": {
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Trench/CoralHarvestComponent_Fire_Hit.CoralHarvestComponent_Fire_Hit_C": 1044
@@ -2779,28 +2761,25 @@
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/Trench/CoralHarvestComponent_Fire_Hit.CoralHarvestComponent_Fire_Hit_C": 720
 	},
 	"SM_Tellurite_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Crystal/CrystalHarvestComponent_Tellurite.CrystalHarvestComponent_Tellurite_C": 16896,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/06_W_Tundra/CrystalHarvestComponent_Tellurite.CrystalHarvestComponent_Tellurite_C": 31
+		"/Game/Atlas/AtlasCoreBP/Harvest/Crystal/CrystalHarvestComponent_Tellurite.CrystalHarvestComponent_Tellurite_C": 14886,
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/06_W_Tundra/CrystalHarvestComponent_Tellurite.CrystalHarvestComponent_Tellurite_C": 25
 	},
 	"SM_TropicalPalm1_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Fiber/FiberHarvestComponent_BASE.FiberHarvestComponent_BASE_C": 320,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Fiber/FiberHarvestComponent_Hemp.FiberHarvestComponent_Hemp_C": 22230,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Fiber/FiberHarvestComponent_Jute.FiberHarvestComponent_Jute_C": 1083949,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Fiber/FiberHarvestComponent_Straw.FiberHarvestComponent_Straw_C": 600964,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/FiberHarvestComponent_Jute.FiberHarvestComponent_Jute_C": 322
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/FiberHarvestComponent_Jute.FiberHarvestComponent_Jute_C": 306
 	},
 	"SM_TropicalPalm2_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Fiber/FiberHarvestComponent_BASE.FiberHarvestComponent_BASE_C": 41808,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Fiber/FiberHarvestComponent_Hemp.FiberHarvestComponent_Hemp_C": 21740,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Fiber/FiberHarvestComponent_Jute.FiberHarvestComponent_Jute_C": 1092313,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Fiber/FiberHarvestComponent_Straw.FiberHarvestComponent_Straw_C": 589356,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/FiberHarvestComponent_Jute.FiberHarvestComponent_Jute_C": 317
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/FiberHarvestComponent_Jute.FiberHarvestComponent_Jute_C": 301
 	},
 	"SM_TropicalPalm3_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Fiber/FiberHarvestComponent_BASE.FiberHarvestComponent_BASE_C": 42304,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Fiber/FiberHarvestComponent_Jute.FiberHarvestComponent_Jute_C": 1088961,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Fiber/FiberHarvestComponent_Straw.FiberHarvestComponent_Straw_C": 564816,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/FiberHarvestComponent_Jute.FiberHarvestComponent_Jute_C": 317
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/FiberHarvestComponent_Jute.FiberHarvestComponent_Jute_C": 301
 	},
 	"SM_TumericA_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Herb/MedHerbHarvestComponent_Tumeric.MedHerbHarvestComponent_Tumeric_C": 27374,
@@ -3260,15 +3239,15 @@
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/MetalHarvestComponent_Silver.MetalHarvestComponent_Silver_C": 160
 	},
 	"Toona01_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 3008,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 2824,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.WoodHarvestComponent_Fir_C": 16
 	},
 	"Toona02_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 2980,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 2800,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.WoodHarvestComponent_Fir_C": 16
 	},
 	"Toona03_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 7960,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 8656,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.WoodHarvestComponent_Fir_C": 16
 	},
 	"Torch01_settings": {
@@ -3299,8 +3278,8 @@
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/06_W_Tundra/BerryHarvestComponent_Lignonberry.BerryHarvestComponent_Lignonberry_C": 2
 	},
 	"Turnip_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Vegetable/VeggieHarvestComponent_Turnip.VeggieHarvestComponent_Turnip_C": 4820,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/06_W_Tundra/VeggieHarvestComponent_Turnip.VeggieHarvestComponent_Turnip_C": 16
+		"/Game/Atlas/AtlasCoreBP/Harvest/Vegetable/VeggieHarvestComponent_Turnip.VeggieHarvestComponent_Turnip_C": 2964,
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/06_W_Tundra/VeggieHarvestComponent_Turnip.VeggieHarvestComponent_Turnip_C": 12
 	},
 	"TuscanBlueRosemaryBush_2_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Berries/BerryHarvestComponent_Schisandra.BerryHarvestComponent_Schisandra_C": 72948,
@@ -3331,11 +3310,11 @@
 		"None": 134
 	},
 	"Weeds01_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Herb/HerbHarvestComponent_Mint.HerbHarvestComponent_Mint_C": 64443,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Herb/HerbHarvestComponent_Mint.HerbHarvestComponent_Mint_C": 156803,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Bilberry.BerryHarvestComponent_Bilberry_C": 42
 	},
 	"Weeds02_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Herb/HerbHarvestComponent_Mint.HerbHarvestComponent_Mint_C": 64917,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Herb/HerbHarvestComponent_Mint.HerbHarvestComponent_Mint_C": 156845,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/BerryHarvestComponent_Bilberry.BerryHarvestComponent_Bilberry_C": 42
 	},
 	"WeepingCedar01_settings": {
@@ -3373,11 +3352,11 @@
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/09_C_HighDesert/FiberHarvestComponent_Jute.FiberHarvestComponent_Jute_C": 52
 	},
 	"YunnanCypress01_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 1732,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.WoodHarvestComponent_Fir_C": 12
+		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 484,
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.WoodHarvestComponent_Fir_C": 8
 	},
 	"YunnanCypress02_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 1976,
-		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.WoodHarvestComponent_Fir_C": 12
+		"/Game/Atlas/AtlasCoreBP/Harvest/Wood/WoodHarvestComponent_Pine.WoodHarvestComponent_Pine_C": 532,
+		"/Game/Atlas/AtlasCoreBP/HarvestComponents/05_E_Tundra/WoodHarvestComponent_Fir.WoodHarvestComponent_Fir_C": 8
 	}
 }

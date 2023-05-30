@@ -26289,7 +26289,8 @@
 			"Monkey",
 			"Parrot",
 			"Pig",
-			"Turtle"
+			"Turtle",
+			null
 		],
 		"biomeTags": [],
 		"biomes": [],
@@ -26304,17 +26305,10 @@
 		"name": "Cove_A_Tor",
 		"region": "Mytroa",
 		"resources": {
-			"Blackberry": 2025,
-			"Edible Greens": 728,
-			"Fibers": 728,
-			"Flint": 2861,
-			"FreshWater": 4,
 			"Fronds": 21,
 			"Oak": 21,
-			"Stone": 2861,
-			"Straw": 7874,
-			"Thatch": 3134,
-			"Wood": 3134
+			"Thatch": 3130,
+			"Wood": 3130
 		},
 		"rotation": 0,
 		"sublevels": [
@@ -26322,7 +26316,7 @@
 			"Cove_A_Far",
 			"Cove_A_Farthest",
 			"Cove_A_Marine_Warm_Near",
-			"Cove_A_Near"
+			"Cove_A_TM_Near"
 		],
 		"worldX": 650177.438,
 		"worldY": 1068054.75
@@ -26334,7 +26328,8 @@
 			"Monkey",
 			"Parrot",
 			"Pig",
-			"Turtle"
+			"Turtle",
+			null
 		],
 		"biomeTags": [],
 		"biomes": [],
@@ -26349,17 +26344,10 @@
 		"name": "Cove_A_Tor",
 		"region": "Mytroa",
 		"resources": {
-			"Blackberry": 2025,
-			"Edible Greens": 728,
-			"Fibers": 728,
-			"Flint": 2861,
-			"FreshWater": 4,
 			"Fronds": 21,
 			"Oak": 21,
-			"Stone": 2861,
-			"Straw": 7874,
-			"Thatch": 3134,
-			"Wood": 3134
+			"Thatch": 3130,
+			"Wood": 3130
 		},
 		"rotation": -79.88053,
 		"sublevels": [
@@ -26367,7 +26355,7 @@
 			"Cove_A_Far",
 			"Cove_A_Farthest",
 			"Cove_A_Marine_Warm_Near",
-			"Cove_A_Near"
+			"Cove_A_TM_Near"
 		],
 		"worldX": 1055079.5,
 		"worldY": 673537.563
@@ -26379,7 +26367,8 @@
 			"Monkey",
 			"Parrot",
 			"Pig",
-			"Turtle"
+			"Turtle",
+			null
 		],
 		"biomeTags": [],
 		"biomes": [],
@@ -26394,17 +26383,10 @@
 		"name": "Cove_A_Tor",
 		"region": "Mytroa",
 		"resources": {
-			"Blackberry": 2025,
-			"Edible Greens": 728,
-			"Fibers": 728,
-			"Flint": 2861,
-			"FreshWater": 4,
 			"Fronds": 21,
 			"Oak": 21,
-			"Stone": 2861,
-			"Straw": 7874,
-			"Thatch": 3134,
-			"Wood": 3134
+			"Thatch": 3130,
+			"Wood": 3130
 		},
 		"rotation": 88.92053,
 		"sublevels": [
@@ -26412,7 +26394,7 @@
 			"Cove_A_Far",
 			"Cove_A_Farthest",
 			"Cove_A_Marine_Warm_Near",
-			"Cove_A_Near"
+			"Cove_A_TM_Near"
 		],
 		"worldX": 279018.25,
 		"worldY": 652773.438
@@ -26424,7 +26406,8 @@
 			"Monkey",
 			"Parrot",
 			"Pig",
-			"Turtle"
+			"Turtle",
+			null
 		],
 		"biomeTags": [],
 		"biomes": [],
@@ -26439,17 +26422,10 @@
 		"name": "Cove_A_Tor",
 		"region": "Mytroa",
 		"resources": {
-			"Blackberry": 2025,
-			"Edible Greens": 728,
-			"Fibers": 728,
-			"Flint": 2861,
-			"FreshWater": 4,
 			"Fronds": 21,
 			"Oak": 21,
-			"Stone": 2861,
-			"Straw": 7874,
-			"Thatch": 3134,
-			"Wood": 3134
+			"Thatch": 3130,
+			"Wood": 3130
 		},
 		"rotation": -183.012787,
 		"sublevels": [
@@ -26457,7 +26433,7 @@
 			"Cove_A_Far",
 			"Cove_A_Farthest",
 			"Cove_A_Marine_Warm_Near",
-			"Cove_A_Near"
+			"Cove_A_TM_Near"
 		],
 		"worldX": 676132.9,
 		"worldY": 268636.344
@@ -115100,1797 +115076,6 @@
 		"worldX": 1661132.25,
 		"worldY": 8183672
 	},
-	"2373": {
-		"animals": [
-			"Bear",
-			"Chicken",
-			"Cobra",
-			"Cow",
-			"Crow",
-			"Horse",
-			"Lion",
-			"Pig",
-			"Rabbit",
-			"Seagull",
-			"Sheep",
-			"Wolf"
-		],
-		"biomeTags": [
-			"EasternTemperate",
-			"EasternTemperateMountainPeak",
-			"Temperate"
-		],
-		"biomes": [
-			{
-				"gps": [
-					91.727294921875,
-					60.04392623901367
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					91.78456115722656,
-					60.471553802490234
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					91.91117858886719,
-					60.868896484375
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					92.00696563720703,
-					61.276119232177734
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					92.0873794555664,
-					61.68635559082031
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					92.13105773925781,
-					59.95420837402344
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					92.16585540771484,
-					62.08845901489258
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					92.22949981689453,
-					60.408145904541016
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					92.31857299804688,
-					60.81897735595703
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					92.41056823730469,
-					61.20865249633789
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					92.49546813964844,
-					61.60016632080078
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					92.53385925292969,
-					59.88678741455078
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					92.57463073730469,
-					61.999820709228516
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					92.63228607177734,
-					60.34072494506836
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					92.6635971069336,
-					62.40998077392578
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					92.7171859741211,
-					60.73224639892578
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					92.74919891357422,
-					62.804752349853516
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					92.80208587646484,
-					61.12376403808594
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					92.83828735351562,
-					63.21558380126953
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					92.88697814941406,
-					61.5152702331543
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					92.9087142944336,
-					59.6804084777832
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					92.93685913085938,
-					63.67011260986328
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					92.97420501708984,
-					61.917572021484375
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					92.9953842163086,
-					60.124725341796875
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					93.06317901611328,
-					62.327720642089844
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					93.0949478149414,
-					60.583961486816406
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					93.1520004272461,
-					62.737335205078125
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					93.19359588623047,
-					61.038856506347656
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					93.23689270019531,
-					63.12884521484375
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					93.28445434570312,
-					61.42821502685547
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					93.31211853027344,
-					64.06002044677734
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					93.33544921875,
-					63.5833740234375
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					93.36017608642578,
-					61.83291244506836
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					93.39064025878906,
-					60.0173225402832
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					93.44914245605469,
-					62.24306106567383
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					93.49022674560547,
-					60.476558685302734
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					93.54351043701172,
-					62.65243148803711
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					93.5888671875,
-					60.93145751953125
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					93.62840270996094,
-					63.04395294189453
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					93.67721557617188,
-					61.341583251953125
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					93.70498657226562,
-					63.961822509765625
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					93.72697448730469,
-					63.498477935791016
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					93.75907135009766,
-					61.744476318359375
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					93.80625915527344,
-					60.08616256713867
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					93.84831237792969,
-					62.15589141845703
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					93.90121459960938,
-					60.43580627441406
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					93.92780303955078,
-					62.508487701416016
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					93.98983001708984,
-					60.84447479248047
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					94.01995849609375,
-					62.91939163208008
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					94.07817840576172,
-					61.254608154296875
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					94.1055679321289,
-					63.84303665161133
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					94.11852264404297,
-					63.373924255371094
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					94.12897491455078,
-					59.58634567260742
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					94.16954803466797,
-					61.561561584472656
-				],
-				"name": "Eastern Temperate Mountain Peak",
-				"tags": [
-					"Temperate",
-					"EasternTemperate",
-					"EasternTemperateMountainPeak"
-				],
-				"temp": [
-					-9,
-					32
-				]
-			},
-			{
-				"gps": [
-					94.1661148071289,
-					61.65617752075195
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					94.19164276123047,
-					59.941978454589844
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					94.25535583496094,
-					62.067596435546875
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					94.30487060546875,
-					60.35218048095703
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					94.3348617553711,
-					62.420188903808594
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					94.39397430419922,
-					60.76295471191406
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					94.42092895507812,
-					62.83241653442383
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					94.4776382446289,
-					61.16798400878906
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					94.5095443725586,
-					63.24108123779297
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					94.51920318603516,
-					63.728153228759766
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					94.55575561523438,
-					59.37578201293945
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					94.56578826904297,
-					61.569480895996094
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					94.61254119873047,
-					59.85064697265625
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					94.65502166748047,
-					61.98089599609375
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					94.70211791992188,
-					60.263675689697266
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					94.73452758789062,
-					62.333499908447266
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					94.79790496826172,
-					60.6708984375
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					94.8044662475586,
-					62.74924850463867
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					94.8783187866211,
-					61.08113479614258
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					94.89307403564453,
-					63.15791702270508
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					94.93643188476562,
-					63.61408996582031
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					94.96575927734375,
-					61.482601165771484
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					95.00265502929688,
-					59.271514892578125
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					95.0095443725586,
-					59.752750396728516
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					95.05438232421875,
-					61.89127731323242
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					95.1095199584961,
-					60.21376419067383
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					95.13226318359375,
-					62.24725341796875
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					95.1423110961914,
-					62.59605407714844
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					95.20150756835938,
-					60.60343933105469
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					95.24198913574219,
-					63.05559158325195
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					95.28640747070312,
-					60.99495315551758
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					95.33716583251953,
-					63.513702392578125
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					95.36557006835938,
-					61.39460372924805
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					95.40816497802734,
-					59.666019439697266
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					95.45455169677734,
-					61.804752349853516
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					95.50811767578125,
-					60.12702560424805
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					95.56104278564453,
-					62.519229888916016
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					95.59302520751953,
-					60.51853942871094
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					95.66666412353516,
-					62.97178268432617
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					95.67791748046875,
-					60.91005325317383
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					95.75531768798828,
-					63.42005157470703
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					95.76514434814453,
-					61.312355041503906
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					95.85411834716797,
-					61.72249984741211
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					95.94351196289062,
-					62.29393005371094
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					96.04261016845703,
-					62.75092315673828
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					96.04898834228516,
-					60.4196662902832
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					96.13388061523438,
-					60.811180114746094
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					96.14989471435547,
-					63.21112060546875
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					96.22112274169922,
-					61.21347427368164
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					96.24891662597656,
-					63.66780471801758
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					96.3100814819336,
-					61.623626708984375
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					96.37345886230469,
-					62.210201263427734
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					96.4710693359375,
-					62.660282135009766
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					96.57057189941406,
-					63.119293212890625
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					96.670166015625,
-					63.57860565185547
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					96.71041107177734,
-					61.712890625
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					96.80360412597656,
-					62.19889450073242
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			},
-			{
-				"gps": [
-					96.90167999267578,
-					62.651180267333984
-				],
-				"name": "Eastern Temperate",
-				"tags": [
-					"Temperate",
-					"EasternTemperate"
-				],
-				"temp": [
-					-3,
-					38
-				]
-			}
-		],
-		"discoveries": [
-			{
-				"lat": 61.5,
-				"long": 94.2,
-				"name": "Sawtooth Breach"
-			}
-		],
-		"grid": "F2",
-		"homeServer": false,
-		"id": 2373,
-		"isControlPoint": false,
-		"islandHeight": 306000,
-		"islandPoints": 57,
-		"islandWidth": 306000,
-		"maps": [
-			[
-				1,
-				1,
-				4,
-				1
-			],
-			[
-				0.4000000059604645,
-				4,
-				8,
-				2
-			],
-			[
-				0.15000000596046448,
-				8,
-				12,
-				2
-			],
-			[
-				0.05999999865889549,
-				12,
-				16,
-				2
-			],
-			[
-				0.019999999552965164,
-				16,
-				20,
-				2
-			]
-		],
-		"name": "Mnt_AU_EU",
-		"region": "Mytroa",
-		"resources": {
-			"Arctic Raspberry": 1942,
-			"Bamboo": 170,
-			"Bark": 6279,
-			"Basalt": 19846,
-			"Bilberry": 1819,
-			"Bone Chips": 1,
-			"Chalcedony": 736,
-			"Garlic": 3496,
-			"Geode": 21084,
-			"Iron": 19846,
-			"Kala Namak": 164,
-			"Limestone": 2330,
-			"Lingonberry": 19260,
-			"Maps": 6,
-			"Mint": 1800,
-			"Nitre": 356,
-			"Pine": 6279,
-			"Potato Seed": 3218,
-			"Quartz": 1238,
-			"Resin": 6279,
-			"Roots": 7485,
-			"Silver": 273,
-			"Slate": 20119,
-			"Straw": 115313,
-			"Turnip Seed": 464,
-			"Wild Potato": 3218,
-			"Wild Turnip": 464
-		},
-		"rotation": -167.765274,
-		"sublevels": [
-			"Mnt_AU_Far_05",
-			"Mnt_AU_Farthest_05",
-			"Mnt_AU_Near_05",
-			"Mnt_AU_Marine_Cold_Near",
-			"Mnt_AU_TU"
-		],
-		"worldX": 8155121.5,
-		"worldY": 1614413
-	},
 	"2374": {
 		"animals": [
 			"Bear",
@@ -127470,1946 +125655,6 @@
 		],
 		"worldX": 5855492.5,
 		"worldY": 1090118.75
-	},
-	"2379": {
-		"animals": [
-			"Bear",
-			"Cod",
-			"Crow",
-			"Penguin",
-			"Rabbit",
-			"Seagull",
-			"Wolf",
-			"Yeti"
-		],
-		"biomeTags": [
-			"Polar",
-			"PolarFrigid",
-			"PolarWindy"
-		],
-		"biomes": [
-			{
-				"gps": [
-					-36.11087417602539,
-					-92.3892822265625
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-36.16572570800781,
-					-92.74274444580078
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-36.41021728515625,
-					-91.98035430908203
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-36.46516799926758,
-					-92.33433532714844
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-36.52001190185547,
-					-92.68779754638672
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-36.57496643066406,
-					-93.0417709350586
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-36.62990188598633,
-					-93.39568328857422
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-36.73957824707031,
-					-94.10371398925781
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-36.76108932495117,
-					-91.92594146728516
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-36.794517517089844,
-					-94.4576187133789
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-36.816036224365234,
-					-92.27991485595703
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-36.849273681640625,
-					-94.81065368652344
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-36.870887756347656,
-					-92.63337707519531
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-36.90422439575195,
-					-95.16463470458984
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-36.92584228515625,
-					-92.98735809326172
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-36.959163665771484,
-					-95.51852416992188
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-36.98078155517578,
-					-93.34126281738281
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-37.03569030761719,
-					-93.69528198242188
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-37.09064483642578,
-					-94.04926300048828
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-37.116363525390625,
-					-91.87083435058594
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-37.14558410644531,
-					-94.40316772460938
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-37.17131805419922,
-					-92.22480773925781
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-37.200340270996094,
-					-94.7562026977539
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-37.22616195678711,
-					-92.57827758789062
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-37.25529479980469,
-					-95.11017608642578
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-37.28111267089844,
-					-92.93223571777344
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-37.31023025512695,
-					-95.46408081054688
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-37.336055755615234,
-					-93.28614807128906
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-37.36494827270508,
-					-95.81654357910156
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-37.39096450805664,
-					-93.64017486572266
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-37.41965103149414,
-					-96.16893005371094
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-37.445919036865234,
-					-93.99415588378906
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-37.46704864501953,
-					-91.81639862060547
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-37.500858306884766,
-					-94.34806060791016
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-37.521995544433594,
-					-92.17037200927734
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-37.55561447143555,
-					-94.70109558105469
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-37.576847076416016,
-					-92.52383422851562
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-37.610565185546875,
-					-95.0550765991211
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-37.66550827026367,
-					-95.40897369384766
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-37.7202262878418,
-					-95.76144409179688
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-37.71676254272461,
-					-96.48675537109375
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-37.77492904663086,
-					-96.11381530761719
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-37.822105407714844,
-					-91.76129913330078
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-37.87705993652344,
-					-92.11527252197266
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-37.93190383911133,
-					-92.46873474121094
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-38.06878662109375,
-					-96.43216705322266
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-38.10984420776367,
-					-93.2365951538086
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-38.17278289794922,
-					-91.70686340332031
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-38.22773742675781,
-					-92.06083679199219
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-38.2825813293457,
-					-92.41429901123047
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-38.292972564697266,
-					-94.41657257080078
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-38.42093276977539,
-					-96.37754821777344
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-38.4744987487793,
-					-95.58626556396484
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-38.52530288696289,
-					-91.65216827392578
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-38.580257415771484,
-					-92.0061264038086
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-38.635101318359375,
-					-92.3595962524414
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-38.7740478515625,
-					-96.3227767944336
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-38.8759880065918,
-					-91.59770965576172
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-38.93093490600586,
-					-91.95169067382812
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-38.98578643798828,
-					-92.3051528930664
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-39.09565353393555,
-					-93.93779754638672
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarFrigid"
-				],
-				"temp": [
-					-43,
-					5
-				]
-			},
-			{
-				"gps": [
-					-39.126190185546875,
-					-96.26815032958984
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-39.23057174682617,
-					-91.54269409179688
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-39.2855224609375,
-					-91.89666748046875
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-39.28739929199219,
-					-93.05390930175781
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-39.34037399291992,
-					-92.25012969970703
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-39.470523834228516,
-					-94.23387908935547
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-39.47663497924805,
-					-96.21376037597656
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-39.58125686645508,
-					-91.4882583618164
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-39.63620376586914,
-					-91.84223937988281
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-39.65204620361328,
-					-95.40355682373047
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-39.69105529785156,
-					-92.19568634033203
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-39.829750061035156,
-					-96.15898895263672
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-39.911781311035156,
-					-91.29119110107422
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-40.12256622314453,
-					-93.39056396484375
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-40.17732238769531,
-					-93.74356842041016
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-40.18189239501953,
-					-96.1043701171875
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-40.231868743896484,
-					-94.09526824951172
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-40.26323699951172,
-					-91.23664855957031
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-40.277896881103516,
-					-91.69586944580078
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-40.286529541015625,
-					-94.44767761230469
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-40.33990478515625,
-					-94.79788208007812
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-40.39437484741211,
-					-95.14905548095703
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-40.411964416503906,
-					-92.55999755859375
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-40.448753356933594,
-					-95.49964904785156
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-40.47380828857422,
-					-93.3360366821289
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-40.50348663330078,
-					-95.85252380371094
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-40.528564453125,
-					-93.68904876708984
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-40.58311462402344,
-					-94.0407485961914
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-40.61671447753906,
-					-91.1817626953125
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-40.63766098022461,
-					-94.3924331665039
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-40.6933708190918,
-					-94.74304962158203
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-40.747840881347656,
-					-95.09423828125
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-40.80221176147461,
-					-95.44483184814453
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-40.82699966430664,
-					-93.27619171142578
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-40.85695266723633,
-					-95.79769897460938
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-40.88191604614258,
-					-93.63021087646484
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-40.93663024902344,
-					-93.98297882080078
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-40.96887969970703,
-					-91.1270980834961
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-40.991172790527344,
-					-94.33465576171875
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-41.0234260559082,
-					-91.4787826538086
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-41.04828643798828,
-					-94.68795013427734
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-41.078277587890625,
-					-91.832275390625
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-41.10275650024414,
-					-95.03913879394531
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-41.132835388183594,
-					-92.18397521972656
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-41.15713119506836,
-					-95.38973236083984
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-41.18046569824219,
-					-93.22136688232422
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-41.187347412109375,
-					-92.53546905517578
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-41.21187210083008,
-					-95.74260711669922
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-41.24177551269531,
-					-92.88636016845703
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-41.235382080078125,
-					-93.57539367675781
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-41.290096282958984,
-					-93.92815399169922
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-41.32233810424805,
-					-91.07221221923828
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-41.344635009765625,
-					-94.27983093261719
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-41.37688446044922,
-					-91.42391967773438
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-41.43173599243164,
-					-91.77740478515625
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-41.48628616333008,
-					-92.12910461425781
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-41.540809631347656,
-					-92.4805908203125
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-41.53538131713867,
-					-93.16627502441406
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-41.59029006958008,
-					-93.52029418945312
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-41.59523391723633,
-					-92.83148956298828
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-41.64500427246094,
-					-93.87306213378906
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			},
-			{
-				"gps": [
-					-41.699554443359375,
-					-94.22473907470703
-				],
-				"name": "Polar",
-				"tags": [
-					"Polar",
-					"PolarWindy"
-				],
-				"temp": [
-					-27,
-					17
-				]
-			}
-		],
-		"discoveries": [
-			{
-				"lat": -93.9,
-				"long": -38.8,
-				"name": "Reef of the Reserved"
-			}
-		],
-		"grid": "B6",
-		"homeServer": false,
-		"id": 2379,
-		"isControlPoint": false,
-		"islandHeight": 306000,
-		"islandPoints": 57,
-		"islandWidth": 306000,
-		"maps": [
-			[
-				1,
-				1,
-				4,
-				1
-			],
-			[
-				0.4000000059604645,
-				4,
-				8,
-				2
-			],
-			[
-				0.15000000596046448,
-				8,
-				12,
-				2
-			],
-			[
-				0.05999999865889549,
-				12,
-				16,
-				2
-			],
-			[
-				0.019999999552965164,
-				16,
-				20,
-				2
-			]
-		],
-		"name": "Mnt_T_CP_C",
-		"region": "Mytroa",
-		"resources": {
-			"Bark": 679,
-			"Basalt": 3302,
-			"Brimstone": 1,
-			"Crude Oil": 80,
-			"Geode": 3453,
-			"Iridium": 320,
-			"Iron": 3336,
-			"Lignite": 206,
-			"Limestone": 725,
-			"Maps": 34,
-			"Marble": 68,
-			"Pine": 679,
-			"Resin": 679,
-			"Silver": 1319,
-			"Slate": 9752,
-			"Tellurite": 335
-		},
-		"rotation": -81.17962,
-		"sublevels": [
-			"Mnt_T_Far_08C",
-			"Mnt_T_Farthest_08C",
-			"Mnt_T_Near_08C",
-			"Mnt_T_Marine_Cold_Near",
-			"Mnt_T_PO"
-		],
-		"worldX": 2553990.25,
-		"worldY": 8144739
 	},
 	"2380": {
 		"animals": [
@@ -179694,7 +175939,8 @@
 			"Monkey",
 			"Parrot",
 			"Seagull",
-			"Turtle"
+			"Turtle",
+			null
 		],
 		"biomeTags": [
 			"Tropical",
@@ -192224,6 +188470,7 @@
 			"Acerola": 511,
 			"Bark": 3056,
 			"Basalt": 3650,
+			"Bone Chips": 1,
 			"Calcite": 24,
 			"Chert": 18,
 			"Chickpea Seed": 7955,
@@ -211064,7 +207311,7 @@
 			"Acai": 1714,
 			"Bark": 16782,
 			"Basalt": 12182,
-			"Bone Chips": 1,
+			"Brimstone": 1,
 			"Cocoa": 285,
 			"Coquina": 13965,
 			"Fir": 285,
@@ -211101,5 +207348,2143 @@
 		],
 		"worldX": 6677342.5,
 		"worldY": 5871385
+	},
+	"2620": {
+		"animals": [
+			"Bear",
+			"Chicken",
+			"Cobra",
+			"Cow",
+			"Crow",
+			"Horse",
+			"Lion",
+			"Pig",
+			"Rabbit",
+			"Seagull",
+			"Sheep",
+			"Wolf"
+		],
+		"biomeTags": [
+			"EasternTundra",
+			"EasternTundraMountainPeak",
+			"EasternTundraWindy",
+			"Tundra"
+		],
+		"biomes": [
+			{
+				"gps": [
+					90.94635009765625,
+					61.03500747680664
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					91.10591125488281,
+					64.1356201171875
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					91.43560791015625,
+					58.0157470703125
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					91.52534484863281,
+					59.3287239074707
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					91.5253677368164,
+					60.03669357299805
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					91.525390625,
+					60.745174407958984
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					91.525634765625,
+					62.876766204833984
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					91.5256576538086,
+					63.587791442871094
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					92.21603393554688,
+					58.604366302490234
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					92.2351303100586,
+					59.3287467956543
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					92.23515319824219,
+					60.036720275878906
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					92.23517608642578,
+					60.74519729614258
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					92.235107421875,
+					61.4603385925293
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					92.2351303100586,
+					62.16831970214844
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					92.23754119873047,
+					62.87678909301758
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					92.23756408691406,
+					63.58781433105469
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					92.9272689819336,
+					58.60438919067383
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					92.94546508789062,
+					59.32155227661133
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra"
+				],
+				"temp": [
+					-20,
+					27
+				]
+			},
+			{
+				"gps": [
+					92.94544219970703,
+					60.03573989868164
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra"
+				],
+				"temp": [
+					-20,
+					27
+				]
+			},
+			{
+				"gps": [
+					92.9454116821289,
+					60.74962615966797
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra"
+				],
+				"temp": [
+					-20,
+					27
+				]
+			},
+			{
+				"gps": [
+					92.9454116821289,
+					61.460365295410156
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					92.94544219970703,
+					62.16834259033203
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					92.94784545898438,
+					62.87681579589844
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					92.94786834716797,
+					63.58783721923828
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					93.64537048339844,
+					58.60441207885742
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					93.65657806396484,
+					59.321529388427734
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra"
+				],
+				"temp": [
+					-20,
+					27
+				]
+			},
+			{
+				"gps": [
+					93.65655517578125,
+					60.03571701049805
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra"
+				],
+				"temp": [
+					-20,
+					27
+				]
+			},
+			{
+				"gps": [
+					93.658203125,
+					60.74964904785156
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra"
+				],
+				"temp": [
+					-20,
+					27
+				]
+			},
+			{
+				"gps": [
+					93.658203125,
+					61.46038818359375
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					93.65872955322266,
+					62.17483901977539
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					93.65875244140625,
+					62.8858642578125
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					93.65877532958984,
+					63.59607696533203
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					93.79025268554688,
+					64.38219451904297
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					94.30608367919922,
+					61.15874481201172
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraMountainPeak"
+				],
+				"temp": [
+					-28,
+					20
+				]
+			},
+			{
+				"gps": [
+					94.35841369628906,
+					58.60441207885742
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					94.36458587646484,
+					59.32150650024414
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra"
+				],
+				"temp": [
+					-20,
+					27
+				]
+			},
+			{
+				"gps": [
+					94.36456298828125,
+					60.03569412231445
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra"
+				],
+				"temp": [
+					-20,
+					27
+				]
+			},
+			{
+				"gps": [
+					94.36739349365234,
+					60.749698638916016
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra"
+				],
+				"temp": [
+					-20,
+					27
+				]
+			},
+			{
+				"gps": [
+					94.36739349365234,
+					61.46043395996094
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					94.37063598632812,
+					62.174861907958984
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					94.37065887451172,
+					62.885887145996094
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					94.37068176269531,
+					63.596099853515625
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					95.0765151977539,
+					58.60443878173828
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					95.07987213134766,
+					59.32147979736328
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra"
+				],
+				"temp": [
+					-20,
+					27
+				]
+			},
+			{
+				"gps": [
+					95.07984161376953,
+					60.03567123413086
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra"
+				],
+				"temp": [
+					-20,
+					27
+				]
+			},
+			{
+				"gps": [
+					95.07725524902344,
+					60.749671936035156
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra"
+				],
+				"temp": [
+					-20,
+					27
+				]
+			},
+			{
+				"gps": [
+					95.07725524902344,
+					61.460411071777344
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					95.08094024658203,
+					62.17488479614258
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					95.08096313476562,
+					62.88591003417969
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					95.08098602294922,
+					63.59612274169922
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					95.2661361694336,
+					57.96897888183594
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					95.78433990478516,
+					58.60443878173828
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					95.79301452636719,
+					60.74964904785156
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra"
+				],
+				"temp": [
+					-20,
+					27
+				]
+			},
+			{
+				"gps": [
+					95.79301452636719,
+					61.46038818359375
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					95.79303741455078,
+					62.172889709472656
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					95.79306030273438,
+					62.88810348510742
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					95.79308319091797,
+					63.59831619262695
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					95.7956314086914,
+					59.32145690917969
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra"
+				],
+				"temp": [
+					-20,
+					27
+				]
+			},
+			{
+				"gps": [
+					95.79560852050781,
+					60.03564453125
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra"
+				],
+				"temp": [
+					-20,
+					27
+				]
+			},
+			{
+				"gps": [
+					96.50244140625,
+					58.604461669921875
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					96.5024185180664,
+					59.314842224121094
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					96.50244140625,
+					60.03005599975586
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					96.50239562988281,
+					60.74395751953125
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					96.5024185180664,
+					61.459171295166016
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					96.50237274169922,
+					62.17286682128906
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					96.50239562988281,
+					62.88808059692383
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					96.5024185180664,
+					63.59709930419922
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					97.59196472167969,
+					62.602413177490234
+				],
+				"name": "Eastern Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			}
+		],
+		"discoveries": [
+			{
+				"lat": 61.5,
+				"long": 94.2,
+				"name": "Sawtooth Breach"
+			}
+		],
+		"grid": "F2",
+		"homeServer": false,
+		"id": 2620,
+		"isControlPoint": false,
+		"islandHeight": 306000,
+		"islandPoints": 57,
+		"islandWidth": 306000,
+		"maps": [
+			[
+				1,
+				1,
+				4,
+				1
+			],
+			[
+				0.4000000059604645,
+				4,
+				8,
+				2
+			],
+			[
+				0.15000000596046448,
+				8,
+				12,
+				2
+			],
+			[
+				0.05999999865889549,
+				12,
+				16,
+				2
+			],
+			[
+				0.019999999552965164,
+				16,
+				20,
+				2
+			]
+		],
+		"name": "Mnt_Y_EU_B",
+		"region": "Mytroa",
+		"resources": {
+			"Arctic Raspberry": 1976,
+			"Bark": 3785,
+			"Basalt": 13514,
+			"Bone Chips": 1,
+			"Chalcedony": 637,
+			"Garlic": 870,
+			"Geode": 13892,
+			"Iron": 13514,
+			"Limestone": 1015,
+			"Lingonberry": 3043,
+			"Maps": 45,
+			"Mint": 47872,
+			"Pine": 3785,
+			"Quartz": 378,
+			"Resin": 3785,
+			"Roots": 1489,
+			"Silver": 650,
+			"Slate": 14164,
+			"Straw": 81319
+		},
+		"rotation": 0,
+		"sublevels": [
+			"Mnt_Y_Far_05B",
+			"Mnt_Y_Farthest_05B",
+			"Mnt_Y_Marine_Cold_Near",
+			"Mnt_Y_Near_05B",
+			"Mnt_Y_PO"
+		],
+		"worldX": 8155697.5,
+		"worldY": 1631139.75
+	},
+	"2625": {
+		"animals": [
+			"Bear",
+			"Crow",
+			"Penguin",
+			"Rabbit",
+			"Seagull",
+			"Wolf",
+			"Yeti"
+		],
+		"biomeTags": [
+			"Polar",
+			"PolarFrigid",
+			"PolarWindy"
+		],
+		"biomes": [
+			{
+				"gps": [
+					-36.915653228759766,
+					-94.87782287597656
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-36.954463958740234,
+					-93.31805419921875
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-36.954463958740234,
+					-93.64163208007812
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-36.954463958740234,
+					-93.96543884277344
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-37.270179748535156,
+					-92.99424743652344
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-37.2686882019043,
+					-93.32020568847656
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-37.2686882019043,
+					-93.6437759399414
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-37.270416259765625,
+					-93.96543884277344
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-37.270416259765625,
+					-94.29044342041016
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-37.58589172363281,
+					-92.67020416259766
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-37.58511734008789,
+					-92.9947280883789
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-37.58511734008789,
+					-93.32020568847656
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-37.585594177246094,
+					-93.6437759399414
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-37.585594177246094,
+					-93.96543884277344
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-37.586368560791016,
+					-94.29044342041016
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-37.586368560791016,
+					-94.61425018310547
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-37.586368560791016,
+					-94.93901062011719
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-37.9018440246582,
+					-92.34544372558594
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-37.9018440246582,
+					-92.66972351074219
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-37.901309967041016,
+					-92.9935302734375
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-37.9018440246582,
+					-93.31758880615234
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-37.9018440246582,
+					-93.6418685913086
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-37.90256118774414,
+					-93.96639251708984
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-37.90256118774414,
+					-94.28853607177734
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-37.90256118774414,
+					-94.61425018310547
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-38.21803665161133,
+					-92.34544372558594
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-38.217262268066406,
+					-92.66876983642578
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-38.217559814453125,
+					-92.9935302734375
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-38.217559814453125,
+					-93.31758880615234
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-38.438926696777344,
+					-94.04067993164062
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-38.438926696777344,
+					-94.36448669433594
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-38.438926696777344,
+					-94.68949127197266
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-38.53398895263672,
+					-92.34544372558594
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-38.533748626708984,
+					-92.66948699951172
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-38.533748626708984,
+					-92.9935302734375
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-38.75535583496094,
+					-94.04067993164062
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-38.75535583496094,
+					-94.36544036865234
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-38.75535583496094,
+					-94.68949127197266
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-38.75535583496094,
+					-95.01472473144531
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-38.75535583496094,
+					-95.34020233154297
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-38.84994125366211,
+					-92.34544372558594
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-38.84994125366211,
+					-92.66948699951172
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-38.94071960449219,
+					-94.00769805908203
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarFrigid"
+				],
+				"temp": [
+					-43,
+					5
+				]
+			},
+			{
+				"gps": [
+					-39.072025299072266,
+					-94.36544036865234
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-39.069881439208984,
+					-94.68924713134766
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-39.069881439208984,
+					-95.01425170898438
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-39.070594787597656,
+					-95.34020233154297
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-39.388450622558594,
+					-94.36544036865234
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-39.385597229003906,
+					-94.68924713134766
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-39.38630676269531,
+					-95.01425170898438
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-39.38630676269531,
+					-95.34020233154297
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-39.70392990112305,
+					-94.36544036865234
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-39.702735900878906,
+					-94.68924713134766
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-39.702735900878906,
+					-95.01425170898438
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-39.7020263671875,
+					-95.34020233154297
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-40.01750183105469,
+					-94.6916275024414
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-40.01750183105469,
+					-95.01592254638672
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			},
+			{
+				"gps": [
+					-40.01750183105469,
+					-95.34020233154297
+				],
+				"name": "Polar",
+				"tags": [
+					"Polar",
+					"PolarWindy"
+				],
+				"temp": [
+					-27,
+					17
+				]
+			}
+		],
+		"discoveries": [
+			{
+				"lat": -93.8,
+				"long": -38.8,
+				"name": "Reef of the Reserved"
+			}
+		],
+		"grid": "B6",
+		"homeServer": false,
+		"id": 2625,
+		"isControlPoint": false,
+		"islandHeight": 204000,
+		"islandPoints": 35,
+		"islandWidth": 204000,
+		"maps": [
+			[
+				1,
+				1,
+				4,
+				1
+			],
+			[
+				0.4000000059604645,
+				4,
+				8,
+				2
+			],
+			[
+				0.15000000596046448,
+				8,
+				12,
+				2
+			],
+			[
+				0.05999999865889549,
+				12,
+				16,
+				2
+			],
+			[
+				0.019999999552965164,
+				16,
+				20,
+				2
+			]
+		],
+		"name": "Mnt_J_CP_D",
+		"region": "Mytroa",
+		"resources": {
+			"Bark": 235,
+			"Basalt": 2305,
+			"Brimstone": 1,
+			"Crude Oil": 40,
+			"Geode": 1893,
+			"Iridium": 16,
+			"Iron": 2271,
+			"Lignite": 463,
+			"Limestone": 875,
+			"Maps": 16,
+			"Pine": 235,
+			"Resin": 235,
+			"Silver": 651,
+			"Slate": 6476
+		},
+		"rotation": 0,
+		"sublevels": [
+			"Mnt_J_Far_08D",
+			"Mnt_J_Farthest_08D",
+			"Mnt_J_Near_08B",
+			"Mnt_J_Marine_Cold_Near",
+			"Mnt_J_PO"
+		],
+		"worldX": 2573729.75,
+		"worldY": 8145700.5
 	}
 }
