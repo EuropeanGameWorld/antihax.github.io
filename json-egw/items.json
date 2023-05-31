@@ -3108,15 +3108,6 @@
                 "addOverTime": false,
                 "addOverTimeSpeed": 0.0
             },
-            "Stamina_DecT": {
-                "modify": -0.5
-            },
-            "Stamina_DepT": {
-                "modify": -0.5
-            },
-            "Stamina_Regen": {
-                "modify": 0.699999988079071
-            },
             "Torpidity": {
                 "add": 0.0,
                 "addOverTime": false,
@@ -3150,9 +3141,6 @@
                 "add": 100.0,
                 "addOverTime": false,
                 "addOverTimeSpeed": 1.0
-            },
-            "Health_Regen_NotInCombat": {
-                "modify": 2.0
             },
             "Torpidity": {
                 "add": 0.0,
@@ -7087,7 +7075,7 @@
         "Icon": "ICON_IndustrialSmithy",
         "Ingredients": {
             "Brimstone": 50.0,
-            "Metal": 100.0,
+            "Orichalcum": 100.0,
             "Pure Sulfur": 60.0,
             "Wood": 50.0
         },

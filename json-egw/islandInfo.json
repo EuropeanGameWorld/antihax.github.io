@@ -567,10 +567,6 @@
         "id": 2614,
         "islandPoints": 35
     },
-    "2618": {
-        "id": 2618,
-        "islandPoints": 100
-    },
     "2620": {
         "id": 2620,
         "islandPoints": 57
@@ -578,5 +574,9 @@
     "2625": {
         "id": 2625,
         "islandPoints": 35
+    },
+    "2626": {
+        "id": 2626,
+        "islandPoints": 57
     }
 }
