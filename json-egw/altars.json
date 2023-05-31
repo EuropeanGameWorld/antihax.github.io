@@ -98,5 +98,20 @@
 		"lat": -37.79669189453125,
 		"long": 76.78775024414062,
 		"name": "Sulfur Pit"
-	}
+	},
+	{
+		"lat": -40,
+		"long": 59.23,
+		"name": "Altar of the Damned"
+	},
+	{
+		"lat": -40.55,
+		"long": 59.59,
+		"name": "Lava Vent"
+	},
+	{
+		"lat": -40.72,
+		"long": 58.82,
+		"name": "Sulfur Pit"
+	}	
 ]
