@@ -26,6 +26,40 @@
                 "Weight": 1.0
             }
         ],
+        "DinoDropInventoryComponent_Gold_AoD_PvE_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Gold Coin"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
+        "DinoDropInventoryComponent_Gold_AoD_PvE_Heavy_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Gold Coin"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
         "DinoDropInventoryComponent_Gold_BASE_C": [
             {
                 "ChanceForBlueprint": 0.0,
@@ -193,6 +227,23 @@
             }
         ],
         "DinoDropInventoryComponent_MythicalBase_C": [
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Mythos"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 0.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
+            }
+        ],
+        "DinoDropInventoryComponent_Mythical_CrystalScorpion_C": [
             {
                 "ChanceForBlueprint": 0.0,
                 "ChanceForItem": 1.0,
@@ -835,20 +886,8 @@
                 "ChanceForBlueprint": 0.0,
                 "ChanceForItem": 0.5,
                 "ForceBlueprint": 0,
-                "MaxQuality": 1.0,
-                "MaxQuantity": 1.0,
-                "MinQuality": 1.0,
-                "MinQuantity": 1.0,
-                "QualityPower": 1.0,
-                "QuantityPower": 1.0,
-                "Weight": 1.2999999523162842
-            },
-            {
-                "ChanceForBlueprint": 0.0,
-                "ChanceForItem": 1.0,
-                "ForceBlueprint": 0,
                 "Items": [
-                    "Hide Pants"
+                    "Cloth Shirt"
                 ],
                 "MaxQuality": 1.0,
                 "MaxQuantity": 1.0,
@@ -856,7 +895,22 @@
                 "MinQuantity": 1.0,
                 "QualityPower": 1.0,
                 "QuantityPower": 1.0,
-                "Weight": 5.0
+                "Weight": 1.0
+            },
+            {
+                "ChanceForBlueprint": 0.0,
+                "ChanceForItem": 1.0,
+                "ForceBlueprint": 0,
+                "Items": [
+                    "Cloth Pants"
+                ],
+                "MaxQuality": 1.0,
+                "MaxQuantity": 1.0,
+                "MinQuality": 1.0,
+                "MinQuantity": 1.0,
+                "QualityPower": 1.0,
+                "QuantityPower": 1.0,
+                "Weight": 1.0
             },
             {
                 "ChanceForBlueprint": 0.0,
@@ -871,15 +925,14 @@
                 "MinQuantity": 1.0,
                 "QualityPower": 1.0,
                 "QuantityPower": 1.0,
-                "Weight": 5.0
+                "Weight": 1.0
             },
             {
                 "ChanceForBlueprint": 0.0,
                 "ChanceForItem": 0.5,
                 "ForceBlueprint": 0,
                 "Items": [
-                    "Cloth Gloves",
-                    "Hide Gloves"
+                    "Cloth Gloves"
                 ],
                 "MaxQuality": 1.0,
                 "MaxQuantity": 1.0,
@@ -894,7 +947,7 @@
                 "ChanceForItem": 0.5,
                 "ForceBlueprint": 0,
                 "Items": [
-                    "Hide Boots"
+                    "Cloth Boots"
                 ],
                 "MaxQuality": 1.0,
                 "MaxQuantity": 1.0,
@@ -914,7 +967,7 @@
                 "MinQuantity": 1.0,
                 "QualityPower": 1.0,
                 "QuantityPower": 1.0,
-                "Weight": 0.5
+                "Weight": 1.0
             }
         ],
         "HumanDinoInventory_Fighter_C_70": [
@@ -969,7 +1022,6 @@
                 "Weight": 1.0
             }
         ],
-        "LootItemSet_CaveDrop_T1_Armor_C": null,
         "LootItemSet_Encampment_Consumables_C": [
             {
                 "ChanceForBlueprint": 0.0,

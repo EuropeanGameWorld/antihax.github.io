@@ -2,8 +2,8 @@
 	"AtlasMapServer": false,
 	"GPSBounds": {
 		"max": [
-			100,
-			-100
+			550,
+			-550
 		],
 		"min": [
 			-100,
@@ -17,11 +17,11 @@
 	"NodesPerAxis": 30,
 	"PathFinder": true,
 	"PinTool": true,
-	"ServersX": 6,
-	"ServersY": 6,
-	"WarehouseTool": false,
-	"XRange": 200,
-	"XScale": 1,
-	"YRange": 200,
-	"YScale": 1
+	"ServersX": 13,
+	"ServersY": 13,
+	"WarehouseTool": true,
+	"XRange": 650,
+	"XScale": 0.3076923076923077,
+	"YRange": 650,
+	"YScale": 0.3076923076923077
 }

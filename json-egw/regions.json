@@ -1,8 +1,86 @@
 {
-	"Mytroa": {
-		"MaxX": 5,
-		"MaxY": 5,
+	"Africa": {
+		"MaxX": 3,
+		"MaxY": 9,
+		"MinX": 0,
+		"MinY": 7
+	},
+	"Antarctica": {
+		"MaxX": 12,
+		"MaxY": 10,
+		"MinX": 4,
+		"MinY": 10
+	},
+	"Central Waters": {
+		"MaxX": 12,
+		"MaxY": 9,
+		"MinX": 4,
+		"MinY": 1
+	},
+	"Cervantes' Rest": {
+		"MaxX": 3,
+		"MaxY": 10,
+		"MinX": 3,
+		"MinY": 10
+	},
+	"Kraken's Lair": {
+		"MaxX": 3,
+		"MaxY": 12,
+		"MinX": 3,
+		"MinY": 12
+	},
+	"Maw Water": {
+		"MaxX": 12,
+		"MaxY": 12,
+		"MinX": 11,
+		"MinY": 11
+	},
+	"North Pole": {
+		"MaxX": 12,
+		"MaxY": 0,
+		"MinX": 4,
+		"MinY": 0
+	},
+	"Rookie Cove": {
+		"MaxX": 3,
+		"MaxY": 3,
 		"MinX": 0,
 		"MinY": 0
+	},
+	"Royale Reef": {
+		"MaxX": 2,
+		"MaxY": 12,
+		"MinX": 0,
+		"MinY": 10
+	},
+	"South America": {
+		"MaxX": 3,
+		"MaxY": 6,
+		"MinX": 0,
+		"MinY": 4
+	},
+	"Tortuga": {
+		"MaxX": 3,
+		"MaxY": 11,
+		"MinX": 3,
+		"MinY": 11
+	},
+	"Trackless Waters": {
+		"MaxX": 8,
+		"MaxY": 12,
+		"MinX": 7,
+		"MinY": 11
+	},
+	"Uncharted Sea": {
+		"MaxX": 6,
+		"MaxY": 12,
+		"MinX": 4,
+		"MinY": 11
+	},
+	"Unknown Depths": {
+		"MaxX": 10,
+		"MaxY": 12,
+		"MinX": 9,
+		"MinY": 11
 	}
 }
