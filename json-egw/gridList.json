@@ -91,8 +91,8 @@
 			"Wild Beans",
 			"Wild Rice"
 		],
-		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Western Tropical",
 		"sotd": {
@@ -172,7 +172,7 @@
 		"name": "",
 		"region": "Africa",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Bark",
 			"Basalt",
 			"Beet Seed",
@@ -181,6 +181,7 @@
 			"Cactus Seed",
 			"Cedar",
 			"Chickpea Seed",
+			"Coconut",
 			"Cotton",
 			"Fir",
 			"Flake Salt",
@@ -217,8 +218,8 @@
 			"Wild Onion",
 			"Yarrow"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,TreasureBottlesEnabled,DisableClaimFlags,NPCShipSpawnIntervalMult,FogIntervalMultiplier,RainChanceForSnow,DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier",
-		"serverCustomDatas2": ",2.0,0.5,1.6,1.4,0.0,1,0.21,0.36,.5,1,1,0,1.4,0.33,1.4,1,1,0,1.4,0.33,1.4,1,1,0,1.4,0.33,1.4",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,TreasureBottlesEnabled,DisableClaimFlags,NPCShipSpawnIntervalMult,FogIntervalMultiplier,RainChanceForSnow,DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier",
+		"serverCustomDatas2": ",2.0,0.5,1.6,1.4,0.0,1,0.21,0.36,.5,1,1,0,1.4,0.33,1.4,1,1,0,1.4,0.33,1.4",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "High Desert",
 		"sotd": {
@@ -508,8 +509,8 @@
 			"Wild Chick Peas",
 			"Wild Pepper"
 		],
-		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Western Tropical",
 		"sotd": {
@@ -632,8 +633,8 @@
 			"Wild Beans",
 			"Wild Rice"
 		],
-		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Western Tropical",
 		"sotd": {
@@ -752,8 +753,8 @@
 			"Wild Beans",
 			"Wild Rice"
 		],
-		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Western Tropical",
 		"sotd": {
@@ -879,8 +880,8 @@
 			"Twigs",
 			"Wild Chick Peas"
 		],
-		"serverCustomDatas1": ",RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4",
+		"serverCustomDatas1": ",RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Equatorial",
 		"sotd": {
@@ -1033,8 +1034,8 @@
 			"Wild Pepper",
 			"Wild Rice"
 		],
-		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Western Tropical",
 		"sotd": {
@@ -1143,8 +1144,8 @@
 			"Turmeric",
 			"Twigs"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,TreasureBottlesEnabled,DisableClaimFlags,NPCShipSpawnIntervalMult,ChanceForCold,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",2.0,0.5,1.6,1.4,0.0,1,0.21,0,0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,TreasureBottlesEnabled,DisableClaimFlags,NPCShipSpawnIntervalMult,ChanceForCold,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",2.0,0.5,1.6,1.4,0.0,1,0.21,0,0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Western Tropical",
 		"sotd": {
@@ -1267,8 +1268,8 @@
 			"Twigs",
 			"Wild Cactus"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,TreasureBottlesEnabled,DisableClaimFlags,NPCShipSpawnIntervalMult,DisableFog,DisableRain,ChanceForCold,DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier",
-		"serverCustomDatas2": ",2.0,.5,1.6,1.4,0,1,0.21,1,1,0,1,1,0,0.75,1,1,0,0.75,1,1,0,0.75",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,TreasureBottlesEnabled,DisableClaimFlags,NPCShipSpawnIntervalMult,DisableFog,DisableRain,ChanceForCold,DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier",
+		"serverCustomDatas2": ",2.0,.5,1.6,1.4,0,1,0.21,1,1,0,1,1,0,0.75,1,1,0,0.75",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Low Desert",
 		"sotd": {
@@ -1347,7 +1348,7 @@
 		"name": "",
 		"region": "Africa",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Bark",
 			"Basalt",
 			"Cactus Seed",
@@ -1388,8 +1389,8 @@
 			"Wild Cactus",
 			"Wild Chick Peas"
 		],
-		"serverCustomDatas1": ",DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier",
-		"serverCustomDatas2": ",1,1,0,1.4,0.33,1.4,1,1,0,1.4,0.33,1.4,1,1,0,1.4,0.33,1.4",
+		"serverCustomDatas1": ",DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier",
+		"serverCustomDatas2": ",1,1,0,1.4,0.33,1.4,1,1,0,1.4,0.33,1.4",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "High Desert",
 		"sotd": {
@@ -1503,8 +1504,8 @@
 			"Wild Beans",
 			"Wild Rice"
 		],
-		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Western Tropical",
 		"sotd": {
@@ -1585,7 +1586,7 @@
 		"name": "",
 		"region": "Africa",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Bark",
 			"Basalt",
 			"Beet Seed",
@@ -1594,6 +1595,7 @@
 			"Cactus Seed",
 			"Cedar",
 			"Chickpea Seed",
+			"Coconut",
 			"Cotton",
 			"Fir",
 			"Flake Salt",
@@ -1632,8 +1634,8 @@
 			"Wild Onion",
 			"Yarrow"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,NPCShipSpawnIntervalMult,RainIntervalMultiplier,DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier",
-		"serverCustomDatas2": ",2.0,.5,1.6,1.4,.21,.36,1,1,0,1.4,0.33,1.4,1,1,0,1.4,0.33,1.4,1,1,0,1.4,0.33,1.4",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,NPCShipSpawnIntervalMult,RainIntervalMultiplier,DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier",
+		"serverCustomDatas2": ",2.0,.5,1.6,1.4,.21,.36,1,1,0,1.4,0.33,1.4,1,1,0,1.4,0.33,1.4",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "High Desert",
 		"sotd": {
@@ -1841,8 +1843,7 @@
 			"Pig",
 			"Rabbit",
 			"Seagull",
-			"Turtle",
-			null
+			"Turtle"
 		],
 		"biomes": [
 			"Western Tropical",
@@ -1880,8 +1881,8 @@
 			"Wild Cactus",
 			"Wood"
 		],
-		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Western Tropical",
 		"sotd": {
@@ -1933,8 +1934,7 @@
 			"Pig",
 			"Rabbit",
 			"Seagull",
-			"Turtle",
-			null
+			"Turtle"
 		],
 		"biomes": [
 			"Western Tropical",
@@ -1972,8 +1972,8 @@
 			"Wild Cactus",
 			"Wood"
 		],
-		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Western Tropical",
 		"sotd": {
@@ -2081,8 +2081,8 @@
 			"Wild Beans",
 			"Wild Rice"
 		],
-		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Western Tropical",
 		"sotd": {
@@ -2208,8 +2208,8 @@
 			"Twigs",
 			"Wild Chick Peas"
 		],
-		"serverCustomDatas1": ",RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4",
+		"serverCustomDatas1": ",RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Equatorial",
 		"sotd": {
@@ -2349,8 +2349,8 @@
 			"Wild Chick Peas",
 			"Wild Rice"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,NPCShipSpawnIntervalMult,RainIntervalMultiplier,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",2.0,0.5,1.6,1.4,0.21,0.36,0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,NPCShipSpawnIntervalMult,RainIntervalMultiplier,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",2.0,0.5,1.6,1.4,0.21,0.36,0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Equatorial",
 		"sotd": {
@@ -2466,8 +2466,8 @@
 			"Wild Beans",
 			"Wild Rice"
 		],
-		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Western Tropical",
 		"sotd": {
@@ -2606,8 +2606,8 @@
 			"Wild Rice",
 			"Yarrow"
 		],
-		"serverCustomDatas1": ",DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier",
-		"serverCustomDatas2": ",1,1,0,1.4,0.33,1.4,1,1,0,1.4,0.33,1.4,1,1,0,1.4,0.33,1.4",
+		"serverCustomDatas1": ",DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier",
+		"serverCustomDatas2": ",1,1,0,1.4,0.33,1.4,1,1,0,1.4,0.33,1.4",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "High Desert",
 		"sotd": {
@@ -2685,7 +2685,7 @@
 		"name": "",
 		"region": "Africa",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Bark",
 			"Basalt",
 			"Cactus Seed",
@@ -2727,8 +2727,8 @@
 			"Wild Cactus",
 			"Wild Chick Peas"
 		],
-		"serverCustomDatas1": ",DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier",
-		"serverCustomDatas2": ",1,1,0,0.75,1,1,0,0.75,1,1,0,0.75",
+		"serverCustomDatas1": ",DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier",
+		"serverCustomDatas2": ",1,1,0,0.75,1,1,0,0.75",
 		"serverIslandPointsMultiplier": 1.5,
 		"serverTemplate": "Low Desert",
 		"sotd": {
@@ -2850,8 +2850,8 @@
 			"Wild Beans",
 			"Wild Rice"
 		],
-		"serverCustomDatas1": ",.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2",
+		"serverCustomDatas1": ",.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Eastern Tropical",
 		"sotd": {
@@ -2931,7 +2931,7 @@
 		"name": "",
 		"region": "Africa",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Bark",
 			"Basalt",
 			"Beet Seed",
@@ -2987,8 +2987,8 @@
 			"Wild Onion",
 			"Yarrow"
 		],
-		"serverCustomDatas1": ",DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier",
-		"serverCustomDatas2": ",1,1,0,1.4,0.33,1.4,1,1,0,1.4,0.33,1.4,1,1,0,1.4,0.33,1.4",
+		"serverCustomDatas1": ",DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier",
+		"serverCustomDatas2": ",1,1,0,1.4,0.33,1.4,1,1,0,1.4,0.33,1.4",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "High Desert",
 		"sotd": {
@@ -3196,8 +3196,7 @@
 			"Pig",
 			"Rabbit",
 			"Seagull",
-			"Turtle",
-			null
+			"Turtle"
 		],
 		"biomes": [
 			"Eastern Tropical",
@@ -3235,8 +3234,8 @@
 			"Wild Cactus",
 			"Wood"
 		],
-		"serverCustomDatas1": ",.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2",
+		"serverCustomDatas1": ",.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Eastern Tropical",
 		"sotd": {
@@ -3288,8 +3287,7 @@
 			"Pig",
 			"Rabbit",
 			"Seagull",
-			"Turtle",
-			null
+			"Turtle"
 		],
 		"biomes": [
 			"Eastern Tropical",
@@ -3327,8 +3325,8 @@
 			"Wild Cactus",
 			"Wood"
 		],
-		"serverCustomDatas1": ",.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2",
+		"serverCustomDatas1": ",.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Eastern Tropical",
 		"sotd": {
@@ -3450,8 +3448,8 @@
 			"Wild Beans",
 			"Wild Rice"
 		],
-		"serverCustomDatas1": ",.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2",
+		"serverCustomDatas1": ",.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Eastern Tropical",
 		"sotd": {
@@ -3575,8 +3573,8 @@
 			"Twigs",
 			"Wild Chick Peas"
 		],
-		"serverCustomDatas1": ",RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4",
+		"serverCustomDatas1": ",RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Equatorial",
 		"sotd": {
@@ -3716,8 +3714,8 @@
 			"Wild Beans",
 			"Wild Rice"
 		],
-		"serverCustomDatas1": ",.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2",
+		"serverCustomDatas1": ",.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2",
 		"serverIslandPointsMultiplier": 1.5,
 		"serverTemplate": "Eastern Tropical",
 		"sotd": {
@@ -3850,8 +3848,8 @@
 			"Wild Beans",
 			"Wild Rice"
 		],
-		"serverCustomDatas1": ",.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2",
+		"serverCustomDatas1": ",.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Eastern Tropical",
 		"sotd": {
@@ -3935,7 +3933,7 @@
 		"name": "",
 		"region": "Africa",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Bark",
 			"Basalt",
 			"Beet Seed",
@@ -3943,6 +3941,8 @@
 			"Cactus",
 			"Cactus Seed",
 			"Cedar",
+			"Coconut",
+			"Coquina",
 			"Cotton",
 			"Fir",
 			"Flake Salt",
@@ -3976,8 +3976,8 @@
 			"Wild Onion",
 			"Yarrow"
 		],
-		"serverCustomDatas1": ",DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier",
-		"serverCustomDatas2": ",1,1,0,1.4,0.33,1.4,1,1,0,1.4,0.33,1.4,1,1,0,1.4,0.33,1.4",
+		"serverCustomDatas1": ",DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier",
+		"serverCustomDatas2": ",1,1,0,1.4,0.33,1.4,1,1,0,1.4,0.33,1.4",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "High Desert",
 		"sotd": {
@@ -4057,7 +4057,7 @@
 		"name": "",
 		"region": "Africa",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Bark",
 			"Basalt",
 			"Beet Seed",
@@ -4065,6 +4065,7 @@
 			"Cactus",
 			"Cactus Seed",
 			"Cedar",
+			"Coconut",
 			"Cotton",
 			"Fir",
 			"Flake Salt",
@@ -4101,8 +4102,8 @@
 			"Wild Onion",
 			"Yarrow"
 		],
-		"serverCustomDatas1": ",DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier",
-		"serverCustomDatas2": ",1,1,0,0.75,1,1,0,0.75,1,1,0,0.75",
+		"serverCustomDatas1": ",DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier",
+		"serverCustomDatas2": ",1,1,0,0.75,1,1,0,0.75",
 		"serverIslandPointsMultiplier": 1.5,
 		"serverTemplate": "Low Desert",
 		"sotd": {
@@ -4214,8 +4215,8 @@
 			"Wild Beans",
 			"Wild Rice"
 		],
-		"serverCustomDatas1": ",.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2",
+		"serverCustomDatas1": ",.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Eastern Tropical",
 		"sotd": {
@@ -4296,7 +4297,7 @@
 		"name": "",
 		"region": "Africa",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Bark",
 			"Basalt",
 			"Beet Seed",
@@ -4304,6 +4305,8 @@
 			"Cactus",
 			"Cactus Seed",
 			"Cedar",
+			"Coconut",
+			"Coquina",
 			"Cotton",
 			"Fir",
 			"Flake Salt",
@@ -4337,8 +4340,8 @@
 			"Wild Onion",
 			"Yarrow"
 		],
-		"serverCustomDatas1": ",DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier",
-		"serverCustomDatas2": ",1,1,0,1.4,0.33,1.4,1,1,0,1.4,0.33,1.4,1,1,0,1.4,0.33,1.4",
+		"serverCustomDatas1": ",DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier",
+		"serverCustomDatas2": ",1,1,0,1.4,0.33,1.4,1,1,0,1.4,0.33,1.4",
 		"serverIslandPointsMultiplier": 1.5,
 		"serverTemplate": "High Desert",
 		"sotd": {
@@ -4387,8 +4390,7 @@
 			"Rhino",
 			"Seagull",
 			"Sheep",
-			"Turtle",
-			null
+			"Turtle"
 		],
 		"biomes": [
 			"Low Desert",
@@ -4437,8 +4439,8 @@
 			"Wild Onion",
 			"Yarrow"
 		],
-		"serverCustomDatas1": ",DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier",
-		"serverCustomDatas2": ",1,1,0,0.75,1,1,0,0.75,1,1,0,0.75",
+		"serverCustomDatas1": ",DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier",
+		"serverCustomDatas2": ",1,1,0,0.75,1,1,0,0.75",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Low Desert",
 		"sotd": {
@@ -4484,8 +4486,7 @@
 			"Monkey",
 			"Parrot",
 			"Pig",
-			"Turtle",
-			null
+			"Turtle"
 		],
 		"biomes": [
 			"Western Tropical",
@@ -4516,8 +4517,8 @@
 			"Thatch",
 			"Wood"
 		],
-		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Western Tropical",
 		"sotd": {
@@ -4571,8 +4572,8 @@
 		"name": "Kraken's Lair",
 		"region": "Kraken's Lair",
 		"resources": [],
-		"serverCustomDatas1": ",DisableFog,DisableHeatCold,DisableRain,NPCShipNumMult,FloatsamEnabled,DisableClaimFlags,TreasureBottlesEnabled,RainIntervalMultiplier,DisableFog,DisableHeatCold,DisableRain,NPCShipNumMult,FloatsamEnabled,DisableClaimFlags,TreasureBottlesEnabled,RainIntervalMultiplier,DisableFog,DisableHeatCold,DisableRain,NPCShipNumMult,FloatsamEnabled,DisableClaimFlags,TreasureBottlesEnabled,RainIntervalMultiplier",
-		"serverCustomDatas2": ",1,1,1,0,0,1,0,0.36,1,1,1,0,0,1,0,0.36,1,1,1,0,0,1,0,0.36",
+		"serverCustomDatas1": ",DisableFog,DisableHeatCold,DisableRain,NPCShipNumMult,FloatsamEnabled,DisableClaimFlags,TreasureBottlesEnabled,RainIntervalMultiplier,DisableFog,DisableHeatCold,DisableRain,NPCShipNumMult,FloatsamEnabled,DisableClaimFlags,TreasureBottlesEnabled,RainIntervalMultiplier",
+		"serverCustomDatas2": ",1,1,1,0,0,1,0,0.36,1,1,1,0,0,1,0,0.36",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "EndBoss",
 		"sotd": {
@@ -4701,8 +4702,8 @@
 			"Wild Beans",
 			"Wild Rice"
 		],
-		"serverCustomDatas1": ",.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2",
+		"serverCustomDatas1": ",.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Eastern Tropical",
 		"sotd": {
@@ -4815,8 +4816,8 @@
 			"Wild Beans",
 			"Wild Rice"
 		],
-		"serverCustomDatas1": ",.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2",
+		"serverCustomDatas1": ",.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Eastern Tropical",
 		"sotd": {
@@ -4939,8 +4940,8 @@
 			"Wild Beans",
 			"Wild Rice"
 		],
-		"serverCustomDatas1": ",.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2",
+		"serverCustomDatas1": ",.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Eastern Tropical",
 		"sotd": {
@@ -5061,8 +5062,8 @@
 			"Twigs",
 			"Wild Chick Peas"
 		],
-		"serverCustomDatas1": ",RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4",
+		"serverCustomDatas1": ",RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4",
 		"serverIslandPointsMultiplier": 1.5,
 		"serverTemplate": "Equatorial",
 		"sotd": {
@@ -5183,8 +5184,8 @@
 			"Wild Beans",
 			"Wild Rice"
 		],
-		"serverCustomDatas1": ",.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2",
+		"serverCustomDatas1": ",.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2",
 		"serverIslandPointsMultiplier": 1.5,
 		"serverTemplate": "Eastern Tropical",
 		"sotd": {
@@ -5324,8 +5325,8 @@
 			"Wild Beans",
 			"Wild Pepper"
 		],
-		"serverCustomDatas1": ",.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2",
+		"serverCustomDatas1": ",.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Eastern Tropical",
 		"sotd": {
@@ -5403,7 +5404,7 @@
 		"name": "",
 		"region": "Africa",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Bark",
 			"Basalt",
 			"Beet Seed",
@@ -5456,8 +5457,8 @@
 			"Wild Onion",
 			"Yarrow"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,NPCShipSpawnIntervalMult,ChanceForCold,DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier",
-		"serverCustomDatas2": ",1.2,0.5,1.6,1.4,0.21,0,1,1,0,0.75,1,1,0,0.75,1,1,0,0.75",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,NPCShipSpawnIntervalMult,ChanceForCold,DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier",
+		"serverCustomDatas2": ",1.2,0.5,1.6,1.4,0.21,0,1,1,0,0.75,1,1,0,0.75",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Low Desert",
 		"sotd": {
@@ -5520,8 +5521,7 @@
 			"Sheep",
 			"Turtle",
 			"Vulture",
-			"Wolf",
-			null
+			"Wolf"
 		],
 		"biomes": [
 			"High Desert",
@@ -5543,7 +5543,7 @@
 		"name": "",
 		"region": "Africa",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Bark",
 			"Basalt",
 			"Beet Seed",
@@ -5554,6 +5554,7 @@
 			"Chert",
 			"Chickpea Seed",
 			"Cilantro",
+			"Coconut",
 			"Cotton",
 			"Elderberry",
 			"Fir",
@@ -5596,8 +5597,8 @@
 			"Wild Rice",
 			"Yarrow"
 		],
-		"serverCustomDatas1": ",DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier",
-		"serverCustomDatas2": ",1,1,0,1.4,0.33,1.4,1,1,0,1.4,0.33,1.4,1,1,0,1.4,0.33,1.4",
+		"serverCustomDatas1": ",DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier",
+		"serverCustomDatas2": ",1,1,0,1.4,0.33,1.4,1,1,0,1.4,0.33,1.4",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "High Desert",
 		"sotd": {
@@ -5696,8 +5697,8 @@
 			"Straw",
 			"Wild Potato"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,TreasureBottlesEnabled,DisableClaimFlags,NPCShipSpawnIntervalMult,FogIntervalMultiplier,RainChanceForSnow,FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier",
-		"serverCustomDatas2": ",2.0,.5,1.6,1.4,0.0,0.0,.21,.36,.5,0.36,0,0.5,0.5,0.5,0.36,0,0.5,0.5,0.5,0.36,0,0.5,0.5,0.5",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,TreasureBottlesEnabled,DisableClaimFlags,NPCShipSpawnIntervalMult,FogIntervalMultiplier,RainChanceForSnow,FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier",
+		"serverCustomDatas2": ",2.0,.5,1.6,1.4,0.0,0.0,.21,.36,.5,0.36,0,0.5,0.5,0.5,0.36,0,0.5,0.5,0.5",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Western Tundra",
 		"sotd": {
@@ -5778,7 +5779,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Ash",
 			"Bamboo",
 			"Bark",
@@ -5786,6 +5787,7 @@
 			"Blackberry",
 			"Calcite",
 			"Carrot Seed",
+			"Coconut",
 			"Coquina",
 			"Elderberry",
 			"Fir",
@@ -5820,8 +5822,8 @@
 			"Wild Onion",
 			"Wild Pepper"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1",
 		"serverIslandPointsMultiplier": 1.5,
 		"serverTemplate": "Western Temperate",
 		"sotd": {
@@ -5902,7 +5904,7 @@
 		"name": "",
 		"region": "Antarctica",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Agate",
 			"Arctic Raspberry",
 			"Ash",
@@ -5914,6 +5916,8 @@
 			"Calcite",
 			"Cedar",
 			"Chalcedony",
+			"Coconut",
+			"Coquina",
 			"Edible Greens Seed",
 			"Fir",
 			"Fire Coral",
@@ -5947,12 +5951,13 @@
 			"Sulfur",
 			"Tin",
 			"Turnip Seed",
+			"Twigs",
 			"Wild Greens",
 			"Wild Potato",
 			"Wild Turnip"
 		],
-		"serverCustomDatas1": ",FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier",
-		"serverCustomDatas2": ",0.36,0,0.5,0.5,0.5,0.36,0,0.5,0.5,0.5,0.36,0,0.5,0.5,0.5",
+		"serverCustomDatas1": ",FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier",
+		"serverCustomDatas2": ",0.36,0,0.5,0.5,0.5,0.36,0,0.5,0.5,0.5",
 		"serverIslandPointsMultiplier": 1.5,
 		"serverTemplate": "Western Tundra",
 		"sotd": {
@@ -6136,7 +6141,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Anthracite",
 			"Ash",
 			"Bamboo",
@@ -6145,6 +6150,7 @@
 			"Blackberry",
 			"Carrot Seed",
 			"Chamomile",
+			"Coconut",
 			"Elderberry",
 			"Fir",
 			"FreshWater",
@@ -6180,8 +6186,8 @@
 			"Wild Carrot",
 			"Wild Pepper"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Western Temperate",
 		"sotd": {
@@ -6318,8 +6324,8 @@
 			"Wild Pepper",
 			"Wild Rice"
 		],
-		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Western Tropical",
 		"sotd": {
@@ -6442,8 +6448,8 @@
 			"Wild Beans",
 			"Wild Rice"
 		],
-		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Western Tropical",
 		"sotd": {
@@ -6566,8 +6572,8 @@
 			"Twigs",
 			"Wild Beans"
 		],
-		"serverCustomDatas1": ",RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4",
+		"serverCustomDatas1": ",RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Equatorial",
 		"sotd": {
@@ -6704,8 +6710,8 @@
 			"Wild Beans",
 			"Wild Rice"
 		],
-		"serverCustomDatas1": ",RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4",
+		"serverCustomDatas1": ",RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4",
 		"serverIslandPointsMultiplier": 1.5,
 		"serverTemplate": "Equatorial",
 		"sotd": {
@@ -6835,8 +6841,8 @@
 			"Wild Pepper",
 			"Wild Rice"
 		],
-		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Western Tropical",
 		"sotd": {
@@ -6962,8 +6968,8 @@
 			"Wild Beans",
 			"Wild Rice"
 		],
-		"serverCustomDatas1": ",SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipSpawnIntervalMult,NPCShipDifficultyMult,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",1.15,1.1,1.5,2,0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipSpawnIntervalMult,NPCShipDifficultyMult,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",1.15,1.1,1.5,2,0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Western Tropical",
 		"sotd": {
@@ -7074,8 +7080,8 @@
 			"Wild Beans",
 			"Wild Rice"
 		],
-		"serverCustomDatas1": ",SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipSpawnIntervalMult,NPCShipDifficultyMult,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",1.2,1.1,1.5,2,0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipSpawnIntervalMult,NPCShipDifficultyMult,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",1.2,1.1,1.5,2,0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1.5,
 		"serverTemplate": "Western Tropical",
 		"sotd": {
@@ -7146,13 +7152,15 @@
 		"name": "",
 		"region": "North Pole",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Arctic Raspberry",
 			"Ash",
 			"Bark",
 			"Basalt",
 			"Calcite",
 			"Cedar",
+			"Coconut",
+			"Coquina",
 			"Edible Greens Seed",
 			"Fir",
 			"FreshWater",
@@ -7176,11 +7184,12 @@
 			"Straw",
 			"Sulfur",
 			"Tin",
+			"Twigs",
 			"Wild Greens",
 			"Wild Potato"
 		],
-		"serverCustomDatas1": ",FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier",
-		"serverCustomDatas2": ",0.36,0,0.5,0.5,0.5,0.36,0,0.5,0.5,0.5,0.36,0,0.5,0.5,0.5",
+		"serverCustomDatas1": ",FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier",
+		"serverCustomDatas2": ",0.36,0,0.5,0.5,0.5,0.36,0,0.5,0.5,0.5",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Western Tundra",
 		"sotd": {
@@ -7258,7 +7267,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Anthracite",
 			"Ash",
 			"Bamboo",
@@ -7268,6 +7277,8 @@
 			"Carrot Seed",
 			"Cedar",
 			"Chamomile",
+			"Coconut",
+			"Coquina",
 			"Elderberry",
 			"Emerald",
 			"Fir",
@@ -7304,8 +7315,8 @@
 			"Wild Carrot",
 			"Wild Pepper"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Western Temperate",
 		"sotd": {
@@ -7371,11 +7382,14 @@
 		"name": "",
 		"region": "Antarctica",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Bark",
 			"Basalt",
+			"Coconut",
+			"Coquina",
 			"Crude Oil",
 			"Emerald",
+			"Fir",
 			"FreshWater",
 			"Fronds",
 			"Geode",
@@ -7391,10 +7405,12 @@
 			"Pine",
 			"Resin",
 			"Silver",
-			"Slate"
+			"Slate",
+			"Straw",
+			"Twigs"
 		],
-		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow",
-		"serverCustomDatas2": ",1,1.4,0.33,1.35,0,1,1,1.4,0.33,1.35,0,1,1,1.4,0.33,1.35,0,1",
+		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow",
+		"serverCustomDatas2": ",1,1.4,0.33,1.35,0,1,1,1.4,0.33,1.35,0,1",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Polar",
 		"sotd": {
@@ -7579,7 +7595,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Anthracite",
 			"Ash",
 			"Bamboo",
@@ -7587,6 +7603,8 @@
 			"Basalt",
 			"Blackberry",
 			"Calcite",
+			"Coconut",
+			"Coquina",
 			"Elderberry",
 			"Emerald",
 			"Fir",
@@ -7623,8 +7641,8 @@
 			"Wild Onion",
 			"Wild Pepper"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Western Temperate",
 		"sotd": {
@@ -7704,7 +7722,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Anthracite",
 			"Ash",
 			"Bamboo",
@@ -7713,6 +7731,7 @@
 			"Blackberry",
 			"Carrot Seed",
 			"Chamomile",
+			"Coconut",
 			"Elderberry",
 			"Emerald",
 			"Fir",
@@ -7750,8 +7769,8 @@
 			"Wild Onion",
 			"Wild Pepper"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Western Temperate",
 		"sotd": {
@@ -7864,8 +7883,8 @@
 			"Syrup",
 			"Twigs"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,TreasureBottlesEnabled,DisableClaimFlags,NPCShipSpawnIntervalMult,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",2.0,0.5,1.6,1.4,0.0,1,0.21,1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,TreasureBottlesEnabled,DisableClaimFlags,NPCShipSpawnIntervalMult,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",2.0,0.5,1.6,1.4,0.0,1,0.21,1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Western Temperate",
 		"sotd": {
@@ -7979,8 +7998,8 @@
 			"Twigs",
 			"Wild Chick Peas"
 		],
-		"serverCustomDatas1": ",RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4",
+		"serverCustomDatas1": ",RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4",
 		"serverIslandPointsMultiplier": 1.5,
 		"serverTemplate": "Equatorial",
 		"sotd": {
@@ -8067,10 +8086,10 @@
 		"region": "Central Waters",
 		"resources": [
 			"Acai",
-			"Acerola",
 			"Bark",
 			"Basalt",
 			"Cocoa",
+			"Coconut",
 			"Fir",
 			"FreshWater",
 			"Fronds",
@@ -8095,8 +8114,8 @@
 			"Straw",
 			"Twigs"
 		],
-		"serverCustomDatas1": ",RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4",
+		"serverCustomDatas1": ",RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4",
 		"serverIslandPointsMultiplier": 1.75,
 		"serverTemplate": "Equatorial",
 		"sotd": {
@@ -8212,8 +8231,8 @@
 			"Wild Beans",
 			"Wild Rice"
 		],
-		"serverCustomDatas1": ",.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2",
+		"serverCustomDatas1": ",.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Eastern Tropical",
 		"sotd": {
@@ -8342,8 +8361,8 @@
 			"Wild Beans",
 			"Wild Rice"
 		],
-		"serverCustomDatas1": ",SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipSpawnIntervalMult,NPCShipSpawnIntervalMult,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",1.2,.9,1.5,2,0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2",
+		"serverCustomDatas1": ",SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipSpawnIntervalMult,NPCShipSpawnIntervalMult,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",1.2,.9,1.5,2,0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Eastern Tropical",
 		"sotd": {
@@ -8421,7 +8440,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Anthracite",
 			"Ash",
 			"Bamboo",
@@ -8431,6 +8450,8 @@
 			"Calcite",
 			"Carrot Seed",
 			"Chamomile",
+			"Coconut",
+			"Coquina",
 			"Elderberry",
 			"Emerald",
 			"Fir",
@@ -8470,8 +8491,8 @@
 			"Wild Onion",
 			"Wild Pepper"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,TreasureBottlesEnabled,NPCShipSpawnIntervalMult,SunkenTreasureQualityMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",2.0,.5,1.6,1.2,0.0,1.5,1.1,1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,TreasureBottlesEnabled,NPCShipSpawnIntervalMult,SunkenTreasureQualityMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",2.0,.5,1.6,1.2,0.0,1.5,1.1,1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1",
 		"serverIslandPointsMultiplier": 1.5,
 		"serverTemplate": "Western Temperate",
 		"sotd": {
@@ -8537,11 +8558,14 @@
 		"name": "",
 		"region": "North Pole",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Bark",
 			"Basalt",
+			"Coconut",
+			"Coquina",
 			"Crude Oil",
 			"Emerald",
+			"Fir",
 			"FreshWater",
 			"Fronds",
 			"Geode",
@@ -8560,10 +8584,12 @@
 			"Sandstone",
 			"Silver",
 			"Slate",
-			"Tellurite"
+			"Straw",
+			"Tellurite",
+			"Twigs"
 		],
-		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow",
-		"serverCustomDatas2": ",1,1.4,0.33,1.35,0,1,1,1.4,0.33,1.35,0,1,1,1.4,0.33,1.35,0,1",
+		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow",
+		"serverCustomDatas2": ",1,1.4,0.33,1.35,0,1,1,1.4,0.33,1.35,0,1",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Polar",
 		"sotd": {
@@ -8635,13 +8661,15 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Arctic Raspberry",
 			"Ash",
 			"Bark",
 			"Basalt",
 			"Calcite",
 			"Cedar",
+			"Coconut",
+			"Coquina",
 			"Edible Greens Seed",
 			"Fir",
 			"FreshWater",
@@ -8667,11 +8695,12 @@
 			"Straw",
 			"Sulfur",
 			"Tin",
+			"Twigs",
 			"Wild Greens",
 			"Wild Potato"
 		],
-		"serverCustomDatas1": ",FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier",
-		"serverCustomDatas2": ",0.36,0,0.5,0.5,0.5,0.36,0,0.5,0.5,0.5,0.36,0,0.5,0.5,0.5",
+		"serverCustomDatas1": ",FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier",
+		"serverCustomDatas2": ",0.36,0,0.5,0.5,0.5,0.36,0,0.5,0.5,0.5",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Western Tundra",
 		"sotd": {
@@ -8738,10 +8767,13 @@
 		"name": "",
 		"region": "Antarctica",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Bark",
 			"Basalt",
+			"Coconut",
+			"Coquina",
 			"Crude Oil",
+			"Fir",
 			"FreshWater",
 			"Fronds",
 			"Geode",
@@ -8759,10 +8791,12 @@
 			"Sandstone",
 			"Silver",
 			"Slate",
-			"Tellurite"
+			"Straw",
+			"Tellurite",
+			"Twigs"
 		],
-		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow",
-		"serverCustomDatas2": ",1,1.4,0.33,1.35,0,1,1,1.4,0.33,1.35,0,1,1,1.4,0.33,1.35,0,1",
+		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow",
+		"serverCustomDatas2": ",1,1.4,0.33,1.35,0,1,1,1.4,0.33,1.35,0,1",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Polar",
 		"sotd": {
@@ -8941,11 +8975,12 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Anthracite",
 			"Ash",
 			"Bark",
 			"Basalt",
+			"Coconut",
 			"Coquina",
 			"Elderberry",
 			"Emerald",
@@ -8977,8 +9012,8 @@
 			"Wild Onion",
 			"Wild Pepper"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1",
 		"serverIslandPointsMultiplier": 1.5,
 		"serverTemplate": "Western Temperate",
 		"sotd": {
@@ -9074,6 +9109,7 @@
 			"Chalcedony",
 			"Chert",
 			"Cilantro",
+			"Coconut",
 			"Copper",
 			"Crude Oil",
 			"Elderberry",
@@ -9110,8 +9146,8 @@
 			"Tin",
 			"Twigs"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1",
 		"serverIslandPointsMultiplier": 1.5,
 		"serverTemplate": "Western Temperate",
 		"sotd": {
@@ -9191,7 +9227,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Anthracite",
 			"Ash",
 			"Bamboo",
@@ -9201,6 +9237,7 @@
 			"Calcite",
 			"Carrot Seed",
 			"Chamomile",
+			"Coconut",
 			"Coquina",
 			"Elderberry",
 			"Emerald",
@@ -9240,8 +9277,8 @@
 			"Wild Onion",
 			"Wild Pepper"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1",
 		"serverIslandPointsMultiplier": 1.5,
 		"serverTemplate": "Western Temperate",
 		"sotd": {
@@ -9322,7 +9359,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Anthracite",
 			"Ash",
 			"Bamboo",
@@ -9332,6 +9369,7 @@
 			"Calcite",
 			"Carrot Seed",
 			"Chamomile",
+			"Coconut",
 			"Coquina",
 			"Elderberry",
 			"Emerald",
@@ -9368,8 +9406,8 @@
 			"Wild Onion",
 			"Wild Pepper"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Western Temperate",
 		"sotd": {
@@ -9508,8 +9546,8 @@
 			"Wild Beans",
 			"Wild Rice"
 		],
-		"serverCustomDatas1": ",.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2",
+		"serverCustomDatas1": ",.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Eastern Tropical",
 		"sotd": {
@@ -9590,7 +9628,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Agate",
 			"Bamboo",
 			"Bark",
@@ -9598,6 +9636,7 @@
 			"Blackberry",
 			"Calcite",
 			"Carrot Seed",
+			"Coconut",
 			"Copper",
 			"Coquina",
 			"Fir",
@@ -9631,8 +9670,8 @@
 			"Wild Onion",
 			"Wild Pepper"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Western Temperate",
 		"sotd": {
@@ -9737,8 +9776,8 @@
 			"Straw",
 			"Twigs"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,TreasureBottlesEnabled,DisableClaimFlags,NPCShipSpawnIntervalMult,ChanceForCold,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",2.0,0.5,1.6,1.4,0.0,1,.21,0,0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,TreasureBottlesEnabled,DisableClaimFlags,NPCShipSpawnIntervalMult,ChanceForCold,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",2.0,0.5,1.6,1.4,0.0,1,.21,0,0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Eastern Tropical",
 		"sotd": {
@@ -9819,7 +9858,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Anthracite",
 			"Ash",
 			"Bamboo",
@@ -9829,6 +9868,7 @@
 			"Calcite",
 			"Carrot Seed",
 			"Chamomile",
+			"Coconut",
 			"Coquina",
 			"Elderberry",
 			"Emerald",
@@ -9868,8 +9908,8 @@
 			"Wild Onion",
 			"Wild Pepper"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,TreasureBottlesEnabled,NPCShipSpawnIntervalMult,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",1.35,0.5,1.6,1.4,0.0,0.21,1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,TreasureBottlesEnabled,NPCShipSpawnIntervalMult,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",1.35,0.5,1.6,1.4,0.0,0.21,1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Western Temperate",
 		"sotd": {
@@ -9935,11 +9975,14 @@
 		"name": "",
 		"region": "North Pole",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Bark",
 			"Basalt",
+			"Coconut",
+			"Coquina",
 			"Crude Oil",
 			"Emerald",
+			"Fir",
 			"FreshWater",
 			"Fronds",
 			"Geode",
@@ -9954,10 +9997,12 @@
 			"Pine",
 			"Resin",
 			"Silver",
-			"Slate"
+			"Slate",
+			"Straw",
+			"Twigs"
 		],
-		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow",
-		"serverCustomDatas2": ",1,1.4,0.33,1.35,0,1,1,1.4,0.33,1.35,0,1,1,1.4,0.33,1.35,0,1",
+		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow",
+		"serverCustomDatas2": ",1,1.4,0.33,1.35,0,1,1,1.4,0.33,1.35,0,1",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Polar",
 		"sotd": {
@@ -10034,7 +10079,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Arctic Raspberry",
 			"Bark",
 			"Basalt",
@@ -10043,6 +10088,8 @@
 			"Cactus Seed",
 			"Calcite",
 			"Celery",
+			"Coconut",
+			"Coquina",
 			"Edible Greens Seed",
 			"Fir",
 			"FreshWater",
@@ -10081,8 +10128,8 @@
 			"Wild Turnip",
 			"Yarrow"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,TreasureBottlesEnabled,NPCShipSpawnIntervalMult,FogIntervalMultiplier,RainChanceForSnow,RainIntervalMultiplier,FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",2.0,.5,1.6,1.4,0.0,.21,.36,.5,0.36,0.36,.4,1.5,0.3,1.3,0.4,0.36,0.36,.4,1.5,0.3,1.3,0.4,0.36,0.36,.4,1.5,0.3,1.3,0.4",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,TreasureBottlesEnabled,NPCShipSpawnIntervalMult,FogIntervalMultiplier,RainChanceForSnow,RainIntervalMultiplier,FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",2.0,.5,1.6,1.4,0.0,.21,.36,.5,0.36,0.36,.4,1.5,0.3,1.3,0.4,0.36,0.36,.4,1.5,0.3,1.3,0.4",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Central Tundra",
 		"sotd": {
@@ -10148,11 +10195,14 @@
 		"name": "",
 		"region": "Antarctica",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Bark",
 			"Basalt",
+			"Coconut",
+			"Coquina",
 			"Crude Oil",
 			"Emerald",
+			"Fir",
 			"FreshWater",
 			"Fronds",
 			"Geode",
@@ -10167,10 +10217,12 @@
 			"Pine",
 			"Resin",
 			"Silver",
-			"Slate"
+			"Slate",
+			"Straw",
+			"Twigs"
 		],
-		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow",
-		"serverCustomDatas2": ",1,1.4,0.33,1.35,0,1,1,1.4,0.33,1.35,0,1,1,1.4,0.33,1.35,0,1",
+		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow",
+		"serverCustomDatas2": ",1,1.4,0.33,1.35,0,1,1,1.4,0.33,1.35,0,1",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Polar",
 		"sotd": {
@@ -10346,7 +10398,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Bark",
 			"Basalt",
 			"Bilberry",
@@ -10354,6 +10406,8 @@
 			"Cactus Seed",
 			"Calcite",
 			"Celery",
+			"Coconut",
+			"Coquina",
 			"Fir",
 			"FreshWater",
 			"Fronds",
@@ -10382,8 +10436,8 @@
 			"Wild Turnip",
 			"Yarrow"
 		],
-		"serverCustomDatas1": ",RainIntervalMultiplier,FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0.36,0.36,.4,1.5,0.3,1.3,0.4,0.36,0.36,.4,1.5,0.3,1.3,0.4,0.36,0.36,.4,1.5,0.3,1.3,0.4",
+		"serverCustomDatas1": ",RainIntervalMultiplier,FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0.36,0.36,.4,1.5,0.3,1.3,0.4,0.36,0.36,.4,1.5,0.3,1.3,0.4",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Central Tundra",
 		"sotd": {
@@ -10463,7 +10517,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Anthracite",
 			"Ash",
 			"Bamboo",
@@ -10473,6 +10527,7 @@
 			"Calcite",
 			"Carrot Seed",
 			"Chamomile",
+			"Coconut",
 			"Coquina",
 			"Elderberry",
 			"Emerald",
@@ -10511,8 +10566,8 @@
 			"Wild Onion",
 			"Wild Pepper"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Eastern Temperate",
 		"sotd": {
@@ -10604,6 +10659,7 @@
 			"Carrot Seed",
 			"Chamomile",
 			"Cilantro",
+			"Coconut",
 			"Crude Oil",
 			"Elderberry",
 			"Fir",
@@ -10640,8 +10696,8 @@
 			"Wild Onion",
 			"Wild Pepper"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1.5,
 		"serverTemplate": "Eastern Temperate",
 		"sotd": {
@@ -10720,7 +10776,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Anthracite",
 			"Ash",
 			"Bamboo",
@@ -10771,8 +10827,8 @@
 			"Wild Pepper",
 			"Wild Rice"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1",
 		"serverIslandPointsMultiplier": 1.5,
 		"serverTemplate": "Western Temperate",
 		"sotd": {
@@ -10850,7 +10906,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Bamboo",
 			"Bark",
 			"Basalt",
@@ -10858,6 +10914,7 @@
 			"Carrot Seed",
 			"Chamomile",
 			"Cilantro",
+			"Coconut",
 			"Copper",
 			"Coquina",
 			"Emerald",
@@ -10892,8 +10949,8 @@
 			"Wild Onion",
 			"Wild Pepper"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Western Temperate",
 		"sotd": {
@@ -10970,6 +11027,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
+			"Acai",
 			"Acerola",
 			"Anthracite",
 			"Bamboo",
@@ -10979,6 +11037,7 @@
 			"Carrot Seed",
 			"Chamomile",
 			"Cilantro",
+			"Coconut",
 			"Coquina",
 			"Emerald",
 			"Fir",
@@ -11013,8 +11072,8 @@
 			"Wild Onion",
 			"Wild Pepper"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Western Temperate",
 		"sotd": {
@@ -11142,8 +11201,8 @@
 			"Wild Beans",
 			"Wild Rice"
 		],
-		"serverCustomDatas1": ",.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2",
+		"serverCustomDatas1": ",.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Eastern Tropical",
 		"sotd": {
@@ -11223,7 +11282,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Anthracite",
 			"Ash",
 			"Bamboo",
@@ -11232,6 +11291,7 @@
 			"Blackberry",
 			"Carrot Seed",
 			"Chamomile",
+			"Coconut",
 			"Coquina",
 			"Elderberry",
 			"Emerald",
@@ -11270,8 +11330,8 @@
 			"Wild Onion",
 			"Wild Pepper"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Western Temperate",
 		"sotd": {
@@ -11343,14 +11403,17 @@
 		"name": "",
 		"region": "North Pole",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Arctic Raspberry",
 			"Bamboo",
 			"Bark",
 			"Basalt",
 			"Bilberry",
 			"Chalcedony",
+			"Coconut",
+			"Coquina",
 			"Crude Oil",
+			"Fir",
 			"FreshWater",
 			"Fronds",
 			"Garlic",
@@ -11373,11 +11436,12 @@
 			"Slate",
 			"Straw",
 			"Turnip Seed",
+			"Twigs",
 			"Wild Potato",
 			"Wild Turnip"
 		],
-		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow",
-		"serverCustomDatas2": ",1,1.4,0.33,1.35,0,1,1,1.4,0.33,1.35,0,1,1,1.4,0.33,1.35,0,1",
+		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow",
+		"serverCustomDatas2": ",1,1.4,0.33,1.35,0,1,1,1.4,0.33,1.35,0,1",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Polar",
 		"sotd": {
@@ -11448,7 +11512,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Bark",
 			"Basalt",
 			"Bilberry",
@@ -11456,6 +11520,8 @@
 			"Cactus Seed",
 			"Calcite",
 			"Celery",
+			"Coconut",
+			"Coquina",
 			"Fir",
 			"FreshWater",
 			"Fronds",
@@ -11485,8 +11551,8 @@
 			"Wild Turnip",
 			"Yarrow"
 		],
-		"serverCustomDatas1": ",RainIntervalMultiplier,FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0.36,0.36,.4,1.5,0.3,1.3,0.4,0.36,0.36,.4,1.5,0.3,1.3,0.4,0.36,0.36,.4,1.5,0.3,1.3,0.4",
+		"serverCustomDatas1": ",RainIntervalMultiplier,FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0.36,0.36,.4,1.5,0.3,1.3,0.4,0.36,0.36,.4,1.5,0.3,1.3,0.4",
 		"serverIslandPointsMultiplier": 1.5,
 		"serverTemplate": "Central Tundra",
 		"sotd": {
@@ -11560,10 +11626,13 @@
 		"name": "",
 		"region": "Antarctica",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Bark",
 			"Basalt",
+			"Coconut",
+			"Coquina",
 			"Crude Oil",
+			"Fir",
 			"FreshWater",
 			"Fronds",
 			"Geode",
@@ -11583,10 +11652,11 @@
 			"Silver",
 			"Slate",
 			"Straw",
-			"Tellurite"
+			"Tellurite",
+			"Twigs"
 		],
-		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow",
-		"serverCustomDatas2": ",1,1.4,0.33,1.35,0,1,1,1.4,0.33,1.35,0,1,1,1.4,0.33,1.35,0,1",
+		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow",
+		"serverCustomDatas2": ",1,1.4,0.33,1.35,0,1,1,1.4,0.33,1.35,0,1",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Polar",
 		"sotd": {
@@ -11761,7 +11831,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Bark",
 			"Basalt",
 			"Bilberry",
@@ -11769,6 +11839,7 @@
 			"Cactus Seed",
 			"Calcite",
 			"Celery",
+			"Coconut",
 			"Coquina",
 			"Fir",
 			"FreshWater",
@@ -11798,8 +11869,8 @@
 			"Wild Turnip",
 			"Yarrow"
 		],
-		"serverCustomDatas1": ",RainIntervalMultiplier,FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0.36,0.36,.4,1.5,0.3,1.3,0.4,0.36,0.36,.4,1.5,0.3,1.3,0.4,0.36,0.36,.4,1.5,0.3,1.3,0.4",
+		"serverCustomDatas1": ",RainIntervalMultiplier,FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,FogIntervalMultiplier,RainChanceForSnow,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0.36,0.36,.4,1.5,0.3,1.3,0.4,0.36,0.36,.4,1.5,0.3,1.3,0.4",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Central Tundra",
 		"sotd": {
@@ -11931,8 +12002,8 @@
 			"Wild Pepper",
 			"Wild Rice"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1.5,
 		"serverTemplate": "Eastern Temperate",
 		"sotd": {
@@ -12068,8 +12139,8 @@
 			"Wild Pepper",
 			"Wild Rice"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1.5,
 		"serverTemplate": "Eastern Temperate",
 		"sotd": {
@@ -12151,7 +12222,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Ash",
 			"Bamboo",
 			"Bark",
@@ -12161,6 +12232,7 @@
 			"Carrot Seed",
 			"Chamomile",
 			"Chert",
+			"Coconut",
 			"Copper",
 			"Elderberry",
 			"Fir",
@@ -12200,8 +12272,8 @@
 			"Wild Onion",
 			"Wild Pepper"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1.5,
 		"serverTemplate": "Eastern Temperate",
 		"sotd": {
@@ -12255,8 +12327,8 @@
 		"name": "Central Portal",
 		"region": "Central Waters",
 		"resources": [],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Western Temperate",
 		"sotd": {
@@ -12337,7 +12409,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Ash",
 			"Bamboo",
 			"Bark",
@@ -12345,7 +12417,9 @@
 			"Blackberry",
 			"Carrot Seed",
 			"Chamomile",
+			"Coconut",
 			"Copper",
+			"Coquina",
 			"Elderberry",
 			"Fir",
 			"FreshWater",
@@ -12380,8 +12454,8 @@
 			"Wild Onion",
 			"Wild Pepper"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Western Temperate",
 		"sotd": {
@@ -12510,8 +12584,8 @@
 			"Wild Pepper",
 			"Wild Rice"
 		],
-		"serverCustomDatas1": ",.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2",
+		"serverCustomDatas1": ",.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Eastern Tropical",
 		"sotd": {
@@ -12589,7 +12663,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Ash",
 			"Bamboo",
 			"Bark",
@@ -12597,6 +12671,8 @@
 			"Blackberry",
 			"Carrot Seed",
 			"Chamomile",
+			"Coconut",
+			"Coquina",
 			"Elderberry",
 			"Fir",
 			"FreshWater",
@@ -12631,8 +12707,8 @@
 			"Wild Onion",
 			"Wild Pepper"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",1.25,0.33,1.25,0.5,0.1,1.25,0.33,1.25,0.5,0.1",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Western Temperate",
 		"sotd": {
@@ -12707,13 +12783,16 @@
 		"name": "",
 		"region": "North Pole",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Agate",
 			"Bark",
 			"Basalt",
 			"Brain Coral",
+			"Coconut",
+			"Coquina",
 			"Crude Oil",
 			"Emerald",
+			"Fir",
 			"Fire Coral",
 			"FreshWater",
 			"Fronds",
@@ -12733,10 +12812,12 @@
 			"Seaweed",
 			"Silver",
 			"Slate",
-			"Tellurite"
+			"Straw",
+			"Tellurite",
+			"Twigs"
 		],
-		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow",
-		"serverCustomDatas2": ",1,1.4,0.33,1.35,0,1,1,1.4,0.33,1.35,0,1,1,1.4,0.33,1.35,0,1",
+		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow",
+		"serverCustomDatas2": ",1,1.4,0.33,1.35,0,1,1,1.4,0.33,1.35,0,1",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Polar",
 		"sotd": {
@@ -12811,14 +12892,17 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Arctic Raspberry",
 			"Bamboo",
 			"Bark",
 			"Basalt",
 			"Bilberry",
 			"Chalcedony",
+			"Coconut",
+			"Coquina",
 			"Crude Oil",
+			"Fir",
 			"FreshWater",
 			"Fronds",
 			"Garlic",
@@ -12841,11 +12925,12 @@
 			"Slate",
 			"Straw",
 			"Turnip Seed",
+			"Twigs",
 			"Wild Potato",
 			"Wild Turnip"
 		],
-		"serverCustomDatas1": ",FogIntervalMultiplier,RainChanceForSnow,FogIntervalMultiplier,RainChanceForSnow,FogIntervalMultiplier,RainChanceForSnow",
-		"serverCustomDatas2": ",0.36,.5,0.36,.5,0.36,.5",
+		"serverCustomDatas1": ",FogIntervalMultiplier,RainChanceForSnow,FogIntervalMultiplier,RainChanceForSnow",
+		"serverCustomDatas2": ",0.36,.5,0.36,.5",
 		"serverIslandPointsMultiplier": 1.5,
 		"serverTemplate": "Eastern Tundra",
 		"sotd": {
@@ -12912,11 +12997,14 @@
 		"name": "",
 		"region": "Antarctica",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Bark",
 			"Basalt",
+			"Coconut",
+			"Coquina",
 			"Crude Oil",
 			"Emerald",
+			"Fir",
 			"FreshWater",
 			"Fronds",
 			"Geode",
@@ -12934,10 +13022,12 @@
 			"Resin",
 			"Silver",
 			"Slate",
-			"Tellurite"
+			"Straw",
+			"Tellurite",
+			"Twigs"
 		],
-		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow",
-		"serverCustomDatas2": ",1,1.4,0.33,1.35,0,1,1,1.4,0.33,1.35,0,1,1,1.4,0.33,1.35,0,1",
+		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow",
+		"serverCustomDatas2": ",1,1.4,0.33,1.35,0,1,1,1.4,0.33,1.35,0,1",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Polar",
 		"sotd": {
@@ -13113,13 +13203,16 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Arctic Raspberry",
 			"Bamboo",
 			"Bark",
 			"Basalt",
 			"Bilberry",
 			"Chalcedony",
+			"Coconut",
+			"Coquina",
+			"Fir",
 			"FreshWater",
 			"Fronds",
 			"Garlic",
@@ -13142,11 +13235,12 @@
 			"Slate",
 			"Straw",
 			"Turnip Seed",
+			"Twigs",
 			"Wild Potato",
 			"Wild Turnip"
 		],
-		"serverCustomDatas1": ",FloatsamQualityMultiplier,FogIntervalMultiplier,RainChanceForSnow,FogIntervalMultiplier,RainChanceForSnow,FogIntervalMultiplier,RainChanceForSnow",
-		"serverCustomDatas2": ",1.4,0.36,.5,0.36,.5,0.36,.5",
+		"serverCustomDatas1": ",FloatsamQualityMultiplier,FogIntervalMultiplier,RainChanceForSnow,FogIntervalMultiplier,RainChanceForSnow",
+		"serverCustomDatas2": ",1.4,0.36,.5,0.36,.5",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Eastern Tundra",
 		"sotd": {
@@ -13239,6 +13333,7 @@
 			"Chalcedony",
 			"Chert",
 			"Cilantro",
+			"Coconut",
 			"Copper",
 			"Crude Oil",
 			"Elderberry",
@@ -13278,8 +13373,8 @@
 			"Wild Onion",
 			"Wild Pepper"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Eastern Temperate",
 		"sotd": {
@@ -13360,7 +13455,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Ash",
 			"Bamboo",
 			"Bark",
@@ -13368,6 +13463,8 @@
 			"Blackberry",
 			"Carrot Seed",
 			"Chamomile",
+			"Coconut",
+			"Coquina",
 			"Elderberry",
 			"Fir",
 			"FreshWater",
@@ -13402,8 +13499,8 @@
 			"Wild Onion",
 			"Wild Pepper"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Eastern Temperate",
 		"sotd": {
@@ -13477,13 +13574,14 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Anthracite",
 			"Ash",
 			"Bark",
 			"Basalt",
 			"Carrot Seed",
 			"Chamomile",
+			"Coconut",
 			"Coquina",
 			"Elderberry",
 			"Emerald",
@@ -13520,8 +13618,8 @@
 			"Wild Onion",
 			"Wild Pepper"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Eastern Temperate",
 		"sotd": {
@@ -13649,8 +13747,8 @@
 			"Wild Chick Peas",
 			"Wild Rice"
 		],
-		"serverCustomDatas1": ",RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4",
+		"serverCustomDatas1": ",RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Equatorial",
 		"sotd": {
@@ -13730,7 +13828,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Bark",
 			"Basalt",
 			"Bilberry",
@@ -13784,8 +13882,8 @@
 			"Wild Rice",
 			"Yarrow"
 		],
-		"serverCustomDatas1": ",DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier",
-		"serverCustomDatas2": ",1,1,0,0.75,1,1,0,0.75,1,1,0,0.75",
+		"serverCustomDatas1": ",DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier",
+		"serverCustomDatas2": ",1,1,0,0.75,1,1,0,0.75",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Low Desert",
 		"sotd": {
@@ -13863,7 +13961,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Bark",
 			"Basalt",
 			"Cactus Seed",
@@ -13904,8 +14002,8 @@
 			"Wild Chick Peas",
 			"Wild Rice"
 		],
-		"serverCustomDatas1": ",DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier",
-		"serverCustomDatas2": ",1,1,0,0.75,1,1,0,0.75,1,1,0,0.75",
+		"serverCustomDatas1": ",DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier",
+		"serverCustomDatas2": ",1,1,0,0.75,1,1,0,0.75",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Low Desert",
 		"sotd": {
@@ -13986,7 +14084,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Anthracite",
 			"Ash",
 			"Bamboo",
@@ -13996,6 +14094,7 @@
 			"Calcite",
 			"Carrot Seed",
 			"Chamomile",
+			"Coconut",
 			"Coquina",
 			"Elderberry",
 			"Emerald",
@@ -14035,8 +14134,8 @@
 			"Wild Onion",
 			"Wild Pepper"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Eastern Temperate",
 		"sotd": {
@@ -14117,7 +14216,7 @@
 		"name": "",
 		"region": "North Pole",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Bark",
 			"Basalt",
 			"Bilberry",
@@ -14125,6 +14224,8 @@
 			"Cactus Seed",
 			"Calcite",
 			"Celery",
+			"Coconut",
+			"Coquina",
 			"Crude Oil",
 			"Fir",
 			"FreshWater",
@@ -14159,8 +14260,8 @@
 			"Wild Turnip",
 			"Yarrow"
 		],
-		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow",
-		"serverCustomDatas2": ",1,1.4,0.33,1.35,0,1,1,1.4,0.33,1.35,0,1,1,1.4,0.33,1.35,0,1",
+		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow",
+		"serverCustomDatas2": ",1,1.4,0.33,1.35,0,1,1,1.4,0.33,1.35,0,1",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Polar",
 		"sotd": {
@@ -14233,13 +14334,16 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Arctic Raspberry",
 			"Bamboo",
 			"Bark",
 			"Basalt",
 			"Bilberry",
 			"Chalcedony",
+			"Coconut",
+			"Coquina",
+			"Fir",
 			"FreshWater",
 			"Fronds",
 			"Garlic",
@@ -14263,11 +14367,12 @@
 			"Slate",
 			"Straw",
 			"Turnip Seed",
+			"Twigs",
 			"Wild Potato",
 			"Wild Turnip"
 		],
-		"serverCustomDatas1": ",FogIntervalMultiplier,RainChanceForSnow,FogIntervalMultiplier,RainChanceForSnow,FogIntervalMultiplier,RainChanceForSnow",
-		"serverCustomDatas2": ",0.36,.5,0.36,.5,0.36,.5",
+		"serverCustomDatas1": ",FogIntervalMultiplier,RainChanceForSnow,FogIntervalMultiplier,RainChanceForSnow",
+		"serverCustomDatas2": ",0.36,.5,0.36,.5",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Eastern Tundra",
 		"sotd": {
@@ -14340,12 +14445,14 @@
 		"name": "",
 		"region": "Antarctica",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Arctic Raspberry",
 			"Ash",
 			"Bark",
 			"Basalt",
 			"Calcite",
+			"Coconut",
+			"Coquina",
 			"Crude Oil",
 			"Edible Greens Seed",
 			"Emerald",
@@ -14373,11 +14480,12 @@
 			"Straw",
 			"Sulfur",
 			"Tin",
+			"Twigs",
 			"Wild Greens",
 			"Wild Potato"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow",
-		"serverCustomDatas2": ",1.4,1,1.4,0.33,1.35,0,1,1,1.4,0.33,1.35,0,1,1,1.4,0.33,1.35,0,1",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow",
+		"serverCustomDatas2": ",1.4,1,1.4,0.33,1.35,0,1,1,1.4,0.33,1.35,0,1",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Polar",
 		"sotd": {
@@ -14560,7 +14668,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Anthracite",
 			"Ash",
 			"Bamboo",
@@ -14569,6 +14677,7 @@
 			"Blackberry",
 			"Carrot Seed",
 			"Chamomile",
+			"Coconut",
 			"Coquina",
 			"Elderberry",
 			"Fir",
@@ -14606,8 +14715,8 @@
 			"Wild Onion",
 			"Wild Pepper"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Eastern Temperate",
 		"sotd": {
@@ -14686,13 +14795,15 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Anthracite",
 			"Ash",
 			"Bamboo",
 			"Bark",
 			"Basalt",
 			"Blackberry",
+			"Coconut",
+			"Coquina",
 			"Elderberry",
 			"Emerald",
 			"Fir",
@@ -14728,8 +14839,8 @@
 			"Wild Onion",
 			"Wild Pepper"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Eastern Temperate",
 		"sotd": {
@@ -14873,8 +14984,8 @@
 			"Wild Onion",
 			"Wild Rice"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Eastern Temperate",
 		"sotd": {
@@ -14957,7 +15068,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Agate",
 			"Amethyst",
 			"Anthracite",
@@ -14969,6 +15080,7 @@
 			"Carrot Seed",
 			"Chamomile",
 			"Cobalt",
+			"Coconut",
 			"Copper",
 			"Coquina",
 			"Elderberry",
@@ -15009,8 +15121,8 @@
 			"Wild Onion",
 			"Wild Pepper"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Eastern Temperate",
 		"sotd": {
@@ -15136,8 +15248,8 @@
 			"Twigs",
 			"Wild Chick Peas"
 		],
-		"serverCustomDatas1": ",RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4",
+		"serverCustomDatas1": ",RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Equatorial",
 		"sotd": {
@@ -15216,6 +15328,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
+			"Acai",
 			"Acerola",
 			"Bark",
 			"Basalt",
@@ -15254,8 +15367,8 @@
 			"Twigs",
 			"Wild Chick Peas"
 		],
-		"serverCustomDatas1": ",RainIntervalMultiplier,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0.36,0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4",
+		"serverCustomDatas1": ",RainIntervalMultiplier,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0.36,0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Equatorial",
 		"sotd": {
@@ -15339,7 +15452,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Bark",
 			"Basalt",
 			"Beet Seed",
@@ -15392,8 +15505,8 @@
 			"Wild Onion",
 			"Yarrow"
 		],
-		"serverCustomDatas1": ",DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier",
-		"serverCustomDatas2": ",1,1,0,1.4,0.33,1.4,1,1,0,1.4,0.33,1.4,1,1,0,1.4,0.33,1.4",
+		"serverCustomDatas1": ",DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier",
+		"serverCustomDatas2": ",1,1,0,1.4,0.33,1.4,1,1,0,1.4,0.33,1.4",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "High Desert",
 		"sotd": {
@@ -15482,7 +15595,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Agate",
 			"Anthracite",
 			"Ash",
@@ -15493,6 +15606,7 @@
 			"Brain Coral",
 			"Calcite",
 			"Chamomile",
+			"Coconut",
 			"Coquina",
 			"Elderberry",
 			"Emerald",
@@ -15529,8 +15643,8 @@
 			"Twigs",
 			"Wild Pepper"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Eastern Temperate",
 		"sotd": {
@@ -15596,11 +15710,14 @@
 		"name": "",
 		"region": "North Pole",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Bark",
 			"Basalt",
+			"Coconut",
+			"Coquina",
 			"Crude Oil",
 			"Emerald",
+			"Fir",
 			"FreshWater",
 			"Fronds",
 			"Geode",
@@ -15616,10 +15733,12 @@
 			"Resin",
 			"Sandstone",
 			"Silver",
-			"Slate"
+			"Slate",
+			"Straw",
+			"Twigs"
 		],
-		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow",
-		"serverCustomDatas2": ",1,1.4,0.33,1.35,0,1,1,1.4,0.33,1.35,0,1,1,1.4,0.33,1.35,0,1",
+		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow",
+		"serverCustomDatas2": ",1,1.4,0.33,1.35,0,1,1,1.4,0.33,1.35,0,1",
 		"serverIslandPointsMultiplier": 1.5,
 		"serverTemplate": "Polar",
 		"sotd": {
@@ -15692,7 +15811,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Arctic Raspberry",
 			"Bamboo",
 			"Bark",
@@ -15700,6 +15819,8 @@
 			"Bilberry",
 			"Blackberry",
 			"Chalcedony",
+			"Coconut",
+			"Coquina",
 			"Crude Oil",
 			"Emerald",
 			"Fir",
@@ -15741,8 +15862,8 @@
 			"Wild Potato",
 			"Wild Turnip"
 		],
-		"serverCustomDatas1": ",FogIntervalMultiplier,RainChanceForSnow,FogIntervalMultiplier,RainChanceForSnow,FogIntervalMultiplier,RainChanceForSnow",
-		"serverCustomDatas2": ",0.36,.5,0.36,.5,0.36,.5",
+		"serverCustomDatas1": ",FogIntervalMultiplier,RainChanceForSnow,FogIntervalMultiplier,RainChanceForSnow",
+		"serverCustomDatas2": ",0.36,.5,0.36,.5",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Eastern Tundra",
 		"sotd": {
@@ -15816,11 +15937,14 @@
 		"name": "",
 		"region": "Antarctica",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Bark",
 			"Basalt",
+			"Coconut",
+			"Coquina",
 			"Crude Oil",
 			"Emerald",
+			"Fir",
 			"FreshWater",
 			"Fronds",
 			"Geode",
@@ -15842,10 +15966,11 @@
 			"Silver",
 			"Slate",
 			"Straw",
-			"Tellurite"
+			"Tellurite",
+			"Twigs"
 		],
-		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow",
-		"serverCustomDatas2": ",1,1.4,0.33,1.35,0,1,1,1.4,0.33,1.35,0,1,1,1.4,0.33,1.35,0,1",
+		"serverCustomDatas1": ",ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainChanceForSnow",
+		"serverCustomDatas2": ",1,1.4,0.33,1.35,0,1,1,1.4,0.33,1.35,0,1",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Polar",
 		"sotd": {
@@ -15899,8 +16024,8 @@
 		"name": "",
 		"region": "Maw Water",
 		"resources": [],
-		"serverCustomDatas1": ",SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipSpawnIntervalMult,NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",2,2,1.5,4,.75,4,0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipSpawnIntervalMult,NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",2,2,1.5,4,.75,4,0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Western Tropical",
 		"sotd": {
@@ -15954,8 +16079,8 @@
 		"name": "",
 		"region": "Maw Water",
 		"resources": [],
-		"serverCustomDatas1": ",SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipSpawnIntervalMult,NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",2,2,1.5,4,.75,4,0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipSpawnIntervalMult,NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",2,2,1.5,4,.75,4,0,0.5,0.5,0.5,0,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Western Tropical",
 		"sotd": {
@@ -16036,7 +16161,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Anthracite",
 			"Ash",
 			"Bamboo",
@@ -16045,6 +16170,7 @@
 			"Blackberry",
 			"Carrot Seed",
 			"Chamomile",
+			"Coconut",
 			"Coquina",
 			"Elderberry",
 			"Emerald",
@@ -16081,8 +16207,8 @@
 			"Wild Onion",
 			"Wild Pepper"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1.5,
 		"serverTemplate": "Eastern Temperate",
 		"sotd": {
@@ -16193,8 +16319,8 @@
 			"Wild Onion",
 			"Wild Pepper"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,TreasureBottlesEnabled,DisableClaimFlags,NPCShipSpawnIntervalMult,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",2.0,0.5,1.6,1.5,0.0,1,0.21,0.5,0.5,0.5,0,0.5,0.5,0.5,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,TreasureBottlesEnabled,DisableClaimFlags,NPCShipSpawnIntervalMult,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",2.0,0.5,1.6,1.5,0.0,1,0.21,0.5,0.5,0.5,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1.5,
 		"serverTemplate": "Eastern Temperate",
 		"sotd": {
@@ -16276,7 +16402,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Ash",
 			"Bamboo",
 			"Bark",
@@ -16284,6 +16410,7 @@
 			"Blackberry",
 			"Carrot Seed",
 			"Chamomile",
+			"Coconut",
 			"Elderberry",
 			"Fir",
 			"FreshWater",
@@ -16314,8 +16441,8 @@
 			"Wild Carrot",
 			"Wild Pepper"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1.5,
 		"serverTemplate": "Eastern Temperate",
 		"sotd": {
@@ -16402,7 +16529,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Agate",
 			"Ash",
 			"Bamboo",
@@ -16412,6 +16539,7 @@
 			"Brain Coral",
 			"Carrot Seed",
 			"Chamomile",
+			"Coconut",
 			"Elderberry",
 			"Fir",
 			"Fire Coral",
@@ -16451,8 +16579,8 @@
 			"Wild Onion",
 			"Wild Pepper"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1.5,
 		"serverTemplate": "Eastern Temperate",
 		"sotd": {
@@ -16574,8 +16702,8 @@
 			"Sulfur",
 			"Twigs"
 		],
-		"serverCustomDatas1": ",RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4",
+		"serverCustomDatas1": ",RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4",
 		"serverIslandPointsMultiplier": 1.5,
 		"serverTemplate": "Equatorial",
 		"sotd": {
@@ -16684,8 +16812,8 @@
 			"Straw",
 			"Twigs"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,TreasureBottlesEnabled,DisableClaimFlags,NPCShipSpawnIntervalMult,RainIntervalMultiplier,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",2.0,.5,1.6,1.4,0.0,1,.21,.36,0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,TreasureBottlesEnabled,DisableClaimFlags,NPCShipSpawnIntervalMult,RainIntervalMultiplier,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",2.0,.5,1.6,1.4,0.0,1,.21,.36,0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Equatorial",
 		"sotd": {
@@ -16762,7 +16890,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Bark",
 			"Basalt",
 			"Cactus Seed",
@@ -16803,8 +16931,8 @@
 			"Wild Cactus",
 			"Wild Chick Peas"
 		],
-		"serverCustomDatas1": ",DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier",
-		"serverCustomDatas2": ",1,1,0,0.75,1,1,0,0.75,1,1,0,0.75",
+		"serverCustomDatas1": ",DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier",
+		"serverCustomDatas2": ",1,1,0,0.75,1,1,0,0.75",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Low Desert",
 		"sotd": {
@@ -16885,7 +17013,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Anthracite",
 			"Ash",
 			"Bamboo",
@@ -16894,6 +17022,7 @@
 			"Blackberry",
 			"Carrot Seed",
 			"Chamomile",
+			"Coconut",
 			"Elderberry",
 			"Emerald",
 			"Fir",
@@ -16933,8 +17062,8 @@
 			"Wild Onion",
 			"Wild Pepper"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Eastern Temperate",
 		"sotd": {
@@ -17008,13 +17137,16 @@
 		"name": "",
 		"region": "North Pole",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Arctic Raspberry",
 			"Bamboo",
 			"Bark",
 			"Basalt",
 			"Bilberry",
 			"Chalcedony",
+			"Coconut",
+			"Coquina",
+			"Fir",
 			"FreshWater",
 			"Fronds",
 			"Garlic",
@@ -17038,11 +17170,12 @@
 			"Slate",
 			"Straw",
 			"Turnip Seed",
+			"Twigs",
 			"Wild Potato",
 			"Wild Turnip"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,FogIntervalMultiplier,RainChanceForSnow,FogIntervalMultiplier,RainChanceForSnow,FogIntervalMultiplier,RainChanceForSnow",
-		"serverCustomDatas2": ",2.0,0.5,1.6,1.5,0.36,.5,0.36,.5,0.36,.5",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,FogIntervalMultiplier,RainChanceForSnow,FogIntervalMultiplier,RainChanceForSnow",
+		"serverCustomDatas2": ",2.0,0.5,1.6,1.5,0.36,.5,0.36,.5",
 		"serverIslandPointsMultiplier": 1.5,
 		"serverTemplate": "Eastern Tundra",
 		"sotd": {
@@ -17113,14 +17246,17 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Arctic Raspberry",
 			"Bamboo",
 			"Bark",
 			"Basalt",
 			"Bilberry",
 			"Chalcedony",
+			"Coconut",
+			"Coquina",
 			"Crude Oil",
+			"Fir",
 			"FreshWater",
 			"Fronds",
 			"Garlic",
@@ -17144,11 +17280,12 @@
 			"Slate",
 			"Straw",
 			"Turnip Seed",
+			"Twigs",
 			"Wild Potato",
 			"Wild Turnip"
 		],
-		"serverCustomDatas1": ",FogIntervalMultiplier,RainChanceForSnow,FogIntervalMultiplier,RainChanceForSnow,FogIntervalMultiplier,RainChanceForSnow",
-		"serverCustomDatas2": ",0.36,.5,0.36,.5,0.36,.5",
+		"serverCustomDatas1": ",FogIntervalMultiplier,RainChanceForSnow,FogIntervalMultiplier,RainChanceForSnow",
+		"serverCustomDatas2": ",0.36,.5,0.36,.5",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Eastern Tundra",
 		"sotd": {
@@ -17239,8 +17376,8 @@
 			"Straw",
 			"Wild Potato"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,TreasureBottlesEnabled,DisableClaimFlags,NPCShipSpawnIntervalMult,FogIntervalMultiplier,RainChanceForSnow,FogIntervalMultiplier,RainChanceForSnow,FogIntervalMultiplier,RainChanceForSnow,FogIntervalMultiplier,RainChanceForSnow",
-		"serverCustomDatas2": ",2.0,0.5,1.6,1.4,0,1,.21,.36,.5,0.36,.5,0.36,.5,0.36,.5",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,TreasureBottlesEnabled,DisableClaimFlags,NPCShipSpawnIntervalMult,FogIntervalMultiplier,RainChanceForSnow,FogIntervalMultiplier,RainChanceForSnow,FogIntervalMultiplier,RainChanceForSnow",
+		"serverCustomDatas2": ",2.0,0.5,1.6,1.4,0,1,.21,.36,.5,0.36,.5,0.36,.5",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Eastern Tundra",
 		"sotd": {
@@ -17294,8 +17431,8 @@
 		"name": "",
 		"region": "Maw Water",
 		"resources": [],
-		"serverCustomDatas1": ",SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipSpawnIntervalMult,NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",2,2,1.5,4,.75,4,0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2",
+		"serverCustomDatas1": ",SunkenTreasureQualityMultiplier,FloatsamQualityMultiplier,NPCShipSpawnIntervalMult,NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones,.ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainIntervalMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",2,2,1.5,4,.75,4,0,1.1,0.4,1.1,0.36,0.2,0,1.1,0.4,1.1,0.36,0.2",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Eastern Tropical",
 		"sotd": {
@@ -17389,8 +17526,8 @@
 			"Sugars",
 			"Twigs"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,TreasureBottlesEnabled,DisableClaimFlags,NPCShipSpawnIntervalMult,SunkenTreasureQualityMultiplier,DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier",
-		"serverCustomDatas2": ",3.0,0.5,2,2,0.0,1,0.25,2,1,1,0,1.4,0.33,1.4,1,1,0,1.4,0.33,1.4,1,1,0,1.4,0.33,1.4",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,TreasureBottlesEnabled,DisableClaimFlags,NPCShipSpawnIntervalMult,SunkenTreasureQualityMultiplier,DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier",
+		"serverCustomDatas2": ",3.0,0.5,2,2,0.0,1,0.25,2,1,1,0,1.4,0.33,1.4,1,1,0,1.4,0.33,1.4",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "High Desert",
 		"sotd": {
@@ -17472,7 +17609,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Anthracite",
 			"Ash",
 			"Bamboo",
@@ -17481,6 +17618,7 @@
 			"Blackberry",
 			"Carrot Seed",
 			"Chamomile",
+			"Coconut",
 			"Coquina",
 			"Elderberry",
 			"Emerald",
@@ -17521,8 +17659,8 @@
 			"Wild Onion",
 			"Wild Pepper"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1.5,
 		"serverTemplate": "Eastern Temperate",
 		"sotd": {
@@ -17600,7 +17738,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Ash",
 			"Bamboo",
 			"Bark",
@@ -17608,6 +17746,8 @@
 			"Blackberry",
 			"Carrot Seed",
 			"Chamomile",
+			"Coconut",
+			"Coquina",
 			"Elderberry",
 			"Fir",
 			"FreshWater",
@@ -17641,8 +17781,8 @@
 			"Wild Onion",
 			"Wild Pepper"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,NPCShipSpawnIntervalMult,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",1.1,0.5,1.6,1.5,.21,0.5,0.5,0.5,0,0.5,0.5,0.5,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,NPCShipNumMult,FloatsamQualityMultiplier,NPCShipSpawnIntervalMult,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",1.1,0.5,1.6,1.5,.21,0.5,0.5,0.5,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1.5,
 		"serverTemplate": "Eastern Temperate",
 		"sotd": {
@@ -17722,7 +17862,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Ash",
 			"Bamboo",
 			"Bark",
@@ -17730,6 +17870,8 @@
 			"Blackberry",
 			"Carrot Seed",
 			"Chamomile",
+			"Coconut",
+			"Coquina",
 			"Elderberry",
 			"Fir",
 			"FreshWater",
@@ -17764,8 +17906,8 @@
 			"Wild Onion",
 			"Wild Pepper"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1.5,
 		"serverTemplate": "Eastern Temperate",
 		"sotd": {
@@ -17896,8 +18038,8 @@
 			"Wild Rice",
 			"Yarrow"
 		],
-		"serverCustomDatas1": ",DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier",
-		"serverCustomDatas2": ",1,1,0,0.75,1,1,0,0.75,1,1,0,0.75",
+		"serverCustomDatas1": ",DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier",
+		"serverCustomDatas2": ",1,1,0,0.75,1,1,0,0.75",
 		"serverIslandPointsMultiplier": 1.5,
 		"serverTemplate": "Low Desert",
 		"sotd": {
@@ -17994,6 +18136,7 @@
 			"Coconut",
 			"Copper",
 			"Coquina",
+			"Crude Oil",
 			"Fir",
 			"FreshWater",
 			"Fronds",
@@ -18024,8 +18167,8 @@
 			"Twigs",
 			"Wild Chick Peas"
 		],
-		"serverCustomDatas1": ",RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4",
+		"serverCustomDatas1": ",RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4",
 		"serverIslandPointsMultiplier": 1.5,
 		"serverTemplate": "Equatorial",
 		"sotd": {
@@ -18105,7 +18248,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Bark",
 			"Basalt",
 			"Bilberry",
@@ -18154,8 +18297,8 @@
 			"Wild Rice",
 			"Yarrow"
 		],
-		"serverCustomDatas1": ",RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4",
+		"serverCustomDatas1": ",RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,RainIntervalMultiplier,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0.36,1.25,0.33,1.25,0.4,0.36,1.25,0.33,1.25,0.4",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Equatorial",
 		"sotd": {
@@ -18233,7 +18376,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Bark",
 			"Basalt",
 			"Cactus Seed",
@@ -18277,8 +18420,8 @@
 			"Wild Chick Peas",
 			"Wild Rice"
 		],
-		"serverCustomDatas1": ",DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier",
-		"serverCustomDatas2": ",1,1,0,0.75,1,1,0,0.75,1,1,0,0.75",
+		"serverCustomDatas1": ",DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier,DisableFog,DisableRain,ChanceForCold,FloatsamQualityMultiplier",
+		"serverCustomDatas2": ",1,1,0,0.75,1,1,0,0.75",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Low Desert",
 		"sotd": {
@@ -18359,7 +18502,7 @@
 		"name": "",
 		"region": "Central Waters",
 		"resources": [
-			"Acerola",
+			"Acai",
 			"Anthracite",
 			"Ash",
 			"Bamboo",
@@ -18369,6 +18512,7 @@
 			"Calcite",
 			"Carrot Seed",
 			"Chamomile",
+			"Coconut",
 			"Elderberry",
 			"Emerald",
 			"Fir",
@@ -18406,8 +18550,8 @@
 			"Wild Onion",
 			"Wild Pepper"
 		],
-		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
-		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0,0.5,0.5,0.5,0",
+		"serverCustomDatas1": ",NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones,NPCShipDifficultyMult,NPCShipDifficultyLerp,FloatsamQualityMultiplier,RainChanceForCyclones",
+		"serverCustomDatas2": ",0.5,0.5,0.5,0,0.5,0.5,0.5,0",
 		"serverIslandPointsMultiplier": 1,
 		"serverTemplate": "Eastern Temperate",
 		"sotd": {
