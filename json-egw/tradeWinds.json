@@ -198,16 +198,16 @@
 				"rotation": 49.2363968,
 				"strength": 3,
 				"width": 20000,
-				"worldX": 735813.4,
-				"worldY": 11736830
+				"worldX": 663831,
+				"worldY": 11764516
 			},
 			{
 				"controlPointsDistance": 1284379.38,
 				"rotation": 3.2550354,
 				"strength": 3,
 				"width": 50000,
-				"worldX": 3954272,
-				"worldY": 12029359
+				"worldX": 3946889.25,
+				"worldY": 12169632
 			}
 		],
 		"PathId": 21,
@@ -220,28 +220,28 @@
 	{
 		"Nodes": [
 			{
-				"controlPointsDistance": 241599.484,
-				"rotation": -27.7350082,
+				"controlPointsDistance": 147946.328,
+				"rotation": 11.9504433,
 				"strength": 1,
 				"width": 18000,
-				"worldX": 950118.1,
-				"worldY": 13130654
+				"worldX": 806153.25,
+				"worldY": 12914707
 			},
 			{
 				"controlPointsDistance": 260870.859,
 				"rotation": -11.2008667,
 				"strength": 3,
 				"width": 30000,
-				"worldX": 2057028.5,
-				"worldY": 12993131
+				"worldX": 2062565.63,
+				"worldY": 13126022
 			},
 			{
 				"controlPointsDistance": 391797.3,
 				"rotation": 329.969269,
 				"strength": 3,
 				"width": 30000,
-				"worldX": 4078781.25,
-				"worldY": 13024278
+				"worldX": 4139689.25,
+				"worldY": 13201466
 			},
 			{
 				"controlPointsDistance": 283317.6,
@@ -688,28 +688,28 @@
 				"worldY": 14773700
 			},
 			{
-				"controlPointsDistance": 0,
-				"rotation": 0,
+				"controlPointsDistance": 221769.453,
+				"rotation": -33.5663147,
 				"strength": 1,
 				"width": 35000,
-				"worldX": 12068932,
-				"worldY": 14419077
+				"worldX": 11969264,
+				"worldY": 14690393
 			},
 			{
-				"controlPointsDistance": 0,
-				"rotation": 0,
+				"controlPointsDistance": 200739.359,
+				"rotation": 4.63546,
 				"strength": 3,
 				"width": 30000,
 				"worldX": 14395146,
 				"worldY": 14695164
 			},
 			{
-				"controlPointsDistance": 490639.719,
-				"rotation": 0.7229347,
+				"controlPointsDistance": 808434.3,
+				"rotation": 3.51563644,
 				"strength": 3,
 				"width": 30000,
-				"worldX": 16337851,
-				"worldY": 14749000
+				"worldX": 15811825,
+				"worldY": 14638258
 			},
 			{
 				"controlPointsDistance": 436511.7,

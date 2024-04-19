@@ -12,8 +12,8 @@
 				"PortalName": "Central Portal Exit",
 				"RequiredResource": {},
 				"rotation": 0,
-				"worldX": 4602564,
-				"worldY": 17616216
+				"worldX": 325147.4,
+				"worldY": 14933484
 			}
 		],
 		"PathId": 11,
@@ -205,8 +205,8 @@
 				},
 				"RequiredResourceOr": {},
 				"rotation": 0,
-				"worldX": 3130354.5,
-				"worldY": 12438947
+				"worldX": 2507429.75,
+				"worldY": 10894097
 			},
 			{
 				"PortalName": "Africa to Maw Waters Exit",
@@ -288,8 +288,8 @@
 				"RequiredResource": {},
 				"RequiredResourceOr": {},
 				"rotation": 0,
-				"worldX": 5180815.5,
-				"worldY": 17610530
+				"worldX": 1077818,
+				"worldY": 14927799
 			},
 			{
 				"PortalName": "Lair to Central Exit",
@@ -312,8 +312,8 @@
 				"RequiredResource": {},
 				"RequiredResourceOr": {},
 				"rotation": 0,
-				"worldX": 5330056.5,
-				"worldY": 15658692
+				"worldX": 3901480.75,
+				"worldY": 14252269
 			},
 			{
 				"PortalName": "Central to Tortuga 1",
@@ -336,8 +336,8 @@
 				"RequiredResource": {},
 				"RequiredResourceOr": {},
 				"rotation": 0,
-				"worldX": 4528042,
-				"worldY": 16515212
+				"worldX": 2999800,
+				"worldY": 15079258
 			},
 			{
 				"PortalName": "Central to Tortuga 3",
@@ -360,8 +360,8 @@
 				"RequiredResource": {},
 				"RequiredResourceOr": {},
 				"rotation": 0,
-				"worldX": 5232725,
-				"worldY": 16499638
+				"worldX": 3914893,
+				"worldY": 15045227
 			},
 			{
 				"PortalName": "Central to Tortuga 2",
@@ -427,6 +427,102 @@
 		"PathId": 80,
 		"PathName": "",
 		"PathPortalType": 1,
+		"isLooping": false
+	},
+	{
+		"Nodes": [
+			{
+				"PortalName": "Royale Reef to Sea Hub",
+				"RequiredResource": {},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 3520028.25,
+				"worldY": 15684647
+			},
+			{
+				"PortalName": "Sea Hub to Royale Reef (PvP)",
+				"RequiredResource": {},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 1753143.88,
+				"worldY": 14374506
+			}
+		],
+		"PathId": 96,
+		"PathName": "",
+		"PathPortalType": 0,
+		"isLooping": false
+	},
+	{
+		"Nodes": [
+			{
+				"PortalName": "Huawi to Sea Hub",
+				"RequiredResource": {},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 6620809,
+				"worldY": 16127616
+			},
+			{
+				"PortalName": "Sea Hub to Huawi",
+				"RequiredResource": {},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 2407753.25,
+				"worldY": 14387117
+			}
+		],
+		"PathId": 101,
+		"PathName": "",
+		"PathPortalType": 0,
+		"isLooping": false
+	},
+	{
+		"Nodes": [
+			{
+				"PortalName": "Trackless Waters to Sea Hub",
+				"RequiredResource": {},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 10175633,
+				"worldY": 15859065
+			},
+			{
+				"PortalName": "Sea Hub to Trackless Waters",
+				"RequiredResource": {},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 2415749.25,
+				"worldY": 14995274
+			}
+		],
+		"PathId": 102,
+		"PathName": "",
+		"PathPortalType": 0,
+		"isLooping": false
+	},
+	{
+		"Nodes": [
+			{
+				"PortalName": "Unknown Depths to Sea Hub",
+				"RequiredResource": {},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 15141498,
+				"worldY": 16149762
+			},
+			{
+				"PortalName": "Sea Hub to Unknown Depths",
+				"RequiredResource": {},
+				"RequiredResourceOr": {},
+				"rotation": 0,
+				"worldX": 1748530.75,
+				"worldY": 14995279
+			}
+		],
+		"PathId": 103,
+		"PathName": "",
+		"PathPortalType": 0,
 		"isLooping": false
 	}
 ]

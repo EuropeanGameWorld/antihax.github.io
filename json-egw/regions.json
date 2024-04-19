@@ -1,6 +1,6 @@
 {
 	"Africa": {
-		"MaxX": 3,
+		"MaxX": 1,
 		"MaxY": 9,
 		"MinX": 0,
 		"MinY": 7
@@ -23,11 +23,23 @@
 		"MinX": 3,
 		"MinY": 10
 	},
-	"Kraken's Lair": {
-		"MaxX": 3,
+	"Huawi": {
+		"MaxX": 6,
 		"MaxY": 12,
-		"MinX": 3,
-		"MinY": 12
+		"MinX": 4,
+		"MinY": 11
+	},
+	"Komolos": {
+		"MaxX": 3,
+		"MaxY": 9,
+		"MinX": 2,
+		"MinY": 7
+	},
+	"Kraken's Lair": {
+		"MaxX": 0,
+		"MaxY": 10,
+		"MinX": 0,
+		"MinY": 10
 	},
 	"Maw Water": {
 		"MaxX": 12,
@@ -41,6 +53,12 @@
 		"MinX": 4,
 		"MinY": 0
 	},
+	"Pharos": {
+		"MaxX": 1,
+		"MaxY": 12,
+		"MinX": 0,
+		"MinY": 11
+	},
 	"Rookie Cove": {
 		"MaxX": 3,
 		"MaxY": 3,
@@ -48,9 +66,15 @@
 		"MinY": 0
 	},
 	"Royale Reef": {
-		"MaxX": 2,
+		"MaxX": 3,
 		"MaxY": 12,
-		"MinX": 0,
+		"MinX": 2,
+		"MinY": 11
+	},
+	"Sea Hub": {
+		"MaxX": 1,
+		"MaxY": 10,
+		"MinX": 1,
 		"MinY": 10
 	},
 	"South America": {
@@ -60,21 +84,15 @@
 		"MinY": 4
 	},
 	"Tortuga": {
-		"MaxX": 3,
-		"MaxY": 11,
-		"MinX": 3,
-		"MinY": 11
+		"MaxX": 2,
+		"MaxY": 10,
+		"MinX": 2,
+		"MinY": 10
 	},
 	"Trackless Waters": {
 		"MaxX": 8,
 		"MaxY": 12,
 		"MinX": 7,
-		"MinY": 11
-	},
-	"Uncharted Sea": {
-		"MaxX": 6,
-		"MaxY": 12,
-		"MinX": 4,
 		"MinY": 11
 	},
 	"Unknown Depths": {
