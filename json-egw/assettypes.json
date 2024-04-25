@@ -1849,8 +1849,8 @@
 	},
 	"SM_Chert_settings": {
 		"/Game/Atlas/AtlasCoreBP/Harvest/Flint/FlintHarvestComponent_BASE.FlintHarvestComponent_BASE_C": 336,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Flint/FlintHarvestComponent_Basalt.FlintHarvestComponent_Basalt_C": 8079,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Flint/FlintHarvestComponent_Chert.FlintHarvestComponent_Chert_C": 47429,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Flint/FlintHarvestComponent_Basalt.FlintHarvestComponent_Basalt_C": 6787,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Flint/FlintHarvestComponent_Chert.FlintHarvestComponent_Chert_C": 48721,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/01_NE_Tropical/FlintHarvestComponent_Chert.FlintHarvestComponent_Chert_C": 581,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/10_C_LowDesert/FlintHarvestComponent_Chert.FlintHarvestComponent_Chert_C": 430
 	},
@@ -1899,9 +1899,9 @@
 		"None": 430
 	},
 	"SM_Cobalt_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Metal/MetalHarvestComponent_Cobalt.MetalHarvestComponent_Cobalt_C": 115587,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Metal/MetalHarvestComponent_Cobalt.MetalHarvestComponent_Cobalt_C": 117295,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Metal/MetalHarvestComponent_Copper.MetalHarvestComponent_Copper_C": 39069,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Metal/MetalHarvestComponent_Iron.MetalHarvestComponent_Iron_C": 41268,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Metal/MetalHarvestComponent_Iron.MetalHarvestComponent_Iron_C": 39560,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/04_W_Tropical/MetalHarvestComponent_Cobalt.MetalHarvestComponent_Cobalt_C": 486
 	},
 	"SM_Coconut_Palm_A_settings": {
@@ -2475,10 +2475,10 @@
 		"/Game/Atlas/AtlasCoreBP/Harvest/Sap/SapHarvestComponent_Resin.SapHarvestComponent_Resin_C": 1652
 	},
 	"SM_GraniteA_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Coquina/StoneHarvestComponent_Medium_Coquina.StoneHarvestComponent_Medium_Coquina_C": 22112,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Coquina/StoneHarvestComponent_Medium_Coquina.StoneHarvestComponent_Medium_Coquina_C": 23644,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Freeport/StoneHarvestComponent_Medium_Freeport.StoneHarvestComponent_Medium_Freeport_C": 2664,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Granite/StoneHarvestComponent_Medium_Granite.StoneHarvestComponent_Medium_Granite_C": 24293,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Limestone/StoneHarvestComponent_Medium_Limestone.StoneHarvestComponent_Medium_Limestone_C": 13699,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Limestone/StoneHarvestComponent_Medium_Limestone.StoneHarvestComponent_Medium_Limestone_C": 12167,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Marble/StoneHarvestComponent_Medium_Marble.StoneHarvestComponent_Medium_Marble_C": 10128,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Sandstone/StoneHarvestComponent_Medium_Sandstone.StoneHarvestComponent_Medium_Sandstone_C": 1404,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Medium_Slate.StoneHarvestComponent_Medium_Slate_C": 6085,
@@ -3117,10 +3117,10 @@
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/FreePort/PickupRockHarvestComponent_BASE.PickupRockHarvestComponent_BASE_C": 16736
 	},
 	"SM_PickUp_Rock_Sml_C_4_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Coquina/StoneHarvestComponent_Pickup_Coquina.StoneHarvestComponent_Pickup_Coquina_C": 66274,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Coquina/StoneHarvestComponent_Pickup_Coquina.StoneHarvestComponent_Pickup_Coquina_C": 76222,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Freeport/StoneHarvestComponent_Pickup_Freeport.StoneHarvestComponent_Pickup_Freeport_C": 105528,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Granite/StoneHarvestComponent_Pickup_Granite.StoneHarvestComponent_Pickup_Granite_C": 95694,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Limestone/StoneHarvestComponent_Pickup_Limestone.StoneHarvestComponent_Pickup_Limestone_C": 65963,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Limestone/StoneHarvestComponent_Pickup_Limestone.StoneHarvestComponent_Pickup_Limestone_C": 56015,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Marble/StoneHarvestComponent_Pickup_Marble.StoneHarvestComponent_Pickup_Marble_C": 52956,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Sandstone/StoneHarvestComponent_Pickup_Sandstone.StoneHarvestComponent_Pickup_Sandstone_C": 87627,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Pickup_Slate.StoneHarvestComponent_Pickup_Slate_C": 131890,
@@ -3129,10 +3129,10 @@
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/FreePort/PickupRockHarvestComponent_BASE.PickupRockHarvestComponent_BASE_C": 16800
 	},
 	"SM_PickUp_Rock_Sml_C_5_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Coquina/StoneHarvestComponent_Pickup_Coquina.StoneHarvestComponent_Pickup_Coquina_C": 75949,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Coquina/StoneHarvestComponent_Pickup_Coquina.StoneHarvestComponent_Pickup_Coquina_C": 80221,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Freeport/StoneHarvestComponent_Pickup_Freeport.StoneHarvestComponent_Pickup_Freeport_C": 135600,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Granite/StoneHarvestComponent_Pickup_Granite.StoneHarvestComponent_Pickup_Granite_C": 106601,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Limestone/StoneHarvestComponent_Pickup_Limestone.StoneHarvestComponent_Pickup_Limestone_C": 73344,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Limestone/StoneHarvestComponent_Pickup_Limestone.StoneHarvestComponent_Pickup_Limestone_C": 69072,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Marble/StoneHarvestComponent_Pickup_Marble.StoneHarvestComponent_Pickup_Marble_C": 22509,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Sandstone/StoneHarvestComponent_Pickup_Sandstone.StoneHarvestComponent_Pickup_Sandstone_C": 82058,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Slate/StoneHarvestComponent_Pickup_Slate.StoneHarvestComponent_Pickup_Slate_C": 135956,
@@ -3428,19 +3428,19 @@
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/02_NW_Temperate/BerryHarvestComponent_Schisandra.BerryHarvestComponent_Schisandra_C": 227
 	},
 	"SM_SeaSalt_01_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Preservative/PreservativeHarvestComponent_RockSalt.PreservativeHarvestComponent_RockSalt_C": 7352,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Preservative/PreservativeHarvestComponent_SeaSalt.PreservativeHarvestComponent_SeaSalt_C": 36164,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Preservative/PreservativeHarvestComponent_RockSalt.PreservativeHarvestComponent_RockSalt_C": 5176,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Preservative/PreservativeHarvestComponent_SeaSalt.PreservativeHarvestComponent_SeaSalt_C": 38340,
 		"/Game/Atlas/AtlasCoreBP/Harvest/Stone/Freeport/StoneHarvestComponent_Medium_Freeport.StoneHarvestComponent_Medium_Freeport_C": 2088,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/PreservativeHarvestComponent_Seasalt.PreservativeHarvestComponent_SeaSalt_C": 179
 	},
 	"SM_SeaSalt_02_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Preservative/PreservativeHarvestComponent_RockSalt.PreservativeHarvestComponent_RockSalt_C": 748,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Preservative/PreservativeHarvestComponent_SeaSalt.PreservativeHarvestComponent_SeaSalt_C": 1646,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Preservative/PreservativeHarvestComponent_RockSalt.PreservativeHarvestComponent_RockSalt_C": 240,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Preservative/PreservativeHarvestComponent_SeaSalt.PreservativeHarvestComponent_SeaSalt_C": 2154,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/PreservativeHarvestComponent_Seasalt.PreservativeHarvestComponent_SeaSalt_C": 59
 	},
 	"SM_SeaSalt_03_settings": {
-		"/Game/Atlas/AtlasCoreBP/Harvest/Preservative/PreservativeHarvestComponent_RockSalt.PreservativeHarvestComponent_RockSalt_C": 496,
-		"/Game/Atlas/AtlasCoreBP/Harvest/Preservative/PreservativeHarvestComponent_SeaSalt.PreservativeHarvestComponent_SeaSalt_C": 1176,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Preservative/PreservativeHarvestComponent_RockSalt.PreservativeHarvestComponent_RockSalt_C": 256,
+		"/Game/Atlas/AtlasCoreBP/Harvest/Preservative/PreservativeHarvestComponent_SeaSalt.PreservativeHarvestComponent_SeaSalt_C": 1416,
 		"/Game/Atlas/AtlasCoreBP/HarvestComponents/07_Equator/PreservativeHarvestComponent_Seasalt.PreservativeHarvestComponent_SeaSalt_C": 43
 	},
 	"SM_Seaweed_B_settings": {
