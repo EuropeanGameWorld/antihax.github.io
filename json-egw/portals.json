@@ -68,28 +68,6 @@
 	{
 		"Nodes": [
 			{
-				"PortalName": "Pathfinder Portal 3",
-				"RequiredResource": {},
-				"rotation": 0,
-				"worldX": 5345630.5,
-				"worldY": 252984.281
-			},
-			{
-				"PortalName": "Pathfinder Portal 3 Exit",
-				"RequiredResource": {},
-				"rotation": 0,
-				"worldX": 13725920,
-				"worldY": 8669279
-			}
-		],
-		"PathId": 33,
-		"PathName": "",
-		"PathPortalType": 3,
-		"isLooping": false
-	},
-	{
-		"Nodes": [
-			{
 				"PortalName": "Pathfinder Portal 4",
 				"RequiredResource": {},
 				"rotation": 0,
