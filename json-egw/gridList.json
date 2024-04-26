@@ -15506,7 +15506,7 @@
 				1
 			]
 		},
-		"forceServerRules": 1,
+		"forceServerRules": 3,
 		"name": "",
 		"region": "Antarctica",
 		"resources": [
@@ -15538,7 +15538,7 @@
 			"spawnLimits": [
 				37,
 				5000,
-				140
+				1800
 			]
 		},
 		"sunktreasure": {

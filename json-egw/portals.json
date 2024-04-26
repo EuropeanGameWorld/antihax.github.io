@@ -34,8 +34,8 @@
 				"PortalName": "Pathfinder Portal 1 Exit",
 				"RequiredResource": {},
 				"rotation": 0,
-				"worldX": 10178604,
-				"worldY": 5848470.5
+				"worldX": 10071555,
+				"worldY": 6594135
 			}
 		],
 		"PathId": 31,
@@ -78,8 +78,8 @@
 				"PortalName": "Pathfinder Portal 4 Exit",
 				"RequiredResource": {},
 				"rotation": 0,
-				"worldX": 13033668,
-				"worldY": 5875024.5
+				"worldX": 12918003,
+				"worldY": 6214634
 			}
 		],
 		"PathId": 34,
