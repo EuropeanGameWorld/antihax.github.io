@@ -11440,9 +11440,9 @@
 		"biomes": [
 			"Western Temperate",
 			"Eastern Temperate",
+			"Eastern Temperate Mountain Peak",
 			"Temperate At Land",
-			"Temperate Ocean Water",
-			"Eastern Temperate Mountain Peak"
+			"Temperate Ocean Water"
 		],
 		"flotsam": {
 			"qualityMultiplier": 1.953125,
@@ -13996,7 +13996,7 @@
 				1
 			]
 		},
-		"forceServerRules": 1,
+		"forceServerRules": 3,
 		"name": "",
 		"region": "Antarctica",
 		"resources": [
@@ -14035,7 +14035,7 @@
 			"spawnLimits": [
 				66.5999984741211,
 				5000,
-				140
+				1800
 			]
 		},
 		"sunktreasure": {
@@ -14053,8 +14053,8 @@
 			-1
 		],
 		"DestNorth": [
-			4,
-			6
+			-1,
+			-1
 		],
 		"DestSouth": [
 			-1,
@@ -14663,9 +14663,9 @@
 		],
 		"biomes": [
 			"Eastern Temperate",
+			"Eastern Temperate Mountain Peak",
 			"Temperate At Land",
 			"Temperate Ocean Water",
-			"Eastern Temperate Mountain Peak",
 			"Western Temperate"
 		],
 		"flotsam": {
@@ -15556,8 +15556,8 @@
 			-1
 		],
 		"DestNorth": [
-			4,
-			6
+			-1,
+			-1
 		],
 		"DestSouth": [
 			-1,
@@ -17008,7 +17008,7 @@
 				1
 			]
 		},
-		"forceServerRules": 3,
+		"forceServerRules": 1,
 		"name": "",
 		"region": "Antarctica",
 		"resources": [
@@ -17066,7 +17066,7 @@
 			"spawnLimits": [
 				18.5,
 				5000,
-				1800
+				140
 			]
 		},
 		"sunktreasure": {
@@ -17356,9 +17356,9 @@
 		"biomes": [
 			"Eastern Temperate",
 			"Eastern Tropics",
+			"Eastern Temperate Mountain Peak",
 			"Temperate At Land",
-			"Temperate Ocean Water",
-			"Eastern Temperate Mountain Peak"
+			"Temperate Ocean Water"
 		],
 		"flotsam": {
 			"qualityMultiplier": 3.375,
